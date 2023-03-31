@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T12:23:53.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1nLO1J7hcvV1Y-Lx6GhB" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T12:26:04.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TDsNRGcY6T7mIO-jTtI6" version="21.1.2" type="github">
   <diagram name="Page-1" id="wlMQ9MgtWWcuZJ1gMFMR">
-    <mxGraphModel dx="500" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,6 +161,21 @@
         </mxCell>
         <mxCell id="G1ptl9BatN_mfTDOLDaQ-46" value="GET /currencies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="219" y="371" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1ptl9BatN_mfTDOLDaQ-49" value="Routing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="376" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1ptl9BatN_mfTDOLDaQ-50" value="Query data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="381" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1ptl9BatN_mfTDOLDaQ-51" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="573" y="415" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1ptl9BatN_mfTDOLDaQ-52" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="434" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1ptl9BatN_mfTDOLDaQ-53" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="452" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
