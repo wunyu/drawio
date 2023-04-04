@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T15:32:57.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qjMe3tBkUE4PB-3wz5Xm" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T15:33:46.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ceUyfWUFchSY_ehL20n-" version="21.1.4" type="github">
   <diagram name="Page-1" id="qH8BcJ53iSVUtlZDnKuM">
-    <mxGraphModel dx="3348" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4481" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -652,10 +652,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-179" value="Kafka Connect" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="2912.5" width="250" height="120" as="geometry" />
+          <mxGeometry x="1225.94" y="2913.06" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-180" value="bq sink connector" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontColor=#000000;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="2957.5" width="190" height="40" as="geometry" />
+          <mxGeometry x="1255.94" y="2958.06" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-181" value="API" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="2328.87" y="2882.49" width="120" height="60" as="geometry" />
@@ -718,10 +718,10 @@
           <mxGeometry x="1531.38" y="2972.7999999999997" width="180" height="28" as="geometry" />
         </mxCell>
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-199" value="Cloud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="968" y="3220" width="1492" height="340" as="geometry" />
+          <mxGeometry x="960" y="3220" width="1500" height="340" as="geometry" />
         </mxCell>
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-200" value="OnPrem" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="158" y="3220" width="810" height="342.5" as="geometry" />
+          <mxGeometry x="158" y="3220" width="802" height="342.5" as="geometry" />
         </mxCell>
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nfqfsFK8pvKcQfHWtcoX-202" target="nfqfsFK8pvKcQfHWtcoX-211" edge="1">
           <mxGeometry relative="1" as="geometry" />
