@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T16:19:59.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IlTnanjS0Lb41fuGz3JZ" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T16:20:38.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TC21nUzYazoBsCXHbbJJ" version="21.1.4" type="github">
   <diagram name="Page-1" id="qH8BcJ53iSVUtlZDnKuM">
     <mxGraphModel dx="743" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -528,11 +528,10 @@
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-145" value="Not working because &lt;br&gt;1. forbiddent to import data directly to BQ&lt;br&gt;2. not using Kafka" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="6503.13" y="1985" width="520" height="97.5" as="geometry" />
         </mxCell>
-        <mxCell id="nfqfsFK8pvKcQfHWtcoX-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;fontColor=#FF3333;" parent="1" source="nfqfsFK8pvKcQfHWtcoX-149" target="nfqfsFK8pvKcQfHWtcoX-115" edge="1">
+        <mxCell id="nfqfsFK8pvKcQfHWtcoX-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;fontColor=#FF3333;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="nfqfsFK8pvKcQfHWtcoX-151" target="nfqfsFK8pvKcQfHWtcoX-115" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2000" y="717" />
-              <mxPoint x="2000" y="717" />
+              <mxPoint x="2410" y="717" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1012,8 +1011,8 @@
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;fontColor=#FF3333;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="nfqfsFK8pvKcQfHWtcoX-151" target="nfqfsFK8pvKcQfHWtcoX-116" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2220" y="717" />
-              <mxPoint x="2220" y="790" />
+              <mxPoint x="2240" y="717" />
+              <mxPoint x="2240" y="790" />
             </Array>
             <mxPoint x="1882" y="717.0232558139536" as="sourcePoint" />
             <mxPoint x="2046.37" y="787" as="targetPoint" />
