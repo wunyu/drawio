@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T15:31:26.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0oG25frsdsFKay58VgnD" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T15:32:57.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qjMe3tBkUE4PB-3wz5Xm" version="21.1.4" type="github">
   <diagram name="Page-1" id="qH8BcJ53iSVUtlZDnKuM">
-    <mxGraphModel dx="4845" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3348" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -623,8 +623,16 @@
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nfqfsFK8pvKcQfHWtcoX-173" target="nfqfsFK8pvKcQfHWtcoX-179" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gbna86V1qsHuhGNurPSb-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nfqfsFK8pvKcQfHWtcoX-173" target="gbna86V1qsHuhGNurPSb-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1081" y="3020" />
+              <mxPoint x="1081" y="3020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-173" value="kafka cluster" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="988" y="2942.49" width="170" height="60" as="geometry" />
+          <mxGeometry x="1011.26" y="2943.06" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nfqfsFK8pvKcQfHWtcoX-175" target="nfqfsFK8pvKcQfHWtcoX-173" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -644,10 +652,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-179" value="Kafka Connect" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1194.25" y="2912.5" width="250" height="120" as="geometry" />
+          <mxGeometry x="1230" y="2912.5" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-180" value="bq sink connector" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontColor=#000000;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1224.25" y="2957.5" width="190" height="40" as="geometry" />
+          <mxGeometry x="1260" y="2957.5" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-181" value="API" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="2328.87" y="2882.49" width="120" height="60" as="geometry" />
@@ -933,8 +941,22 @@
         <mxCell id="gbna86V1qsHuhGNurPSb-29" value="Kafka stream" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1023.94" y="2652.5" width="222" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gbna86V1qsHuhGNurPSb-30" value="clean data format" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gbna86V1qsHuhGNurPSb-30" value="clean data" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1045.94" y="2680" width="180" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gbna86V1qsHuhGNurPSb-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gbna86V1qsHuhGNurPSb-36" target="nfqfsFK8pvKcQfHWtcoX-173">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="3040" />
+              <mxPoint x="1120" y="3040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gbna86V1qsHuhGNurPSb-36" value="Kafka stream" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="984.2600000000001" y="3050" width="222" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gbna86V1qsHuhGNurPSb-37" value="clean data" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1006.2600000000001" y="3077.5" width="180" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
