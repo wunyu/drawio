@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T15:38:44.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0ftXarIS-dlwCwq3x2Jb" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T15:40:15.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="pSYMIlQtppK5liSraYLA" version="21.1.4" type="github">
   <diagram name="Page-1" id="qH8BcJ53iSVUtlZDnKuM">
-    <mxGraphModel dx="4010" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3564" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -491,6 +491,14 @@
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-133" value="Cloud Function" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=5;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1378.13" y="3705.18" width="210" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="gbna86V1qsHuhGNurPSb-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nfqfsFK8pvKcQfHWtcoX-134" target="nfqfsFK8pvKcQfHWtcoX-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="907" y="3890" />
+              <mxPoint x="1483" y="3890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nfqfsFK8pvKcQfHWtcoX-134" value="Import data" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="817.0000000000002" y="3756.6300000000006" width="180" height="28.63" as="geometry" />
         </mxCell>
@@ -970,6 +978,9 @@
         </mxCell>
         <mxCell id="gbna86V1qsHuhGNurPSb-45" value="Cosolidate" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1393.13" y="3773.18" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gbna86V1qsHuhGNurPSb-50" value="trigger when finish importing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1108.1299999999999" y="3860" width="175.74" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
