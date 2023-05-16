@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T10:00:59.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="G0svJ4YgL8aBvR8VmoAn" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T10:02:10.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="zAJ0MY3t6NeyDk0-UPeK" version="21.3.2" type="github">
   <diagram name="Page-1" id="FfCRoQGH_oKn72j3upOo">
     <mxGraphModel dx="2117" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="120" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-2" value="Deploy image as one time job on GKE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="410" width="215" height="30" as="geometry" />
+          <mxGeometry x="41.5" y="440" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF05VZKG7TkKXqjTwzGu-3" target="AF05VZKG7TkKXqjTwzGu-4">
           <mxGeometry relative="1" as="geometry" />
@@ -26,13 +26,13 @@
           <mxGeometry x="560" y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-6" value="CD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="35" y="380" width="35" height="20" as="geometry" />
+          <mxGeometry x="41.5" y="410" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-9" value="From&amp;nbsp;&lt;code style=&quot;font-size: 5px;&quot;&gt;harbor.mgm.grouperci.com/common/confluentinc/confluent-cli:2.6.1&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;# Set the http_proxy, https_proxy, and no_proxy environment variables&lt;br style=&quot;font-size: 5px;&quot;&gt;ENV http_proxy=&amp;lt;your_http_proxy_value&amp;gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;ENV https_proxy=&amp;lt;your_https_proxy_value&amp;gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;ENV no_proxy=&amp;lt;your_no_proxy_value&amp;gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;# Create a directory inside the container to hold the source code&lt;br style=&quot;font-size: 5px;&quot;&gt;WORKDIR /app&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;# Copy the source code folder into the container&lt;br style=&quot;font-size: 5px;&quot;&gt;COPY source_code /app/source_code&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;# Add any additional configuration or setup steps as needed&lt;br style=&quot;font-size: 5px;&quot;&gt;# ...&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;# Specify the command to run your script&lt;br style=&quot;font-size: 5px;&quot;&gt;CMD [&quot;bash&quot;, &quot;/app/source_code/your_script.sh&quot;]&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;/code&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=5;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="35" y="210" width="210" height="140" as="geometry" />
+          <mxGeometry x="40" y="210" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-10" value="harbor.mgm.grouperci.com/sirr/sirr-irnxxxxx:x.x.x_b97-R1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="280" y="220" width="240" height="20" as="geometry" />
+          <mxGeometry x="280" y="210" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF05VZKG7TkKXqjTwzGu-12" target="AF05VZKG7TkKXqjTwzGu-3">
           <mxGeometry relative="1" as="geometry" />
@@ -47,16 +47,16 @@
           <mxGeometry x="-67" y="135" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-16" value="eu.gcr.io/irn-73207-dev-1b/sirr-irnxxxxx:x.x.x_b97-R1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="560" y="220" width="220" height="20" as="geometry" />
+          <mxGeometry x="560" y="210" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-18" value="&lt;code style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;apiVersion: apps/v1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;kind: Deployment&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;metadata:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; name: kafka-admin-job&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;spec:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; replicas: 1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; selector:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; matchLabels:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; app: kafka-admin-job&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; template:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; metadata:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; labels:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; app: kafka-admin-job&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; spec:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; containers:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - name: kafka-admin&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; image: gcr.io/&amp;lt;your-project-id&amp;gt;/kafka-admin&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; command: [&quot;bash&quot;, &quot;/app/source_code/your_script.sh&quot;]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; env:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - name: http_proxy&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; value: &amp;lt;your_http_proxy_value&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - name: https_proxy&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; value: &amp;lt;your_https_proxy_value&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - name: no_proxy&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; value: &amp;lt;your_no_proxy_value&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; restartPolicy: Never&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 5px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/code&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=5;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="37.5" y="480" width="210" height="190" as="geometry" />
+          <mxGeometry x="45.25" y="494" width="210" height="190" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-19" value="Dockerfile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="21" y="187" width="80" height="30" as="geometry" />
+          <mxGeometry x="26" y="187" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-20" value="deployment yaml" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="27" y="456" width="110" height="30" as="geometry" />
+          <mxGeometry x="34.75" y="470" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
