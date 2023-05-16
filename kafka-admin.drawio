@@ -1,26 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T09:26:14.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="oW1U5ZM16mItRcOvb2_A" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T09:48:36.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="nb2UMTnK3i61yTsEtJQq" version="21.3.2" type="github">
   <diagram name="Page-1" id="FfCRoQGH_oKn72j3upOo">
-    <mxGraphModel dx="600" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="241" dy="126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AF05VZKG7TkKXqjTwzGu-1" value="CI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="100" width="80" height="30" as="geometry" />
+          <mxGeometry x="80" y="100" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-2" value="Deploy image as JOB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="420" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AF05VZKG7TkKXqjTwzGu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF05VZKG7TkKXqjTwzGu-3" target="AF05VZKG7TkKXqjTwzGu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-3" value="Build image from dockerfile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="150" width="120" height="30" as="geometry" />
+          <mxGeometry x="80" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF05VZKG7TkKXqjTwzGu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF05VZKG7TkKXqjTwzGu-4" target="AF05VZKG7TkKXqjTwzGu-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-4" value="Push image to habor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-5" value="Push image to GCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="150" width="120" height="30" as="geometry" />
+          <mxGeometry x="430" y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-6" value="CD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF05VZKG7TkKXqjTwzGu-9" value="From&amp;nbsp;&lt;code style=&quot;font-size: 4px;&quot;&gt;harbor.mgm.grouperci.com/common/confluentinc/confluent-cli:2.6.1&lt;br&gt;&lt;br&gt;# Set the http_proxy, https_proxy, and no_proxy environment variables&lt;br/&gt;ENV http_proxy=&amp;lt;your_http_proxy_value&amp;gt;&lt;br/&gt;ENV https_proxy=&amp;lt;your_https_proxy_value&amp;gt;&lt;br/&gt;ENV no_proxy=&amp;lt;your_no_proxy_value&amp;gt;&lt;br/&gt;&lt;br/&gt;# Create a directory inside the container to hold the source code&lt;br/&gt;WORKDIR /app&lt;br/&gt;&lt;br/&gt;# Copy the source code folder into the container&lt;br/&gt;COPY source_code /app/source_code&lt;br/&gt;&lt;br/&gt;# Add any additional configuration or setup steps as needed&lt;br/&gt;# ...&lt;br/&gt;&lt;br/&gt;# Specify the command to run your script&lt;br/&gt;CMD [&quot;bash&quot;, &quot;/app/source_code/your_script.sh&quot;]&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/code&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
