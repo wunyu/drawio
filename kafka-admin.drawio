@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T12:04:04.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="Urmhx9WbgvsHSFjv2Jjg" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T12:06:13.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="hajBCzy1dx7QJ8lblVWc" version="21.3.2" type="github">
   <diagram name="Page-1" id="FfCRoQGH_oKn72j3upOo">
-    <mxGraphModel dx="1863" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1526" dy="255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,6 +84,15 @@
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-33" value="Image name example" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="547" y="187" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF05VZKG7TkKXqjTwzGu-35" value="bash scripts" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-232.5" y="190" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AF05VZKG7TkKXqjTwzGu-37" value="resources" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-232.5" y="240" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AF05VZKG7TkKXqjTwzGu-38" value="dockerfile" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-232.5" y="215" width="145" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
