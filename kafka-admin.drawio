@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T16:24:09.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="0tXRUwoei252Ve2DvG-3" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T16:24:31.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="fwvS5lyQ9Li9M1rjrq16" version="21.3.2" type="github">
   <diagram name="Page-1" id="FfCRoQGH_oKn72j3upOo">
     <mxGraphModel dx="1113" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,6 +113,13 @@
         <mxCell id="AF05VZKG7TkKXqjTwzGu-40" value="Gitlab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="320" width="320" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AF05VZKG7TkKXqjTwzGu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF05VZKG7TkKXqjTwzGu-41" target="AF05VZKG7TkKXqjTwzGu-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-41" value="GKE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="200" width="120" height="30" as="geometry" />
         </mxCell>
@@ -133,6 +140,17 @@
         </mxCell>
         <mxCell id="AF05VZKG7TkKXqjTwzGu-50" value="pull image + deploy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="775" y="190" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF05VZKG7TkKXqjTwzGu-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AF05VZKG7TkKXqjTwzGu-51" target="AF05VZKG7TkKXqjTwzGu-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="160" />
+              <mxPoint x="1020" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF05VZKG7TkKXqjTwzGu-51" value="Confluent Cloud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="70" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
