@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T15:08:16.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="1EVg1LpiHG7PTdGOn6pw" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T15:09:13.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="xJ6r2G_xvWRCWU5WPSDQ" version="21.3.4" type="github">
   <diagram name="Page-1" id="FfCRoQGH_oKn72j3upOo">
-    <mxGraphModel dx="1167" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="568" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,8 +224,8 @@
         <mxCell id="bEGk6UHAxvQyJJNPAI2l-11" value="Pipeline" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="584.12" y="797" width="270" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="bEGk6UHAxvQyJJNPAI2l-9" value="Push image to Harbor/GCR&lt;br&gt;(only one time)" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="638.5999999999999" y="833" width="168.24" height="30" as="geometry" />
+        <mxCell id="bEGk6UHAxvQyJJNPAI2l-9" value="Build image then push to Harbor/GCR&lt;br&gt;(only one time)" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="614.12" y="833" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bEGk6UHAxvQyJJNPAI2l-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bEGk6UHAxvQyJJNPAI2l-12" target="bEGk6UHAxvQyJJNPAI2l-14">
           <mxGeometry relative="1" as="geometry" />
@@ -253,6 +253,9 @@
         </mxCell>
         <mxCell id="bEGk6UHAxvQyJJNPAI2l-24" value="commnunicate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="943" y="797" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bEGk6UHAxvQyJJNPAI2l-26" value="Build image to Harbor/GCR&lt;br&gt;(only one time)" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="642.8799999999999" y="734" width="168.24" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
