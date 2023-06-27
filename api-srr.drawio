@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T12:33:46.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="xLZK0UWz57QI_qdfCjtk" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T14:09:05.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="_hUMLKeUK6KMaua0aMTk" version="21.5.0" type="github">
   <diagram name="Page-1" id="_4l-1ofRrqsq-mAHPHhn">
     <mxGraphModel dx="-98" dy="-651" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="3297mJo_9_2KIqG3KwpE-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3297mJo_9_2KIqG3KwpE-28" target="3297mJo_9_2KIqG3KwpE-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3297mJo_9_2KIqG3KwpE-28" value="Cloud Function" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+        <mxCell id="3297mJo_9_2KIqG3KwpE-28" value="Cloud Function/Cloud Run&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2362" y="1314.4899999999998" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3297mJo_9_2KIqG3KwpE-29" value="Endpoints" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="3297mJo_9_2KIqG3KwpE-60" value="(1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1982" y="1360" width="33" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3297mJo_9_2KIqG3KwpE-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/google-cloud-run-icon-512x460-knkc4eyx.png;" vertex="1" parent="1">
+          <mxGeometry x="2548" y="1297.24" width="35.62" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
