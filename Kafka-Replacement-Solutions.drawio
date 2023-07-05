@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T14:36:43.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="5ypEk4TKgFJ9qw5Y85TC" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T14:39:10.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="rRZL1rAYRe0uCvSYuVap" version="21.5.2" type="github">
   <diagram name="Page-1" id="qH8BcJ53iSVUtlZDnKuM">
-    <mxGraphModel dx="1981" dy="578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1335" dy="407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1271,17 +1271,14 @@
         <mxCell id="lsox15EBv2SIoD3FBYJa-5" value="calculate indicators" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="765.66" y="2753" width="147.92" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="Op9OGIm4RKmLv6PD1Cmc-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="255" y="2712" width="53.65" height="72.44" as="geometry" />
-        </mxCell>
-        <mxCell id="Op9OGIm4RKmLv6PD1Cmc-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="Op9OGIm4RKmLv6PD1Cmc-4">
-          <mxGeometry width="53.64999999999999" height="67.99999999999999" as="geometry" />
-        </mxCell>
-        <mxCell id="Op9OGIm4RKmLv6PD1Cmc-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Files.svg;labelBackgroundColor=none;" vertex="1" parent="Op9OGIm4RKmLv6PD1Cmc-4">
-          <mxGeometry x="27.649999999999945" y="43.6019036954087" width="25.999999999999996" height="28.439999999999998" as="geometry" />
-        </mxCell>
         <mxCell id="Op9OGIm4RKmLv6PD1Cmc-5" value="import data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315.23" y="2719.75" width="94.77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Op9OGIm4RKmLv6PD1Cmc-2" value="VM" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="2712" width="53.64999999999999" height="67.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Op9OGIm4RKmLv6PD1Cmc-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Files.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="282.6499999999999" y="2755.6019036954085" width="25.999999999999996" height="28.439999999999998" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
