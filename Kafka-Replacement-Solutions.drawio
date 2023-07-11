@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T13:57:54.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="2YbQ8zvwwlNKnWDRQ-Xs" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T13:58:23.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="oONXprsmOyKPrWNT5T_5" version="21.6.1" type="github">
   <diagram name="Page-1" id="qH8BcJ53iSVUtlZDnKuM">
-    <mxGraphModel dx="2167" dy="686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2903" dy="972" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OWy8E5f0A8C9LA545bWM-1" value="GCP" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="694" y="2016" width="1531.75" height="404" as="geometry" />
+          <mxGeometry x="694" y="2016" width="1369" height="404" as="geometry" />
         </mxCell>
         <mxCell id="GSQR0PSLwKoRlczSL0LH-1" value="Confluent Cloud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;align=left;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="692" y="2016" width="412" height="240" as="geometry" />
