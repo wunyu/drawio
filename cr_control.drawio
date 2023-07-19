@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T08:17:21.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="kdWtwFbXX6tXoOaKHVmC" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T08:20:02.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="qk_ZKAbLJyLe_8eHlRdL" version="21.6.3" type="github">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
     <mxGraphModel dx="1147" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZrKn41sYdKg227bvzolJ-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="245" y="125" width="890" height="420" as="geometry" />
+        </mxCell>
         <mxCell id="ZrKn41sYdKg227bvzolJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZrKn41sYdKg227bvzolJ-1" target="ZrKn41sYdKg227bvzolJ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -32,7 +35,7 @@
           <mxGeometry x="10" y="17.860000000000014" width="30" height="24.28" as="geometry" />
         </mxCell>
         <mxCell id="ZrKn41sYdKg227bvzolJ-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="540" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZrKn41sYdKg227bvzolJ-9" value="Cloud Composer" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;strokeColor=#7EA6E0;spacingLeft=30;" vertex="1" parent="ZrKn41sYdKg227bvzolJ-17">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -89,8 +92,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZrKn41sYdKg227bvzolJ-36" value="Load &lt;br&gt;abnormal result" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="390" width="100" height="30" as="geometry" />
+        <mxCell id="ZrKn41sYdKg227bvzolJ-36" value="Orchestration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="318" y="137" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZrKn41sYdKg227bvzolJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZrKn41sYdKg227bvzolJ-19" target="ZrKn41sYdKg227bvzolJ-25">
           <mxGeometry relative="1" as="geometry">
@@ -105,6 +108,9 @@
         </mxCell>
         <mxCell id="ZrKn41sYdKg227bvzolJ-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#666666;fillColor=#333333;shape=mxgraph.azure.file_2;pointerEvents=1;fontColor=#333333;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="73" y="178" width="21" height="24.27" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrKn41sYdKg227bvzolJ-45" value="Load &lt;br&gt;abnormal result" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="400" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
