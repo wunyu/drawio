@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T12:18:20.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="oTGyDB5eziyxkTp9tJ8i" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T13:25:10.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="VPiK3Oh6b46lYHmMMDCS" version="21.7.5" type="github">
   <diagram name="Page-1" id="wlMQ9MgtWWcuZJ1gMFMR">
-    <mxGraphModel dx="2478" dy="893" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2678" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -451,9 +451,6 @@
         <mxCell id="tpVQHCoVRJya9KaG7lC1-70" value="export currency rate data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="369" y="1684.2399999999998" width="151" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="tpVQHCoVRJya9KaG7lC1-71" value="adjust data format" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="9" y="1687" width="114" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="tpVQHCoVRJya9KaG7lC1-72" value="" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjE0LjY1OTk5OTg0NzQxMjExIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMTQuNjU5OTk5ODQ3NDEyMTEgMjAiPiYjeGE7CTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+JiN4YTsJLnN0MHtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CS5zdDF7ZmlsbDojNjY5ZGY2O30mI3hhOwkuc3Qye2ZpbGw6I2FlY2JmYTt9JiN4YTsJPC9zdHlsZT4mI3hhOwk8c3R5bGU+JiN4YTsJCS5Ee2ZpbGwtcnVsZTpldmVub2RkfSYjeGE7CTwvc3R5bGU+JiN4YTsJPHBhdGggZD0iTTcuMzMgMTUuMzV2LTMuMDFMMCA4LjQ0djMuMDF6bTAgNC42NXYtMy4wMUwwIDEzLjA5djMuMDF6IiBjbGFzcz0ic3QyIEQiLz4mI3hhOwk8cGF0aCBkPSJNMTQuNjYgOC40NGwtNy4zMyAzLjl2My4wMWw3LjMzLTMuOXptMCA0LjY1bC03LjMzIDMuOVYyMGw3LjMzLTMuOXoiIGNsYXNzPSJzdDEgRCIvPiYjeGE7CTxwYXRoIGQ9Ik03LjMzIDB2My4wMWw3LjMzIDMuOVYzLjl6IiBjbGFzcz0ic3QwIEQiLz4mI3hhOwk8cGF0aCBkPSJNMCA2LjkxbDcuMzMtMy45VjBMMCAzLjl6IiBjbGFzcz0iRCBzdDEiLz4mI3hhOwk8cGF0aCBkPSJNNy4zMyAxMC43OVY3Ljc3TDAgMy44N3YzLjAyeiIgY2xhc3M9IkQgc3QyIi8+JiN4YTsJPHBhdGggZD0iTTE0LjY2IDMuODdsLTcuMzMgMy45djMuMDJsNy4zMy0zLjl6IiBjbGFzcz0iRCBzdDEiLz4mI3hhOzwvc3ZnPg==;" vertex="1" parent="1">
           <mxGeometry x="562.83" y="1692.4799999999998" width="30" height="40" as="geometry" />
         </mxCell>
@@ -509,6 +506,18 @@
         </mxCell>
         <mxCell id="tpVQHCoVRJya9KaG7lC1-98" value="?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=48;" vertex="1" parent="1">
           <mxGeometry x="490" y="1751.52" width="45" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tpVQHCoVRJya9KaG7lC1-102" value="adjust data format&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-2.079999999999931" y="1722.72" width="124.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="tpVQHCoVRJya9KaG7lC1-103" value="changer le nom du fichier" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-25.580000000000002" y="1762.72" width="171.17" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="tpVQHCoVRJya9KaG7lC1-104" value="A voir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="474.25" y="1807" width="48" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tpVQHCoVRJya9KaG7lC1-105" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Cloud Run Job" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;arcSize=16;fontColor=#999999;fontStyle=1;strokeColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="372.83" y="1683.48" width="147.17" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
