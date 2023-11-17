@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T09:47:59.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="W0OStyq4WS_-YMtLHJHz" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T09:48:17.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="GpIvSaIcoOMN_Rfv7ImA" version="22.1.2" type="github">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
-    <mxGraphModel dx="1749" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SrexGSmsFlasWCG5Ozxx-180" value="ECLAT" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-180" value="ECLAT" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="416" y="1167" width="712" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="SrexGSmsFlasWCG5Ozxx-179" value="BCR" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-179" value="BCR" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="416" y="959" width="712" height="208" as="geometry" />
         </mxCell>
         <mxCell id="ZrKn41sYdKg227bvzolJ-44" value="Google Cloud Project" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;align=right;fontColor=#333333;" parent="1" vertex="1">
@@ -192,7 +192,7 @@
         <mxCell id="ZrKn41sYdKg227bvzolJ-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#666666;fillColor=#333333;shape=mxgraph.azure.file_2;pointerEvents=1;fontColor=#333333;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="139" y="63" width="26" height="30.05" as="geometry" />
         </mxCell>
-        <mxCell id="HlBgs08ou3TeGE0-wakh-1" value="CMB" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="HlBgs08ou3TeGE0-wakh-1" value="CMB" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-293" y="959" width="709" height="408.25" as="geometry" />
         </mxCell>
         <mxCell id="HlBgs08ou3TeGE0-wakh-6" value="BCR" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
