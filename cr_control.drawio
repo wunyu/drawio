@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T09:38:40.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="PDfHJHw2wwEMyEd357au" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T09:39:26.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="pariTyqWKhs5r7MKy4Ty" version="22.1.2" type="github">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
     <mxGraphModel dx="1306" dy="472" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -596,7 +596,7 @@
         </mxCell>
         <mxCell id="SrexGSmsFlasWCG5Ozxx-131" value="&lt;div style=&quot;color: rgb(58, 71, 78); font-family: &amp;quot;Roboto Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 16px;&quot;&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;rci_bq_raw_irn_76339_cmb_&amp;lt;en&lt;tt style=&quot;border-color: var(--border-color);&quot;&gt;v&amp;gt;&lt;/tt&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;spacingLeft=31;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" collapsed="1" parent="SrexGSmsFlasWCG5Ozxx-102">
           <mxGeometry y="90" width="314" height="30" as="geometry">
-            <mxRectangle y="90" width="314" height="90" as="alternateBounds" />
+            <mxRectangle y="150" width="314" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SrexGSmsFlasWCG5Ozxx-135" value="tb_2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;spacingLeft=43;" vertex="1" collapsed="1" parent="SrexGSmsFlasWCG5Ozxx-131">
@@ -626,7 +626,7 @@
         </mxCell>
         <mxCell id="SrexGSmsFlasWCG5Ozxx-139" value="&lt;div style=&quot;color: rgb(58, 71, 78); font-family: &amp;quot;Roboto Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 16px;&quot;&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;rci_bq_tmp_irn_76339_cmb_&amp;lt;en&lt;tt style=&quot;border-color: var(--border-color);&quot;&gt;v&amp;gt;&lt;/tt&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;spacingLeft=31;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" collapsed="1" parent="SrexGSmsFlasWCG5Ozxx-102">
           <mxGeometry y="120" width="314" height="30" as="geometry">
-            <mxRectangle y="120" width="314" height="90" as="alternateBounds" />
+            <mxRectangle y="180" width="314" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SrexGSmsFlasWCG5Ozxx-140" value="tb_1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;spacingLeft=43;" vertex="1" collapsed="1" parent="SrexGSmsFlasWCG5Ozxx-139">
@@ -675,12 +675,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SrexGSmsFlasWCG5Ozxx-156" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="426" y="1003" width="47" height="26" as="geometry" />
+          <mxGeometry x="405" y="1129" width="47" height="26" as="geometry" />
         </mxCell>
         <mxCell id="SrexGSmsFlasWCG5Ozxx-157" value="Write" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="186" y="1009" width="46" height="26" as="geometry" />
+          <mxGeometry x="208" y="1179" width="46" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="SrexGSmsFlasWCG5Ozxx-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HlBgs08ou3TeGE0-wakh-9" target="SrexGSmsFlasWCG5Ozxx-147">
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="HlBgs08ou3TeGE0-wakh-9" target="SrexGSmsFlasWCG5Ozxx-147">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="453" y="1253" />
@@ -688,13 +688,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SrexGSmsFlasWCG5Ozxx-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SrexGSmsFlasWCG5Ozxx-123" target="SrexGSmsFlasWCG5Ozxx-147">
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="SrexGSmsFlasWCG5Ozxx-123" target="SrexGSmsFlasWCG5Ozxx-147">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="1174" />
               <mxPoint x="244" y="1174" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-161" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="403" y="1182" width="47" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-162" value="Write" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="208" y="1129" width="46" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
