@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T09:26:47.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="XSRLaZUFRwRrlCbaLqGJ" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T09:26:57.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="fZp9J-uK2kfbV-vBzj2N" version="22.1.2" type="github">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
     <mxGraphModel dx="1442" dy="543" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -415,10 +415,10 @@
         <mxCell id="SrexGSmsFlasWCG5Ozxx-57" value="TIERS.dt_bil" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=58;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="SrexGSmsFlasWCG5Ozxx-27">
           <mxGeometry y="900" width="314" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SrexGSmsFlasWCG5Ozxx-56" value="CONTRAT.dtd_eng_fin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=58;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="SrexGSmsFlasWCG5Ozxx-27">
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-56" value="CONTRAT.sech_enca_rcv" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=58;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="SrexGSmsFlasWCG5Ozxx-27">
           <mxGeometry y="930" width="314" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SrexGSmsFlasWCG5Ozxx-39" value="CONTRAT.nb_veh" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=58;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="SrexGSmsFlasWCG5Ozxx-27">
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-39" value="tx_recup" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=58;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="SrexGSmsFlasWCG5Ozxx-27">
           <mxGeometry y="960" width="314" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SrexGSmsFlasWCG5Ozxx-40" value="CONTRAT.dt_prem_imma_vo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=58;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="SrexGSmsFlasWCG5Ozxx-27">
