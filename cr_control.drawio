@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T10:04:03.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="gYPmxbZW50Fwz6ytEm4J" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T10:04:55.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="HtaSR-HIU0Bh_537mim7" version="22.1.2" type="github">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
     <mxGraphModel dx="1706" dy="472" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HlBgs08ou3TeGE0-wakh-1" value="CMB" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="HlBgs08ou3TeGE0-wakh-1" value="CMB" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;arcSize=0;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-404" y="959" width="820" height="705" as="geometry" />
         </mxCell>
         <mxCell id="SrexGSmsFlasWCG5Ozxx-185" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
@@ -821,7 +821,7 @@
         <mxCell id="SrexGSmsFlasWCG5Ozxx-191" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket;" vertex="1" parent="SrexGSmsFlasWCG5Ozxx-189">
           <mxGeometry x="174.5" y="34.5" width="75" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="SrexGSmsFlasWCG5Ozxx-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SrexGSmsFlasWCG5Ozxx-192" target="SrexGSmsFlasWCG5Ozxx-189">
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7EA6E0;" edge="1" parent="1" source="SrexGSmsFlasWCG5Ozxx-192" target="SrexGSmsFlasWCG5Ozxx-189">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="112" y="1530" />
@@ -863,7 +863,7 @@
         <mxCell id="SrexGSmsFlasWCG5Ozxx-205" value="Transfer by Nifi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="-301" y="1395" width="99" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="SrexGSmsFlasWCG5Ozxx-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.767;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SrexGSmsFlasWCG5Ozxx-189">
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.767;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#7EA6E0;" edge="1" parent="1" target="SrexGSmsFlasWCG5Ozxx-189">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="133" y="1565" as="sourcePoint" />
             <mxPoint x="134" y="1500.5" as="targetPoint" />
@@ -874,10 +874,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SrexGSmsFlasWCG5Ozxx-208" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-208" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="62" y="1518" width="47" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="SrexGSmsFlasWCG5Ozxx-209" value="Write" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-209" value="Write" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#7EA6E0;fillColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="136" y="1518" width="46" height="26" as="geometry" />
         </mxCell>
       </root>
