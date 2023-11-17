@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T09:36:26.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="6_UY1RY7PtQ5VWXVcGdU" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T09:38:40.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="PDfHJHw2wwEMyEd357au" version="22.1.2" type="github">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
-    <mxGraphModel dx="1703" dy="679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="472" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,7 +196,7 @@
           <mxGeometry x="1347" y="1202" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SrexGSmsFlasWCG5Ozxx-5" value="&lt;div style=&quot;color: rgb(58, 71, 78); font-family: &amp;quot;Roboto Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 16px;&quot;&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;irn-69504-&amp;lt;env&amp;gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;spacingLeft=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="402" y="1282" width="314" height="90" as="geometry">
+          <mxGeometry x="516" y="1208" width="314" height="90" as="geometry">
             <mxRectangle x="556" y="1295" width="285" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -297,7 +297,7 @@
           <mxGeometry y="90" width="314" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SrexGSmsFlasWCG5Ozxx-25" value="&lt;div style=&quot;color: rgb(58, 71, 78); font-family: &amp;quot;Roboto Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 16px;&quot;&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;irn-72775-&amp;lt;env&amp;gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;spacingLeft=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="402" y="1068" width="314" height="90" as="geometry">
+          <mxGeometry x="526" y="987" width="314" height="90" as="geometry">
             <mxRectangle x="556" y="1295" width="285" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -654,24 +654,46 @@
         <mxCell id="SrexGSmsFlasWCG5Ozxx-146" value="field_3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=58;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="SrexGSmsFlasWCG5Ozxx-143">
           <mxGeometry y="90" width="314" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SrexGSmsFlasWCG5Ozxx-147" target="SrexGSmsFlasWCG5Ozxx-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SrexGSmsFlasWCG5Ozxx-147" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="230" y="946" width="130" height="60" as="geometry" />
+          <mxGeometry x="260" y="1129" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SrexGSmsFlasWCG5Ozxx-148" value="Cloud&#xa;Composer" style="editableCssRules=.*;html=1;fontColor=#999999;shape=image;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;verticalAlign=middle;labelPosition=right;align=left;spacingLeft=20;part=1;points=[];imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjE0LjY0MDAwMDM0MzMyMjc1NCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDE0LjY0MDAwMDM0MzMyMjc1NCAyMCI+JiN4YTsJPHN0eWxlIHR5cGU9InRleHQvY3NzIj4mI3hhOwkuc3Qwe2ZpbGw6I2FlY2JmYTt9JiN4YTsJLnN0MXtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CTwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTAgMGgxNC42M3YzLjk0aC01LjN2NS4zM0g1LjM1VjMuOTZIMHoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMy45NSAxMC42N2g1LjM0VjIwSDUuMzV2LTUuMzVIMFY1LjM3aDMuOTV6TTE0LjY0IDIwSDEwLjdWNS4zNmgzLjk0eiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0wIDE2LjA2aDMuOTJWMjBIMHoiLz4mI3hhOzwvc3ZnPg==;" vertex="1" parent="SrexGSmsFlasWCG5Ozxx-147">
           <mxGeometry width="22" height="30" relative="1" as="geometry">
             <mxPoint x="19" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SrexGSmsFlasWCG5Ozxx-152" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SrexGSmsFlasWCG5Ozxx-102" target="SrexGSmsFlasWCG5Ozxx-25">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="365" y="1186" as="sourcePoint" />
-            <mxPoint x="415" y="1136" as="targetPoint" />
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SrexGSmsFlasWCG5Ozxx-147" target="SrexGSmsFlasWCG5Ozxx-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="253" y="989" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="205" y="1159" />
+              <mxPoint x="205" y="1159" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SrexGSmsFlasWCG5Ozxx-153" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SrexGSmsFlasWCG5Ozxx-123" target="SrexGSmsFlasWCG5Ozxx-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="197" y="1177" as="sourcePoint" />
-            <mxPoint x="412" y="1123" as="targetPoint" />
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-156" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="426" y="1003" width="47" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-157" value="Write" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="186" y="1009" width="46" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HlBgs08ou3TeGE0-wakh-9" target="SrexGSmsFlasWCG5Ozxx-147">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="453" y="1253" />
+              <mxPoint x="453" y="1178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SrexGSmsFlasWCG5Ozxx-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SrexGSmsFlasWCG5Ozxx-123" target="SrexGSmsFlasWCG5Ozxx-147">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="1174" />
+              <mxPoint x="244" y="1174" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
