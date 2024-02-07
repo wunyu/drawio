@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T17:06:48.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="XuY5EXVTtRcQqx48mmY9" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T17:07:11.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="lmvKpNhQ4KIO0ww7N5LG" version="23.1.0" type="github">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
-    <mxGraphModel dx="5276" dy="1586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5756" dy="1586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="-888" y="3065" width="1236" height="323" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-196" value="Receive files" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-891" y="2729" width="1316" height="218" as="geometry" />
+          <mxGeometry x="-891" y="2729" width="1376" height="218" as="geometry" />
         </mxCell>
         <mxCell id="SrexGSmsFlasWCG5Ozxx-180" value="Project ECLAT" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="416" y="1323" width="712" height="341" as="geometry" />
@@ -1431,6 +1431,9 @@
         <mxCell id="cwfafrJIYihZZdiEbrzW-83" value="Add index in csv file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-101" y="2808" width="211" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cwfafrJIYihZZdiEbrzW-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-84" target="cwfafrJIYihZZdiEbrzW-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-84" value="write csv file in ready bucket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="151" y="2808" width="211" height="60" as="geometry" />
         </mxCell>
@@ -1696,6 +1699,9 @@
               <mxPoint x="-1599" y="2839" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cwfafrJIYihZZdiEbrzW-226" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2815.5" width="44" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
