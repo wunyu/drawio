@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T17:39:33.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="EVYjIhSLmvKlVwvN0V6u" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T17:40:51.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="A_syBrUW-K4Z81pMwggZ" version="23.1.0" type="github">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
     <mxGraphModel dx="3977" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="348" y="3752" width="1706" height="385" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-199" value="Data load - preparation" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="819" y="3072" width="545" height="323" as="geometry" />
+          <mxGeometry x="819" y="3072" width="263" height="323" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-197" value="External data verification" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontSize=21;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-888" y="3065" width="1236" height="323" as="geometry" />
@@ -1286,8 +1286,11 @@
         <mxCell id="cwfafrJIYihZZdiEbrzW-19" value="creat init table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="923" y="3636.5" width="129" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cwfafrJIYihZZdiEbrzW-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-24" target="cwfafrJIYihZZdiEbrzW-241">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-24" value="clean data by&lt;font color=&quot;#ff0000&quot;&gt; key&lt;/font&gt;&lt;br&gt;(fail control)&lt;br&gt;(raw, refined, biz data)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="886" y="3265" width="128" height="60" as="geometry" />
+          <mxGeometry x="861" y="3272" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-29" target="cwfafrJIYihZZdiEbrzW-30">
           <mxGeometry relative="1" as="geometry" />
@@ -1704,29 +1707,54 @@
         <mxCell id="cwfafrJIYihZZdiEbrzW-226" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="2815.5" width="44" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="cwfafrJIYihZZdiEbrzW-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-232" target="cwfafrJIYihZZdiEbrzW-233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cwfafrJIYihZZdiEbrzW-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-232" target="cwfafrJIYihZZdiEbrzW-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1987" y="3302" />
+              <mxPoint x="1987" y="3491" />
+              <mxPoint x="470" y="3491" />
+              <mxPoint x="470" y="3666" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-232" value="Is file column count correct" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1731" y="3134" width="264" height="80" as="geometry" />
+          <mxGeometry x="1667" y="3262" width="264" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-233" value="send fail email/notifications to&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1985" y="2957.5" width="129" height="60" as="geometry" />
+          <mxGeometry x="1734.5" y="3101" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwfafrJIYihZZdiEbrzW-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-235" target="cwfafrJIYihZZdiEbrzW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cwfafrJIYihZZdiEbrzW-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-235" target="cwfafrJIYihZZdiEbrzW-250">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-235" value="Is file empty" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="458" y="3262" width="264" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cwfafrJIYihZZdiEbrzW-237" value="Load csv file from ready bucket into one col table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1563" y="3144" width="129" height="60" as="geometry" />
+        <mxCell id="cwfafrJIYihZZdiEbrzW-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-237" target="cwfafrJIYihZZdiEbrzW-232">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cwfafrJIYihZZdiEbrzW-239" value="Load&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1726" y="3279.5" width="129" height="60" as="geometry" />
+        <mxCell id="cwfafrJIYihZZdiEbrzW-237" value="Load csv file from ready bucket into one col table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1423" y="3272" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwfafrJIYihZZdiEbrzW-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-241" target="cwfafrJIYihZZdiEbrzW-237">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-241" value="delete one col&amp;nbsp;table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1399" y="3144" width="138" height="60" as="geometry" />
+          <mxGeometry x="1185" y="3272" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-242" target="cwfafrJIYihZZdiEbrzW-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-242" value="delete one col table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="4568" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwfafrJIYihZZdiEbrzW-250" value="send fail email/notifications to&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525.5" y="3110" width="129" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
