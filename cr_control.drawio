@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T16:10:44.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="8ECCzP9doOYRzkNb_HOP" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T16:13:10.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="NMaUzy10K8t5A-QJfIXN" version="23.1.0" type="github">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
-    <mxGraphModel dx="2554" dy="799" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3580" dy="1084" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1188,16 +1188,15 @@
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-8" target="cwfafrJIYihZZdiEbrzW-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-427" y="3203" as="targetPoint" />
+            <mxPoint x="-831" y="3203" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-8" y="3041" />
-              <mxPoint x="-420" y="3041" />
-              <mxPoint x="-420" y="3302" />
+              <mxPoint x="-824" y="3123" />
+              <mxPoint x="-824" y="3302" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-8" value="wait 1 day" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="3090" width="165" height="60" as="geometry" />
+          <mxGeometry x="-384" y="3084" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-9" target="cwfafrJIYihZZdiEbrzW-43">
           <mxGeometry relative="1" as="geometry">
@@ -1225,23 +1224,35 @@
         <mxCell id="cwfafrJIYihZZdiEbrzW-12" value="load indexed csv file into init table from ready bucket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1281" y="3272" width="268" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwfafrJIYihZZdiEbrzW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-16" target="cwfafrJIYihZZdiEbrzW-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cwfafrJIYihZZdiEbrzW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-16" target="cwfafrJIYihZZdiEbrzW-162">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-367" y="3302" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-16" target="cwfafrJIYihZZdiEbrzW-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-595" y="3207" />
+              <mxPoint x="-301" y="3207" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-16" value="Does BCR data exist ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-323" y="3262" width="264" height="80" as="geometry" />
+          <mxGeometry x="-727" y="3262" width="264" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-17" target="cwfafrJIYihZZdiEbrzW-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-28" y="3206" />
+              <mxPoint x="-301" y="3206" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="cwfafrJIYihZZdiEbrzW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-17" target="cwfafrJIYihZZdiEbrzW-24">
+        <mxCell id="cwfafrJIYihZZdiEbrzW-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-17" target="cwfafrJIYihZZdiEbrzW-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-17" value="Does ECLAT data exist ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="37" y="3262" width="264" height="80" as="geometry" />
+          <mxGeometry x="-160" y="3262" width="264" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-19" target="cwfafrJIYihZZdiEbrzW-34">
           <mxGeometry relative="1" as="geometry" />
@@ -1412,10 +1423,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-89" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-571.5" y="3279.5" width="46" height="45" as="geometry" />
+          <mxGeometry x="-975.5" y="3279.5" width="46" height="45" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-91" value="J+15&lt;br&gt;or&lt;br&gt;manually trigger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="3222" width="103" height="55" as="geometry" />
+          <mxGeometry x="-1004" y="3222" width="103" height="55" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-92" value="move original csv file from in bucket in archive bucket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1767" y="3948" width="138" height="60" as="geometry" />
@@ -1524,16 +1535,16 @@
           <mxGeometry x="2" y="2743" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-145" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-63" y="3277" width="38" height="26" as="geometry" />
+          <mxGeometry x="-467" y="3277" width="38" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-146" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="288" y="3276" width="38" height="26" as="geometry" />
+          <mxGeometry x="101" y="3275" width="38" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-147" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-228" y="3234" width="33" height="26" as="geometry" />
+          <mxGeometry x="-632" y="3234" width="33" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-148" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="132" y="3234" width="33" height="26" as="geometry" />
+          <mxGeometry x="-65" y="3234" width="33" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-149" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1045" y="3608" width="33" height="26" as="geometry" />
@@ -1548,7 +1559,19 @@
           <mxGeometry x="618" y="3677" width="38" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-160" value="Given parameters&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;(DTF_PER_TRT)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-605" y="3338" width="113" height="41" as="geometry" />
+          <mxGeometry x="-1009" y="3338" width="113" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="cwfafrJIYihZZdiEbrzW-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-162" target="cwfafrJIYihZZdiEbrzW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cwfafrJIYihZZdiEbrzW-162" value="Backup BCR data with DTF_PER_TRT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="3272" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwfafrJIYihZZdiEbrzW-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-164" target="cwfafrJIYihZZdiEbrzW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cwfafrJIYihZZdiEbrzW-164" value="Backup ECLAT data with DTF_PER_TRT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="3272" width="165" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
