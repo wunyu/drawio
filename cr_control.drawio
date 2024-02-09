@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T13:58:08.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="7-PHFdbMrEnlrjOzxkTI" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T14:00:09.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="V-bWoX_NAczvQSX-Lgt8" version="23.1.2" type="github">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
     <mxGraphModel dx="3494" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1489,7 +1489,7 @@
         <mxCell id="cwfafrJIYihZZdiEbrzW-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwfafrJIYihZZdiEbrzW-103" target="cwfafrJIYihZZdiEbrzW-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cwfafrJIYihZZdiEbrzW-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwfafrJIYihZZdiEbrzW-103" target="cwfafrJIYihZZdiEbrzW-108" edge="1">
+        <mxCell id="aqibMaWvFeB83bgvitCm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-103" target="aqibMaWvFeB83bgvitCm-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-103" value="is file still missing ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -1499,15 +1499,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-108" value="send success email to &lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130.4" y="5045" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="5045" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwfafrJIYihZZdiEbrzW-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwfafrJIYihZZdiEbrzW-113" target="cwfafrJIYihZZdiEbrzW-108" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="303.4" y="5002" />
-              <mxPoint x="190.4" y="5002" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="aqibMaWvFeB83bgvitCm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-113" target="cwfafrJIYihZZdiEbrzW-108">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-113" value="send Nifi problem email to &lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="243.4" y="4888.5" width="120" height="60" as="geometry" />
@@ -1808,6 +1803,15 @@
         </mxCell>
         <mxCell id="aqibMaWvFeB83bgvitCm-18" value="send datamart succes email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1769" y="4383" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aqibMaWvFeB83bgvitCm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aqibMaWvFeB83bgvitCm-21" target="aqibMaWvFeB83bgvitCm-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aqibMaWvFeB83bgvitCm-21" value="send missing file email to &lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-28.49999999999997" y="4991" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aqibMaWvFeB83bgvitCm-25" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="135.5" y="5004.5" width="33" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
