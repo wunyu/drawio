@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T13:19:57.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="4b3HUS4ZkO4CLro47Vja" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T13:21:03.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="_DT5W1uZtPCLPnUavSRQ" version="23.1.2" type="github">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
-    <mxGraphModel dx="4134" dy="824" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4298" dy="888" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1248,19 +1248,19 @@
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwfafrJIYihZZdiEbrzW-16" target="cwfafrJIYihZZdiEbrzW-162" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-716" y="3308" as="targetPoint" />
+            <mxPoint x="-905" y="3308" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwfafrJIYihZZdiEbrzW-16" target="cwfafrJIYihZZdiEbrzW-271" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-944" y="3242" />
-              <mxPoint x="-651" y="3242" />
+              <mxPoint x="-1133" y="3242" />
+              <mxPoint x="-840" y="3242" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-16" value="Does BCR data exist ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-1076" y="3268" width="264" height="80" as="geometry" />
+          <mxGeometry x="-1265" y="3268" width="264" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwfafrJIYihZZdiEbrzW-17" target="cwfafrJIYihZZdiEbrzW-164" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1268,13 +1268,13 @@
         <mxCell id="cwfafrJIYihZZdiEbrzW-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwfafrJIYihZZdiEbrzW-17" target="cwfafrJIYihZZdiEbrzW-271" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-377" y="3242" />
-              <mxPoint x="-651" y="3242" />
+              <mxPoint x="-566" y="3242" />
+              <mxPoint x="-840" y="3242" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-17" value="Does ECLAT data exist ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-509" y="3268" width="264" height="80" as="geometry" />
+          <mxGeometry x="-698" y="3268" width="264" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cwfafrJIYihZZdiEbrzW-19" target="cwfafrJIYihZZdiEbrzW-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1553,16 +1553,16 @@
           <mxGeometry x="-349" y="2808" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-145" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-816" y="3283" width="38" height="26" as="geometry" />
+          <mxGeometry x="-1005" y="3283" width="38" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-146" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-248" y="3281" width="38" height="26" as="geometry" />
+          <mxGeometry x="-437" y="3281" width="38" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-147" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-981" y="3240" width="33" height="26" as="geometry" />
+          <mxGeometry x="-1170" y="3240" width="33" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-148" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-414" y="3240" width="33" height="26" as="geometry" />
+          <mxGeometry x="-603" y="3240" width="33" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-149" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1045" y="3972" width="33" height="26" as="geometry" />
@@ -1580,10 +1580,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-162" value="Backup BCR data with &lt;font color=&quot;#ff0000&quot;&gt;DTF_PER_TRT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-730" y="3278" width="165" height="60" as="geometry" />
+          <mxGeometry x="-919" y="3278" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aqibMaWvFeB83bgvitCm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-164" target="cwfafrJIYihZZdiEbrzW-215">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-164" value="Backup ECLAT data with &lt;font color=&quot;#ff0000&quot;&gt;DTF_PER_TRT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-184" y="3278" width="165" height="60" as="geometry" />
+          <mxGeometry x="-373" y="3278" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-169" value="" style="strokeColor=#A9C4EB;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="1" vertex="1">
           <mxGeometry x="41" y="2140" width="422" height="265" as="geometry" />
@@ -1654,13 +1657,10 @@
         <mxCell id="cwfafrJIYihZZdiEbrzW-214" value="Replay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=21;fontColor=#000000;dashed=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1641" y="2947" width="83" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="dnXspksE0fBR_7CBflDZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwfafrJIYihZZdiEbrzW-215" target="cwfafrJIYihZZdiEbrzW-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-215" value="Get csv files list from raw bucket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1303" y="3278.5" width="165" height="60" as="geometry" />
+          <mxGeometry x="-115" y="3278" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwfafrJIYihZZdiEbrzW-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cwfafrJIYihZZdiEbrzW-217" target="cwfafrJIYihZZdiEbrzW-215" edge="1">
+        <mxCell id="aqibMaWvFeB83bgvitCm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-217" target="cwfafrJIYihZZdiEbrzW-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-217" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
@@ -1759,10 +1759,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-271" value="send external data not ready email/notifications to&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-716" y="3155" width="129" height="60" as="geometry" />
+          <mxGeometry x="-905" y="3155" width="129" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-272" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-673" y="3090" width="43" height="45" as="geometry" />
+          <mxGeometry x="-862" y="3090" width="43" height="45" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-276" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="615" y="4386" width="38" height="26" as="geometry" />
