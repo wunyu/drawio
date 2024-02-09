@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T14:33:50.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="u-Enjmc5aWF3VJlA_yp6" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T14:34:34.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="lnjbqMgjyUs378pCh5Ws" version="23.1.2" type="github">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
     <mxGraphModel dx="4860" dy="641" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1219,7 +1219,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-7" value="send file from machine onprem to bucket using NiFi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2703" y="3291" width="211" height="60" as="geometry" />
+          <mxGeometry x="-2703" y="3290" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwfafrJIYihZZdiEbrzW-9" target="cwfafrJIYihZZdiEbrzW-242" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1434,17 +1434,12 @@
         <mxCell id="cwfafrJIYihZZdiEbrzW-79" value="send file load succes email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1916" y="4302" width="123" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwfafrJIYihZZdiEbrzW-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cwfafrJIYihZZdiEbrzW-84" target="cwfafrJIYihZZdiEbrzW-16" edge="1">
+        <mxCell id="cwfafrJIYihZZdiEbrzW-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cwfafrJIYihZZdiEbrzW-141" target="cwfafrJIYihZZdiEbrzW-16" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1721.5" y="3319" as="sourcePoint" />
             <mxPoint x="-1345" y="3243" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1563" y="3319" />
-              <mxPoint x="-1563" y="3319" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cwfafrJIYihZZdiEbrzW-84" value="write csv file in ready bucket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1932.5" y="3291" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-92" value="move original csv file from in bucket to archive bucket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1706" y="4302" width="138" height="60" as="geometry" />
@@ -1528,11 +1523,8 @@
         <mxCell id="cwfafrJIYihZZdiEbrzW-127" value="verify files in onprem machine" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-292.6" y="4888.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aqibMaWvFeB83bgvitCm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-141" target="cwfafrJIYihZZdiEbrzW-84">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cwfafrJIYihZZdiEbrzW-141" value="read csv file from in bucket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2213" y="3291" width="211" height="60" as="geometry" />
+        <mxCell id="cwfafrJIYihZZdiEbrzW-141" value="move csv file from in bucket to ready bucket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2093" y="3289" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-145" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1005" y="3294" width="38" height="26" as="geometry" />
@@ -1764,7 +1756,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aqibMaWvFeB83bgvitCm-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-2951" y="3298.5" width="46" height="45" as="geometry" />
+          <mxGeometry x="-2951" y="3297.5" width="46" height="45" as="geometry" />
         </mxCell>
         <mxCell id="aqibMaWvFeB83bgvitCm-34" value="Params : file_name&lt;br&gt;(DTF_PER_TRT, SYS_APL, CD_PA)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1578" y="3318.5" width="215" height="41" as="geometry" />
@@ -1805,7 +1797,7 @@
           <mxGeometry x="1770" y="4368.5" width="215" height="41" as="geometry" />
         </mxCell>
         <mxCell id="aqibMaWvFeB83bgvitCm-59" value="Trigger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2401" y="3289" width="56" height="26" as="geometry" />
+          <mxGeometry x="-2433" y="3292" width="56" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
