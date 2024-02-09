@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T13:45:47.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="H6eh1kWdahSS0PpxkHl6" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T13:46:54.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="5vUzleNG3UBkF42BHqrb" version="23.1.2" type="github">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
-    <mxGraphModel dx="3758" dy="679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4134" dy="824" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1231,13 +1231,6 @@
         <mxCell id="cwfafrJIYihZZdiEbrzW-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cwfafrJIYihZZdiEbrzW-9" target="cwfafrJIYihZZdiEbrzW-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aqibMaWvFeB83bgvitCm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-9" target="cwfafrJIYihZZdiEbrzW-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="615" y="3869" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-9" value="Does&amp;nbsp;major technical control fail ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="483" y="3947" width="264" height="80" as="geometry" />
         </mxCell>
@@ -1245,7 +1238,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-10" value="send email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1124" y="4557" width="211" height="60" as="geometry" />
+          <mxGeometry x="1328" y="4557" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cwfafrJIYihZZdiEbrzW-12" target="cwfafrJIYihZZdiEbrzW-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1333,7 +1326,7 @@
           <mxGeometry x="1602" y="3567" width="268" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-40" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1423" y="4564.5" width="43" height="45" as="geometry" />
+          <mxGeometry x="1627" y="4564.5" width="43" height="45" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwfafrJIYihZZdiEbrzW-43" target="cwfafrJIYihZZdiEbrzW-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1341,7 +1334,7 @@
         <mxCell id="cwfafrJIYihZZdiEbrzW-43" value="delete init table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="761" y="4557" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwfafrJIYihZZdiEbrzW-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwfafrJIYihZZdiEbrzW-44" target="cwfafrJIYihZZdiEbrzW-10" edge="1">
+        <mxCell id="aqibMaWvFeB83bgvitCm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwfafrJIYihZZdiEbrzW-44" target="aqibMaWvFeB83bgvitCm-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwfafrJIYihZZdiEbrzW-44" value="delete init counter table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1808,8 +1801,11 @@
             <mxPoint x="137" y="3018" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aqibMaWvFeB83bgvitCm-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="616.4" y="3911" width="38" height="26" as="geometry" />
+        <mxCell id="aqibMaWvFeB83bgvitCm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aqibMaWvFeB83bgvitCm-15" target="cwfafrJIYihZZdiEbrzW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aqibMaWvFeB83bgvitCm-15" value="write into table with fail control" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1136" y="4557" width="151" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
