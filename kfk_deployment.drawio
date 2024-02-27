@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T09:37:10.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="XO5po0pmNo-X60aTvRBd" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T09:39:24.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="H9ftfbNiP8GV3rS9KUZP" version="23.1.5" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="961" dy="-392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="tyBdn8Una6jYjnqN0pja-44" value="J+10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tyBdn8Una6jYjnqN0pja-45" value="Annouce Modification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tyBdn8Una6jYjnqN0pja-45" value="Annouce Modifications" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="145" y="945" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tyBdn8Una6jYjnqN0pja-46" value="" style="endArrow=classic;html=1;rounded=0;endSize=6;startSize=6;targetPerimeterSpacing=0;" edge="1" parent="1">
@@ -29,16 +29,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tyBdn8Una6jYjnqN0pja-49" value="Deployment in prod" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="935" width="60" height="30" as="geometry" />
+          <mxGeometry x="1030" y="1100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tyBdn8Una6jYjnqN0pja-54" value="Development + Deployment + debug in DEV" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="362" y="945" width="200" height="30" as="geometry" />
+        <mxCell id="tyBdn8Una6jYjnqN0pja-54" value="Development Deployment Debug&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="413" y="945" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tyBdn8Una6jYjnqN0pja-55" value="J+12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="1020" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tyBdn8Una6jYjnqN0pja-57" value="Deployment + debug in stage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1080" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tyBdn8Una6jYjnqN0pja-58" value="J+7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="1020" width="60" height="30" as="geometry" />
@@ -96,6 +93,24 @@
             <mxPoint x="100" y="960" as="sourcePoint" />
             <mxPoint x="130" y="960" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tyBdn8Una6jYjnqN0pja-74" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;endSize=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="959.86" as="sourcePoint" />
+            <mxPoint x="870" y="959.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyBdn8Una6jYjnqN0pja-75" value="DEV" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="432" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tyBdn8Una6jYjnqN0pja-76" value="STAGE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tyBdn8Una6jYjnqN0pja-77" value="PROD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tyBdn8Una6jYjnqN0pja-78" value="Development Deployment Debug&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="711" y="945" width="98" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
