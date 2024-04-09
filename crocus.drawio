@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T09:51:47.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="9iYHSID88zr3cYVcV2BK" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T09:52:02.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="HgmG7gKNp8sq1uWBAMXZ" version="24.2.2" type="github">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
-    <mxGraphModel dx="4984" dy="-1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6203" dy="-896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-605" y="4170" width="1705" height="151" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-194" value="Data load - data control" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1780" y="3060" width="1440" height="430" as="geometry" />
+          <mxGeometry x="1780" y="2980" width="1440" height="430" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-2" value="Check file column count" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-605" y="2971" width="1235" height="323" as="geometry" />
@@ -293,7 +293,7 @@
             <mxPoint x="1846.999999999999" y="3146.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1370" y="3826" />
-              <mxPoint x="1370" y="3159" />
+              <mxPoint x="1370" y="3079" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -310,7 +310,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-204" value="Does major data control fail ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1816" y="3119" width="264" height="80" as="geometry" />
+          <mxGeometry x="1816" y="3039" width="264" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-207" target="4m1ToxqM0PlaWDM-n7NB-209">
           <mxGeometry relative="1" as="geometry" />
@@ -319,56 +319,56 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-207" value="Does minor data control fail ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2124.5" y="3119" width="264" height="80" as="geometry" />
+          <mxGeometry x="2124.5" y="3039" width="264" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-209" target="4m1ToxqM0PlaWDM-n7NB-211">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-209" value="write into table with fail control" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2182" y="3250" width="150" height="60" as="geometry" />
+          <mxGeometry x="2182" y="3170" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-211" target="4m1ToxqM0PlaWDM-n7NB-213">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-211" value="create final table in dataset refined" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2450" y="3129" width="138" height="60" as="geometry" />
+          <mxGeometry x="2450" y="3049" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-213" target="4m1ToxqM0PlaWDM-n7NB-215">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-213" value="load data from normalized table into dataset refined" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2648" y="3129" width="138" height="60" as="geometry" />
+          <mxGeometry x="2648" y="3049" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-215" target="4m1ToxqM0PlaWDM-n7NB-217">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3043" y="3159" as="targetPoint" />
+            <mxPoint x="3043" y="3079" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-215" value="delete normalized table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2845" y="3129" width="138" height="60" as="geometry" />
+          <mxGeometry x="2845" y="3049" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-217" value="send data contol succes email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3050" y="3129" width="123" height="60" as="geometry" />
+          <mxGeometry x="3050" y="3049" width="123" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-225" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1947" y="3203" width="38" height="26" as="geometry" />
+          <mxGeometry x="1947" y="3123" width="38" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-226" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="3209" width="38" height="26" as="geometry" />
+          <mxGeometry x="2260" y="3129" width="38" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-227" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2375" y="3133.5" width="33" height="26" as="geometry" />
+          <mxGeometry x="2375" y="3053.5" width="33" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-228" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2069" y="3133.5" width="33" height="26" as="geometry" />
+          <mxGeometry x="2069" y="3053.5" width="33" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-217" target="4m1ToxqM0PlaWDM-n7NB-236">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3111.5" y="3335" as="sourcePoint" />
+            <mxPoint x="3111.5" y="3255" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-236" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3090" y="3420" width="43" height="45" as="geometry" />
+          <mxGeometry x="3090" y="3340" width="43" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-237" target="4m1ToxqM0PlaWDM-n7NB-278">
           <mxGeometry relative="1" as="geometry" />
@@ -383,7 +383,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-251" value="write into table with fail control" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1872.5" y="3250" width="151" height="60" as="geometry" />
+          <mxGeometry x="1872.5" y="3170" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-257" target="4m1ToxqM0PlaWDM-n7NB-258">
           <mxGeometry relative="1" as="geometry" />
@@ -418,7 +418,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-266" value="send fail email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1886.5" y="3349" width="123" height="60" as="geometry" />
+          <mxGeometry x="1886.5" y="3269" width="123" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-269" target="4m1ToxqM0PlaWDM-n7NB-270">
           <mxGeometry relative="1" as="geometry" />
@@ -433,7 +433,7 @@
           <mxGeometry x="-398.5" y="3994" width="123" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-274" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1926.5" y="3440" width="43" height="45" as="geometry" />
+          <mxGeometry x="1926.5" y="3360" width="43" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-278" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900.5" y="3900" width="43" height="45" as="geometry" />
@@ -494,7 +494,7 @@
           <mxGeometry x="-560" y="3879" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-308" value="data importation mapping table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="2652.5" y="3229" width="129" height="30" as="geometry" />
+          <mxGeometry x="2652.5" y="3149" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-310" value="Params : &lt;font color=&quot;#ff0000&quot;&gt;????&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1162.5" y="3827" width="100" height="30" as="geometry" />
