@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T09:27:56.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="r7P8-ZaS09VmYTu0gp8O" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T09:28:15.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="34IKeHG_hYPDEtwZxQy5" version="24.2.2" type="github">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
     <mxGraphModel dx="5181" dy="-1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-255" value="Data load - clean" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-605" y="4170" width="1705" height="151" as="geometry" />
+        </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-194" value="Data load - data control" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1680" y="2954" width="1705" height="536" as="geometry" />
         </mxCell>
@@ -103,6 +106,14 @@
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="3896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-46" target="4m1ToxqM0PlaWDM-n7NB-263">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="4130" />
+              <mxPoint x="-151" y="4130" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-46" value="load data from init table to normalized table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -460,9 +471,6 @@
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-251" value="write into table with fail control" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1872.5" y="3250" width="151" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-255" value="Data load - clean" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-605" y="4170" width="1705" height="151" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-257" target="4m1ToxqM0PlaWDM-n7NB-258">
           <mxGeometry relative="1" as="geometry" />
