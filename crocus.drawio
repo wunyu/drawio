@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T09:41:54.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="K_2c_DMiHoCJJLGrh_d4" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T09:42:10.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="jBbX1HWS9qSx0afDOjVB" version="24.2.2" type="github">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
     <mxGraphModel dx="4984" dy="-1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -492,19 +492,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-257" value="send email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="373" y="4215" width="211" height="60" as="geometry" />
+          <mxGeometry x="373" y="4216" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-258" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="672" y="4222.5" width="43" height="45" as="geometry" />
+          <mxGeometry x="672" y="4223.5" width="43" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-260" target="4m1ToxqM0PlaWDM-n7NB-261">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-260" value="delete init table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-6" y="4215" width="138" height="60" as="geometry" />
+          <mxGeometry x="-6" y="4216" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-261" value="delete init counter table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="184" y="4215" width="138" height="60" as="geometry" />
+          <mxGeometry x="184" y="4216" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-263" target="4m1ToxqM0PlaWDM-n7NB-260">
           <mxGeometry relative="1" as="geometry" />
@@ -528,6 +528,9 @@
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-269" value="write into table with fail control" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-412.5" y="3900" width="151" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-270" target="4m1ToxqM0PlaWDM-n7NB-304">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-270" value="send datamart succes email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-398.5" y="3999" width="123" height="60" as="geometry" />
@@ -585,6 +588,13 @@
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-299" target="4m1ToxqM0PlaWDM-n7NB-237">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-304" target="4m1ToxqM0PlaWDM-n7NB-263">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-337" y="4246" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-304" value="delete separated fixed width file from ready bucket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-406" y="4080" width="138" height="60" as="geometry" />
