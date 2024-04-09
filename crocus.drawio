@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T09:50:41.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="2j2F1hudOB-7E7WRMxNa" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T09:51:04.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="TFWsPGeO5Rs7L8DPtwRA" version="24.2.2" type="github">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
-    <mxGraphModel dx="4984" dy="-1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4692" dy="-1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -347,7 +347,7 @@
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-215" value="delete normalized table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2845" y="3129" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-217" value="send succes email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-217" value="send data contol succes email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3050" y="3129" width="123" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-225" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
