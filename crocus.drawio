@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T09:19:58.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="9AC_rcKF584pN_nX9llK" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T09:20:21.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="UVLiCN7m4CzvDurYeWzy" version="24.2.2" type="github">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
     <mxGraphModel dx="5181" dy="-1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -436,8 +436,13 @@
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-215" value="delete normalized table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2838" y="3129" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-217" target="4m1ToxqM0PlaWDM-n7NB-223">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-217" target="4m1ToxqM0PlaWDM-n7NB-232">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3309.5" y="3250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3309" y="3280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-217" value="send file load succes email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3248" y="3129" width="123" height="60" as="geometry" />
@@ -455,12 +460,6 @@
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-221" value="delete one col table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1879" y="3385" width="138" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-223" target="4m1ToxqM0PlaWDM-n7NB-232">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-223" value="start datamarte and aggre DAG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3248" y="3250" width="123" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-224" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2921" y="3259.3599999999997" width="39.44" height="41.27" as="geometry" />
@@ -488,12 +487,6 @@
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-232" value="send datamart succes email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;who&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3045" y="3250" width="123" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-233" value="Params : file_name&lt;br&gt;(DTF_PER_TRT, SYS_APL, CD_PA)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3099" y="3195.5" width="215" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-234" value="Trigger DAG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3302" y="3207" width="85" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-236" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="875" y="4190" width="43" height="45" as="geometry" />
