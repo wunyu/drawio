@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T15:31:56.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="REePHEz25BQpne61bEMf" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T15:32:54.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="V_f0y3nH6O4-tPpwbXd8" version="24.6.2" type="github">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
     <mxGraphModel dx="4439" dy="-667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -761,7 +761,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v7_lB3ds1pJL1FcqjlOJ-58" value="DAG - Load REFINED data&lt;div&gt;(control)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="v7_lB3ds1pJL1FcqjlOJ-58" value="DAG - Load REFINED data&lt;div&gt;(verify if data are all collected)&lt;br&gt;(control)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="302" y="2230" width="175" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v7_lB3ds1pJL1FcqjlOJ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC6600;" edge="1" parent="1" source="v7_lB3ds1pJL1FcqjlOJ-41" target="v7_lB3ds1pJL1FcqjlOJ-57">
