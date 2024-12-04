@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.3">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
-    <mxGraphModel dx="4496" dy="-538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4986" dy="-278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
             <mxPoint x="-337" y="3896" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-15" value="Does&amp;nbsp;major technical control fail ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-15" value="Is there any blocking tech control fail ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-469" y="3786" width="264" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4m1ToxqM0PlaWDM-n7NB-19" target="4m1ToxqM0PlaWDM-n7NB-37" edge="1">
@@ -238,8 +238,8 @@
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-167" value="send email notifications to &lt;b style=&quot;&quot;&gt;team srr&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2204" y="3470" width="129" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-171" value="control result table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="3849" width="129" height="30" as="geometry" />
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-171" value="synthese&amp;nbsp;control result table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="3909" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4m1ToxqM0PlaWDM-n7NB-237" target="4m1ToxqM0PlaWDM-n7NB-204" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -863,12 +863,6 @@
         <mxCell id="ptTGNwOkgOPoawGa54tD-37" value="set xcom var : code operation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-482.5" y="3171" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ptTGNwOkgOPoawGa54tD-40" value="delete init table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="26.370000000000005" y="3171" width="138" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ptTGNwOkgOPoawGa54tD-41" value="load file from one col table to init table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="186" y="3171" width="129" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-42" value="run tech control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="3170" width="129" height="60" as="geometry" />
         </mxCell>
@@ -889,6 +883,9 @@
         </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-50" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="715" y="3130" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ptTGNwOkgOPoawGa54tD-52" value="detail control result table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="3939" width="129" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
