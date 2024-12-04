@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.3">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
-    <mxGraphModel dx="5901" dy="207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6873" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ptTGNwOkgOPoawGa54tD-92" value="DAG - LOAD REFINED DATA (scheduled)" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;fontStyle=1;spacingLeft=12;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="2900" width="1710" height="1450" as="geometry" />
+          <mxGeometry x="-638" y="4350" width="1768" height="490" as="geometry" />
         </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-90" value="DAG - LOAD RAW FILE" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;fontStyle=1;spacingLeft=12;" vertex="1" parent="1">
           <mxGeometry x="-640" y="2900" width="1770" height="1450" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="-605" y="4170" width="1708" height="151" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-194" value="Data load - data control" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1264" y="2971" width="1440" height="430" as="geometry" />
+          <mxGeometry x="-605" y="4390" width="1715" height="430" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-2" value="Data load - preparation" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-605" y="2971" width="1708" height="323" as="geometry" />
@@ -233,24 +233,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-211" value="create final table in dataset refined" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1934" y="3040" width="138" height="60" as="geometry" />
+          <mxGeometry x="-189" y="4459" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4m1ToxqM0PlaWDM-n7NB-213" target="4m1ToxqM0PlaWDM-n7NB-215" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-213" value="load data from normalized table into dataset refined" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2132" y="3040" width="138" height="60" as="geometry" />
+          <mxGeometry x="9" y="4459" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4m1ToxqM0PlaWDM-n7NB-215" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2534" y="3070" as="targetPoint" />
+            <mxPoint x="411" y="4489" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-215" value="delete normalized table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2329" y="3040" width="138" height="60" as="geometry" />
+          <mxGeometry x="206" y="4459" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-236" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2530" y="3047.5" width="43" height="45" as="geometry" />
+          <mxGeometry x="407" y="4466.5" width="43" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4m1ToxqM0PlaWDM-n7NB-237" target="4m1ToxqM0PlaWDM-n7NB-278" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -259,7 +259,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1230" y="3826" />
-              <mxPoint x="1230" y="3070" />
+              <mxPoint x="1230" y="4430" />
+              <mxPoint x="-565" y="4430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -822,10 +823,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-89" value="Run data control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1304" y="3040" width="138" height="60" as="geometry" />
+          <mxGeometry x="-565" y="4459" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-94" value="write control result into tb_synctl_crocus and tb_detctl_crocus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="3040" width="160" height="60" as="geometry" />
+          <mxGeometry x="-389" y="4459" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
