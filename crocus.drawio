@@ -713,17 +713,10 @@
           <mxGeometry x="-2440" y="3778" width="181" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-5" value="Trigger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2200" y="3828.5" width="56" height="26" as="geometry" />
+          <mxGeometry x="-2200" y="3801" width="56" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-20" value="file arrive in bucket in event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2396.5" y="3822.5" width="96.5" height="37.5" as="geometry" />
-        </mxCell>
-        <mxCell id="ptTGNwOkgOPoawGa54tD-23" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.001;exitY=0.243;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-10" target="4m1ToxqM0PlaWDM-n7NB-166">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-2070" y="3829" as="sourcePoint" />
-            <mxPoint x="-2100" y="4009" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTGNwOkgOPoawGa54tD-24" target="4m1ToxqM0PlaWDM-n7NB-167">
           <mxGeometry relative="1" as="geometry" />
