@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.3">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
-    <mxGraphModel dx="6477" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4548" dy="-511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="ptTGNwOkgOPoawGa54tD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-12" target="ptTGNwOkgOPoawGa54tD-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-12" value="transfer file from onprem machine to GCS bucket using NiFi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-12" value="transfer file from onprem machine to GCS bucket in by NiFi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2710" y="3798" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4m1ToxqM0PlaWDM-n7NB-15" target="ptTGNwOkgOPoawGa54tD-56" edge="1">
@@ -715,8 +715,8 @@
         <mxCell id="ptTGNwOkgOPoawGa54tD-5" value="Trigger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2200" y="3828.5" width="56" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ptTGNwOkgOPoawGa54tD-20" value="file arrive in in bucket event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2396.5" y="3822.5" width="94" height="28" as="geometry" />
+        <mxCell id="ptTGNwOkgOPoawGa54tD-20" value="file arrive in bucket in event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2396.5" y="3822.5" width="96.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-23" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.001;exitY=0.243;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-10" target="4m1ToxqM0PlaWDM-n7NB-166">
           <mxGeometry width="100" relative="1" as="geometry">
