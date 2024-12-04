@@ -721,7 +721,7 @@
         <mxCell id="ptTGNwOkgOPoawGa54tD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTGNwOkgOPoawGa54tD-24" target="4m1ToxqM0PlaWDM-n7NB-167">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ptTGNwOkgOPoawGa54tD-24" value="move file in error folder under archive bucket&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ptTGNwOkgOPoawGa54tD-24" value="move file to error folder under archive bucket&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1954" y="3899" width="129" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTGNwOkgOPoawGa54tD-27" target="ptTGNwOkgOPoawGa54tD-28">
