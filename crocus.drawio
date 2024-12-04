@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.3">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
-    <mxGraphModel dx="4986" dy="-278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5345" dy="-88" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ptTGNwOkgOPoawGa54tD-92" value="DAG - LOAD REFINED DATA" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="ptTGNwOkgOPoawGa54tD-92" value="DAG - LOAD REFINED DATA (scheduled)" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;fontStyle=1;spacingLeft=12;" vertex="1" parent="1">
           <mxGeometry x="1130" y="2900" width="1710" height="1450" as="geometry" />
         </mxCell>
-        <mxCell id="ptTGNwOkgOPoawGa54tD-90" value="DAG - LOAD RAW FILE" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="ptTGNwOkgOPoawGa54tD-90" value="DAG - LOAD RAW FILE" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;fontStyle=1;spacingLeft=12;" vertex="1" parent="1">
           <mxGeometry x="-640" y="2900" width="1770" height="1450" as="geometry" />
         </mxCell>
         <mxCell id="v7_lB3ds1pJL1FcqjlOJ-102" value="Somewhere on the earth" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;" parent="1" vertex="1">
@@ -737,9 +737,9 @@
         <mxCell id="ptTGNwOkgOPoawGa54tD-20" value="file arrive in in bucket event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2646.5" y="3313.5" width="94" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="ptTGNwOkgOPoawGa54tD-23" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.003;exitY=0.339;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-10" target="4m1ToxqM0PlaWDM-n7NB-166">
+        <mxCell id="ptTGNwOkgOPoawGa54tD-23" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.001;exitY=0.243;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-10" target="4m1ToxqM0PlaWDM-n7NB-166">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-2450" y="3500" as="sourcePoint" />
+            <mxPoint x="-2320" y="3320" as="sourcePoint" />
             <mxPoint x="-2350" y="3500" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
