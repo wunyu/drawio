@@ -235,8 +235,8 @@
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-167" value="send email notifications to &lt;b style=&quot;&quot;&gt;team srr&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1800" y="3990" width="129" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-171" value="synthese&amp;nbsp;control result table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-425" y="3757" width="129" height="30" as="geometry" />
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-171" value="tb_synctl_crocus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-411.75" y="3766" width="129" height="23" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-210" value="." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4m1ToxqM0PlaWDM-n7NB-211" target="4m1ToxqM0PlaWDM-n7NB-213" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -348,8 +348,8 @@
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-304" value="delete separated&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;file from ready bucket&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-497" y="3999" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-307" value="control definition table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-425" y="3727" width="129" height="30" as="geometry" />
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-307" value="tb_defctl_crocus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-411.75" y="3743" width="129" height="23" as="geometry" />
         </mxCell>
         <mxCell id="IcyvwLPQNgDlz2okpDtb-53" value="Confluent Cloud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;align=left;spacing=2;" parent="1" vertex="1">
           <mxGeometry x="-173" y="1571" width="412" height="240" as="geometry" />
@@ -767,8 +767,8 @@
             <mxPoint x="727.5294117647063" y="3108.988057040998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ptTGNwOkgOPoawGa54tD-52" value="detail control result table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-425" y="3787" width="129" height="30" as="geometry" />
+        <mxCell id="ptTGNwOkgOPoawGa54tD-52" value="tb_detctl_crocus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-411.75" y="3789" width="129" height="23" as="geometry" />
         </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTGNwOkgOPoawGa54tD-54" target="ptTGNwOkgOPoawGa54tD-55">
           <mxGeometry relative="1" as="geometry" />
