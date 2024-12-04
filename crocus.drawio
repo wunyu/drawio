@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.3">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
-    <mxGraphModel dx="4986" dy="-278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4259" dy="-664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ptTGNwOkgOPoawGa54tD-92" value="DAG - LOAD REFINED DATA (scheduled)" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;fontStyle=1;spacingLeft=12;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="4350" width="1770" height="490" as="geometry" />
+          <mxGeometry x="-640" y="4350" width="1770" height="270" as="geometry" />
         </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-90" value="DAG - LOAD RAW FILE" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;fontStyle=1;spacingLeft=12;" vertex="1" parent="1">
           <mxGeometry x="-640" y="2900" width="1770" height="1450" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="-605" y="4170" width="1708" height="151" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-194" value="Data load - data control" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-605" y="4390" width="1715" height="430" as="geometry" />
+          <mxGeometry x="-605" y="4390" width="1715" height="210" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-2" value="Data load - preparation" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-605" y="2971" width="1708" height="323" as="geometry" />
@@ -261,9 +261,10 @@
         <mxCell id="ptTGNwOkgOPoawGa54tD-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-237" target="ptTGNwOkgOPoawGa54tD-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1230" y="3826" />
-              <mxPoint x="1230" y="4430" />
-              <mxPoint x="-565" y="4430" />
+              <mxPoint x="1170" y="3826" />
+              <mxPoint x="1170" y="4430" />
+              <mxPoint x="-580" y="4430" />
+              <mxPoint x="-580" y="4489" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -271,7 +272,7 @@
           <mxGeometry x="777.5" y="3786" width="264" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-238" value="data control config" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="955.5" y="3840" width="129" height="30" as="geometry" />
+          <mxGeometry x="751.58" y="3776" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-258" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="127.5" y="4223.5" width="43" height="45" as="geometry" />
@@ -319,7 +320,7 @@
           <mxGeometry x="-1760.5" y="3806" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-298" value="Trigger DAG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="3801" width="85" height="26" as="geometry" />
+          <mxGeometry x="1018" y="3832" width="85" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-304" target="4m1ToxqM0PlaWDM-n7NB-260">
           <mxGeometry relative="1" as="geometry">
@@ -825,8 +826,14 @@
         <mxCell id="ptTGNwOkgOPoawGa54tD-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ptTGNwOkgOPoawGa54tD-59" target="ptTGNwOkgOPoawGa54tD-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ptTGNwOkgOPoawGa54tD-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTGNwOkgOPoawGa54tD-89" target="ptTGNwOkgOPoawGa54tD-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-89" value="Run data control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-565" y="4459" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ptTGNwOkgOPoawGa54tD-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTGNwOkgOPoawGa54tD-94" target="4m1ToxqM0PlaWDM-n7NB-211">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ptTGNwOkgOPoawGa54tD-94" value="write control result into tb_synctl_crocus and tb_detctl_crocus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-389" y="4459" width="160" height="60" as="geometry" />
