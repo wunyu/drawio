@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.3">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
-    <mxGraphModel dx="4021" dy="-790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4809" dy="-372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -361,7 +361,7 @@
         <mxCell id="ptTGNwOkgOPoawGa54tD-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4m1ToxqM0PlaWDM-n7NB-304" target="ptTGNwOkgOPoawGa54tD-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-304" value="delete separated fixed width file from ready bucket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-304" value="delete separated&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;file from ready bucket&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-497" y="3999" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-307" value="control definition table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
