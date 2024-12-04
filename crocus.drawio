@@ -241,22 +241,16 @@
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-211" value="create final table in dataset refined" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="4474" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4m1ToxqM0PlaWDM-n7NB-213" target="4m1ToxqM0PlaWDM-n7NB-215" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-213" value="load data from normalized table into dataset refined" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="58" y="4474" width="138" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4m1ToxqM0PlaWDM-n7NB-215" target="4m1ToxqM0PlaWDM-n7NB-236" edge="1">
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4m1ToxqM0PlaWDM-n7NB-213" target="4m1ToxqM0PlaWDM-n7NB-236" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="411" y="4504" as="targetPoint" />
+            <mxPoint x="255" y="4504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4m1ToxqM0PlaWDM-n7NB-215" value="delete normalized table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="255" y="4474" width="138" height="60" as="geometry" />
+        <mxCell id="4m1ToxqM0PlaWDM-n7NB-213" value="load data from raw table into dataset refined" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="58" y="4474" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-236" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="456" y="4481.5" width="43" height="45" as="geometry" />
+          <mxGeometry x="260" y="4481.5" width="43" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4m1ToxqM0PlaWDM-n7NB-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4m1ToxqM0PlaWDM-n7NB-237" target="4m1ToxqM0PlaWDM-n7NB-278" edge="1">
           <mxGeometry relative="1" as="geometry" />
