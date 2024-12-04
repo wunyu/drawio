@@ -833,6 +833,12 @@
         <mxCell id="ptTGNwOkgOPoawGa54tD-94" value="write control result into tb_synctl_crocus and tb_detctl_crocus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-389" y="4474" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ptTGNwOkgOPoawGa54tD-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4m1ToxqM0PlaWDM-n7NB-166">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2050" y="3828" as="sourcePoint" />
+            <mxPoint x="-2070" y="3838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
