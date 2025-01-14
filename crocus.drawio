@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.5">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
-    <mxGraphModel dx="5091" dy="-233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5502" dy="-17" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-129" value="OnPrem Sources" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=3;fontSize=20;spacingLeft=25;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="3330" y="2078" width="190" height="822" as="geometry" />
+        </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-123" value="Supervision" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="4950" y="2448" width="243" height="140" as="geometry" />
         </mxCell>
@@ -906,10 +909,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-7" value="Files" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="3450" y="2151.41" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="3400" y="2151.41" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-8" value="Data sources hors BCR/IFRS9" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3450" y="2264" width="45" height="60" as="geometry" />
+          <mxGeometry x="3400" y="2264" width="45" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUHMsGE5Q_9Dsa-WAzlY-9" target="kUHMsGE5Q_9Dsa-WAzlY-18">
           <mxGeometry relative="1" as="geometry" />
@@ -1104,15 +1107,6 @@
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-91" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAhCAMAAAB0r6y8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKOUExURf///9vb25eXl2xsbJWVldnZ2f39/QEBAQAAAGZmZvv7+2lpaQgICEtLS0xMTAoKCmBgYNTU1B0dHdPT09jY2CIiIs3NzaKiooSEhI6OjpiYmLKysllZWWJiYqmpqfHx8RsbG2pqasnJycrKym9vbxUVFe7u7u/v74uLi0JCQicnJy0tLVhYWLGxsb+/vwsLCwcHB7i4uM7Ozvn5+dLS0lRUVBAQEA4ODlFRUe3t7T4+PoeHh3Z2dhgYGG1tbeDg4J6enuTk5Pz8/PX19ff39/b29vT09NXV1cTExOrq6v7+/vj4+Ojo6M/Pz+fn57m5ufDw8Lq6urW1tZOTk11dXQYGBuXl5aioqLOzs09PT66urpSUlMzMzKqqqpGRkdra2kFBQYKCgsPDw3R0dMLCwsfHx2dnZ3V1daenp4aGhsDAwHBwcIODg62trYWFhXd3d3JycnFxcYiIiNfX1xkZGQwMDDc3N5CQkGtrayMjIwICAuHh4cvLy/r6+t/f397e3uzs7PPz86+vr9zc3FJSUnNzczAwMJubm0NDQ1NTU42NjV5eXiQkJLS0tDQ0NEVFRfLy8t3d3RISElpaWi4uLhYWFpycnFdXVyUlJYyMjBQUFLe3tzU1NVtbWx8fH2VlZQkJCdbW1kBAQIqKiru7uxoaGiAgIHh4eEZGRjg4OObm5kpKSqurqwUFBREREUdHRz8/P2NjY5qamrCwsL29vaWlpSgoKKCgoMHBwaysrAQEBFxcXDw8PC8vLyYmJklJSaGhoWRkZOnp6QMDAzk5OR4eHg0NDaOjo39/f1BQUFVVVaampmhoaCEhIX19fTo6Om5ubkhISOvr67a2tp+fn35+fsbGxnx8fNHR0QAAALQqyhIAAADadFJOU/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AgwWs3gAAAAlwSFlzAAAXEQAAFxEByibzPwAAAqZJREFUSEutVsGx6yAM5AgFcKEAqoIamKEKTszQA2cKoaq/K3DsZH5yeexMYhvBIq0kbEU0Z4xrcnsQRgvMfjwEspaJv7kHjqBpbSFAs1qHPXQCTuvMa9baycAZ9B09tIgycAgD2QoBrMPjyedi7TywAdxd6HgIkJg4kL424fAoUri4KzkxALE4hwi88kimV63zIayYpunb/B1wmK5K3uinBy8XRNHb9FZidsGFmHM22KLBrqtKWv9sonClCxOlyqA0r6DtqhsTczcpRR8daMEEc8qZTvyg7RRBVwaE+Yye3nKB0AbVgm/etx4bNOgwTD248CctPFywrvAyXUbeJGdC+x9MbXkB7dcOImvq3VVS6kLHeRXbN9ryov3mLXp3rC1xLNigfKpjlN1vH7SvtN/ePmmfVXH1LjDW5AcWbaoVggdkYJhQsKVDSKVcKTO1gqEjzpFCLcuPK/cAZPgoQ6FFFMXzVg9RyHAEKKT1HquM5+02Lydvb5H+5e3NDS6mEROoVVe+I5lJtQrhUBHgihhAbaLwKSD3Xvph/nYXPmBlS3aMurWVvsagyCiVjQpPT21RmFyNtaIyFuylUgnxqoT6WQnsJmBXqlL2k1Zm1ivQ+3S96zaKaNO5R91iN7v6ZGkz3mlhJu+uuCet5BgT+Iwt5IzBAIMCbYP4VTImBjC90Xr8wIt/ocPuL1pR7L0unmcCfZIymVHCEdq7eTF1Ks/4YmSXPg61zxOMJxStQsu9rPfS2AwaXpfnmYCtCotjm52PODtIIpIWcRN89T5vMYPsPfIromeTAu5xG6J40d7MyeSmSOmFVaqI4NRzbwe6FgIilXeZknfZkuQvgH7iGqQ/8GJ8AbTSvVeNHAK7HRqf/qph9DjmjqTpDeQFpKROorl09PtWqX8TdfqHSq50AwAAAABJRU5ErkJggg==;imageBorder=none;strokeWidth=3;" vertex="1" parent="kUHMsGE5Q_9Dsa-WAzlY-107">
           <mxGeometry x="12.38000000000011" y="12.109999999999673" width="93.24" height="35.78" as="geometry" />
-        </mxCell>
-        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3650" y="2400" as="sourcePoint" />
-            <mxPoint x="3650" y="2440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3650" y="2431" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="kUHMsGE5Q_9Dsa-WAzlY-103" target="kUHMsGE5Q_9Dsa-WAzlY-14">
           <mxGeometry relative="1" as="geometry" />
