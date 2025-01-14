@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.5">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
-    <mxGraphModel dx="4172" dy="-715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4548" dy="-518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,10 +60,11 @@
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUHMsGE5Q_9Dsa-WAzlY-32" target="kUHMsGE5Q_9Dsa-WAzlY-24">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4490" y="2560" as="targetPoint" />
             <Array as="points">
               <mxPoint x="4310" y="2700" />
-              <mxPoint x="4490" y="2700" />
-              <mxPoint x="4490" y="2550" />
+              <mxPoint x="4496" y="2700" />
+              <mxPoint x="4496" y="2550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1061,10 +1062,10 @@
           <mxGeometry x="3915" y="2156.857831846297" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-18" value="bucket - in&lt;div&gt;(arrivé du fichier)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3900" y="2200.37" width="150" height="29.63" as="geometry" />
+          <mxGeometry x="3900" y="2195.37" width="150" height="29.63" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-19" value="bucket - ready&lt;div&gt;(pret à charger)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3900" y="2235.95" width="150" height="34.05" as="geometry" />
+          <mxGeometry x="3900" y="2235" width="150" height="34.05" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-20" value="bucket - archive&lt;br&gt;(archivage)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3900" y="2276.5" width="150" height="33.5" as="geometry" />
