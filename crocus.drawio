@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-137" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=3;fontSize=20;spacingLeft=25;" vertex="1" parent="1">
+        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-137" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=3;fontSize=20;spacingLeft=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4010" y="2682" width="930" height="228" as="geometry" />
         </mxCell>
-        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-98" value="Google Cloud Platform" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=3;fontSize=20;spacingLeft=25;" vertex="1" parent="1">
+        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-98" value="Google Cloud Platform" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=3;fontSize=20;spacingLeft=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3780" y="2078" width="1160" height="622" as="geometry" />
         </mxCell>
-        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-138" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=3;fontSize=20;spacingLeft=25;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-138" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=3;fontSize=20;spacingLeft=25;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="4010" y="2660" width="929" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-139" value="Data Sharing" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;verticalAlign=top;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
@@ -1157,6 +1157,12 @@
             <Array as="points">
               <mxPoint x="3650" y="2350" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-141" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=light-dark(#6C8EBF,#6C8EBF);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4010" y="2905" as="sourcePoint" />
+            <mxPoint x="4010" y="2700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
