@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.5">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
-    <mxGraphModel dx="4986" dy="-288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5345" dy="-99" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-145" value="Data Sharing" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;verticalAlign=top;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="4950" y="2080.72" width="190" height="829.28" as="geometry" />
+        </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-137" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=3;fontSize=20;spacingLeft=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4010" y="2682" width="930" height="228" as="geometry" />
         </mxCell>
@@ -13,7 +16,7 @@
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-138" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=3;fontSize=20;spacingLeft=25;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="4010" y="2660" width="929" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-139" value="Data Sharing" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;verticalAlign=top;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-139" value="Data Sharing" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;verticalAlign=top;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="4688" y="2080" width="243" height="640" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-94" value="Data Gouvernance" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;verticalAlign=top;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
