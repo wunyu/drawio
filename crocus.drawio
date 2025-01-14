@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.5">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
-    <mxGraphModel dx="5502" dy="-17" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4021" dy="-794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,16 +58,6 @@
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-24" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="4380" y="2330" width="231" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUHMsGE5Q_9Dsa-WAzlY-32" target="kUHMsGE5Q_9Dsa-WAzlY-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4490" y="2560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="4310" y="2700" />
-              <mxPoint x="4496" y="2700" />
-              <mxPoint x="4496" y="2550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.56;exitY=0.002;exitDx=0;exitDy=0;jumpStyle=arc;exitPerimeter=0;" edge="1" parent="1" source="kUHMsGE5Q_9Dsa-WAzlY-32" target="kUHMsGE5Q_9Dsa-WAzlY-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -77,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-32" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="4205" y="2749" width="187" height="136" as="geometry" />
+          <mxGeometry x="4205" y="2749" width="235" height="136" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-14" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="3560" y="2423" width="170" height="487" as="geometry" />
@@ -989,13 +979,13 @@
           <mxGeometry x="4233.5" y="2749" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-53" value="dag - load file" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4213" y="2785" width="170" height="20" as="geometry" />
+          <mxGeometry x="4213" y="2780" width="217" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-54" value="dag - calcul d&#39;indicateur" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4213" y="2818.58" width="170" height="20" as="geometry" />
+          <mxGeometry x="4213.5" y="2832" width="216.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-55" value="dag - controles fonctionelles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4213" y="2851.25" width="170" height="20" as="geometry" />
+        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-55" value="dag - controles fonctionelles indicateur" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4213.5" y="2858" width="216.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUHMsGE5Q_9Dsa-WAzlY-58" target="kUHMsGE5Q_9Dsa-WAzlY-19">
           <mxGeometry relative="1" as="geometry">
@@ -1192,6 +1182,9 @@
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-147" value="Data sources &lt;br&gt;hors BCR/IFRS9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#595959;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3362.5" y="2332.22" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-148" value="dag - controles fonctionelles fichier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4213" y="2806" width="217" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
