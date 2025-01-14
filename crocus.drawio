@@ -13,8 +13,8 @@
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-138" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=3;fontSize=20;spacingLeft=25;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="4010" y="2660" width="929" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-139" value="Data Sharing" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;verticalAlign=top;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="4688" y="2100" width="243" height="620" as="geometry" />
+        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-139" value="Data Sharing" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;verticalAlign=top;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="4688" y="2080" width="243" height="640" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-94" value="Data Gouvernance" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;verticalAlign=top;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="4687" y="2720" width="243" height="180" as="geometry" />
