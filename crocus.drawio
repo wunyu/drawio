@@ -961,7 +961,7 @@
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-54" value="dag - calcul d&#39;indicateur" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4151" y="2818.58" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-55" value="dag - controles fonctionelle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-55" value="dag - controles fonctionelles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4151" y="2851.25" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUHMsGE5Q_9Dsa-WAzlY-58" target="kUHMsGE5Q_9Dsa-WAzlY-19">
