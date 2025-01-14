@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.5">
   <diagram name="Page-1" id="dkLmOQd1HcsfgHAnOU7j">
-    <mxGraphModel dx="4734" dy="-420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5345" dy="-99" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="4699" y="2394.6099999999997" width="140" height="109.78" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-116" value="Data &amp;amp; Platform Management" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=0;fontSize=20;spacingLeft=25;fillColor=#f9f7ed;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="3790" y="2710" width="660" height="190" as="geometry" />
+          <mxGeometry x="3790" y="2720" width="660" height="180" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-118" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
           <mxGeometry x="3928.4" y="2804.5" width="140" height="50" as="geometry" />
@@ -28,11 +28,11 @@
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-119" value="Kubernetes Engine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3933.4" y="2813.41" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-94" value="Data Gouvernance" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;verticalAlign=top;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="4687" y="2710" width="243" height="190" as="geometry" />
+        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-94" value="Data Gouvernance" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;verticalAlign=top;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="4687" y="2720" width="243" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-93" value="Security GCP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;verticalAlign=top;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="4445" y="2710" width="243" height="189.5" as="geometry" />
+        <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-93" value="Security GCP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;verticalAlign=top;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4445" y="2720" width="243" height="179.5" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-78" value="BI &amp;amp; Reporting" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="4700" y="2232.41" width="140" height="138.5" as="geometry" />
@@ -944,7 +944,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUHMsGE5Q_9Dsa-WAzlY-30" target="kUHMsGE5Q_9Dsa-WAzlY-88">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4630" y="2501" />
+              <mxPoint x="4630" y="2576" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kUHMsGE5Q_9Dsa-WAzlY-30" value="dataset business&lt;div&gt;(Business Model)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4376.999999999999" y="2481.2199999999993" width="185.88" height="40" as="geometry" />
