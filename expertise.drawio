@@ -28,15 +28,16 @@
         <mxCell id="47AGt8TNXksjBqSl8YJA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-2" target="47AGt8TNXksjBqSl8YJA-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="906" y="190" />
-              <mxPoint x="906" y="460" />
+              <mxPoint x="910" y="180" />
+              <mxPoint x="910" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-2" target="47AGt8TNXksjBqSl8YJA-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="986" y="190" />
+              <mxPoint x="920" y="180" />
+              <mxPoint x="920" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -55,6 +56,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="47AGt8TNXksjBqSl8YJA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-2" target="47AGt8TNXksjBqSl8YJA-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="180" />
+              <mxPoint x="910" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-2" value="Back End&lt;div&gt;Cloud Run&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -62,7 +71,7 @@
           <mxGeometry x="1257" y="411" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-4" value="BigQuery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1016" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1016" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-9" value="Okta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="565" width="110" height="48.89" as="geometry" />
@@ -112,10 +121,10 @@
           <mxGeometry x="750" y="432" width="90" height="59" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-27" value="&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;(JAVA?)&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;(React?)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="476" y="220" width="70" height="40" as="geometry" />
+          <mxGeometry x="450" y="110" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-28" value="&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;(Python)&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;(Flask)&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;(SqlAlchemy)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="666" y="250" width="90" height="60" as="geometry" />
+          <mxGeometry x="760" y="90" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
