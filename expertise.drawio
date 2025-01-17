@@ -7,7 +7,7 @@
         <mxCell id="47AGt8TNXksjBqSl8YJA-20" value="Onprem" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1100" y="70" width="176" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="47AGt8TNXksjBqSl8YJA-19" value="VPC" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="47AGt8TNXksjBqSl8YJA-19" value="GCP - VPC" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="244" y="70" width="786" height="450" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-18" value="Client" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -32,11 +32,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="47AGt8TNXksjBqSl8YJA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-17" target="47AGt8TNXksjBqSl8YJA-4">
+        <mxCell id="47AGt8TNXksjBqSl8YJA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-2" target="47AGt8TNXksjBqSl8YJA-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="760" y="460" />
-              <mxPoint x="920" y="460" />
+              <mxPoint x="770" y="200" />
+              <mxPoint x="770" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -65,27 +65,23 @@
         <mxCell id="47AGt8TNXksjBqSl8YJA-14" value="WAF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="47AGt8TNXksjBqSl8YJA-15" value="Cloud Front" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-16" target="47AGt8TNXksjBqSl8YJA-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#36393d;fillColor=#eeeeee;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="150" width="66.67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="47AGt8TNXksjBqSl8YJA-21" value="Build Process" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="550" width="1050" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="47AGt8TNXksjBqSl8YJA-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-2" target="47AGt8TNXksjBqSl8YJA-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="250" as="sourcePoint" />
-            <mxPoint x="880" y="120" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-17" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47AGt8TNXksjBqSl8YJA-21" value="Build Process" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="550" width="990" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="47AGt8TNXksjBqSl8YJA-24" value="GitLab CICD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47AGt8TNXksjBqSl8YJA-25" value="Artifact Registry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
