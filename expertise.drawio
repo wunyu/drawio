@@ -1,22 +1,25 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.5">
   <diagram name="Page-1" id="7LVE9Hj-M3n7S1KzNMF_">
-    <mxGraphModel dx="1188" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="47AGt8TNXksjBqSl8YJA-41" value="Other thing" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="670" y="550" width="620" height="130" as="geometry" />
+          <mxGeometry x="780" y="550" width="600" height="130" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-20" value="Onprem" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1199" y="71" width="176" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="47AGt8TNXksjBqSl8YJA-19" value="GCP" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="47AGt8TNXksjBqSl8YJA-19" value="GCP / Applications" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="230" y="70" width="946" height="450" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-18" value="Client" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="40" y="70" width="170" height="450" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-1" target="47AGt8TNXksjBqSl8YJA-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47AGt8TNXksjBqSl8YJA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-1" target="47AGt8TNXksjBqSl8YJA-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-1" value="Front End&lt;div&gt;Cloud Run&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -64,6 +67,9 @@
         <mxCell id="47AGt8TNXksjBqSl8YJA-9" value="Okta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="565" width="110" height="48.89" as="geometry" />
         </mxCell>
+        <mxCell id="47AGt8TNXksjBqSl8YJA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-13" target="47AGt8TNXksjBqSl8YJA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-13" value="Load balancer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -83,7 +89,7 @@
           <mxGeometry x="1016" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-21" value="Build Process" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="550" width="620" height="130" as="geometry" />
+          <mxGeometry x="40" y="550" width="720" height="130" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-24" target="47AGt8TNXksjBqSl8YJA-25">
           <mxGeometry relative="1" as="geometry" />
