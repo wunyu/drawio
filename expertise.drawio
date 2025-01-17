@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="47AGt8TNXksjBqSl8YJA-20" value="Onprem" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1246" y="70" width="176" height="450" as="geometry" />
+          <mxGeometry x="1199" y="71" width="176" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="47AGt8TNXksjBqSl8YJA-19" value="GCP - VPC" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="47AGt8TNXksjBqSl8YJA-19" value="GCP" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="230" y="70" width="946" height="450" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-18" value="Client" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -53,7 +53,7 @@
           <mxGeometry x="740" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-3" value="BCR" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1304" y="410" width="60" height="80" as="geometry" />
+          <mxGeometry x="1257" y="411" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-4" value="BigQuery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1016" y="160" width="120" height="60" as="geometry" />
@@ -64,8 +64,14 @@
         <mxCell id="47AGt8TNXksjBqSl8YJA-13" value="Load balancer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="47AGt8TNXksjBqSl8YJA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-14" target="47AGt8TNXksjBqSl8YJA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-14" value="WAF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47AGt8TNXksjBqSl8YJA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-16" target="47AGt8TNXksjBqSl8YJA-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#36393d;fillColor=#eeeeee;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="150" width="66.67" height="60" as="geometry" />
@@ -74,7 +80,7 @@
           <mxGeometry x="1016" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-21" value="Build Process" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="550" width="1380" height="200" as="geometry" />
+          <mxGeometry x="40" y="550" width="1340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="47AGt8TNXksjBqSl8YJA-24" target="47AGt8TNXksjBqSl8YJA-25">
           <mxGeometry relative="1" as="geometry" />
