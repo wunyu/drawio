@@ -145,7 +145,7 @@
           <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4aFiXDckC9Fn5uD6GJm2-1" value="Failover ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740" y="8" width="80" height="30" as="geometry" />
+          <mxGeometry x="747" y="30" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
