@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.6">
   <diagram name="Page-1" id="7LVE9Hj-M3n7S1KzNMF_">
-    <mxGraphModel dx="1666" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tkHse5d7qs6445GU6mNq-1" value="Monitoring" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="880" y="550" width="350" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-41" value="Authentication" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="640" y="550" width="590" height="130" as="geometry" />
+          <mxGeometry x="640" y="550" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-20" value="Onprem" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1050" y="71" width="176" height="450" as="geometry" />
@@ -112,13 +115,13 @@
         <mxCell id="47AGt8TNXksjBqSl8YJA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="47AGt8TNXksjBqSl8YJA-26" target="47AGt8TNXksjBqSl8YJA-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="675" y="310" />
-              <mxPoint x="675" y="310" />
+              <mxPoint x="910" y="490" />
+              <mxPoint x="680" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-26" value="Monitoring" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="432" width="90" height="59" as="geometry" />
+          <mxGeometry x="900" y="585" width="90" height="59" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-27" value="&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;(JAVA?)&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;(React?)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="110" width="70" height="40" as="geometry" />
@@ -144,8 +147,14 @@
         <mxCell id="47AGt8TNXksjBqSl8YJA-52" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4aFiXDckC9Fn5uD6GJm2-1" value="Failover ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4aFiXDckC9Fn5uD6GJm2-1" value="Failover ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="747" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tkHse5d7qs6445GU6mNq-2" value="Dynatrace ?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="585.5" width="90" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="tkHse5d7qs6445GU6mNq-3" value="Grafana ?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="585.5" width="90" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
