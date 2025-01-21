@@ -135,7 +135,7 @@
           <mxGeometry x="450" y="110" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-28" value="&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;(Python)&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;(Flask)&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;(SqlAlchemy)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="640" y="90" width="90" height="60" as="geometry" />
+          <mxGeometry x="680" y="90" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-45" value="Pull image" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="414" y="340" width="80" height="30" as="geometry" />
