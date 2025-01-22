@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-27" value="&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;React&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="140" width="50" height="30" as="geometry" />
+          <mxGeometry x="540" y="139" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-28" value="&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;JAVA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="763" y="139" width="50" height="30" as="geometry" />
