@@ -125,7 +125,7 @@
         <mxCell id="47AGt8TNXksjBqSl8YJA-25" value="&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;Artifact Registry&lt;/u&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="392" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="47AGt8TNXksjBqSl8YJA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tkHse5d7qs6445GU6mNq-1" target="47AGt8TNXksjBqSl8YJA-2" edge="1">
+        <mxCell id="47AGt8TNXksjBqSl8YJA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CCCC00;" parent="1" source="tkHse5d7qs6445GU6mNq-1" target="47AGt8TNXksjBqSl8YJA-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="970" y="490" />
@@ -174,7 +174,7 @@
           <mxGeometry x="580" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IoXaIu04obcm0sNQwNpP-7" value="Access ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="918.5" y="154" width="70" height="30" as="geometry" />
+          <mxGeometry x="918.5" y="149" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IoXaIu04obcm0sNQwNpP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IoXaIu04obcm0sNQwNpP-8" target="47AGt8TNXksjBqSl8YJA-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
