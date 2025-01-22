@@ -139,7 +139,7 @@
           <mxGeometry x="619" y="405" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-47" value="CRUD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="800" y="184" width="60" height="30" as="geometry" />
+          <mxGeometry x="803" y="163" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tkHse5d7qs6445GU6mNq-2" value="Audit Log" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1108.5" y="560" width="100" height="49" as="geometry" />
