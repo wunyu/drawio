@@ -190,7 +190,7 @@
         <mxCell id="j3oY_1pEguYsVX4skTPp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j3oY_1pEguYsVX4skTPp-3" target="47AGt8TNXksjBqSl8YJA-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j3oY_1pEguYsVX4skTPp-3" value="Back End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j3oY_1pEguYsVX4skTPp-3" value="Back End&lt;div&gt;&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;docker image&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="154" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j3oY_1pEguYsVX4skTPp-5" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -199,8 +199,8 @@
         <mxCell id="j3oY_1pEguYsVX4skTPp-9" value="authentication ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="1050" y="139" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j3oY_1pEguYsVX4skTPp-14" value="&lt;div&gt;PYTHON&lt;/div&gt;&lt;div&gt;(docker image)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="132" width="100" height="31" as="geometry" />
+        <mxCell id="j3oY_1pEguYsVX4skTPp-15" value="&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;PYTHON&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="133" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
