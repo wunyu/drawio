@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.12">
   <diagram name="Page-1" id="7LVE9Hj-M3n7S1KzNMF_">
-    <mxGraphModel dx="1476" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1137" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,8 +203,8 @@
         <mxCell id="j3oY_1pEguYsVX4skTPp-9" value="authentication ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="1050" y="139" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j3oY_1pEguYsVX4skTPp-13" value="&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;PYTHON&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="133" width="70" height="30" as="geometry" />
+        <mxCell id="j3oY_1pEguYsVX4skTPp-14" value="&lt;div&gt;PYTHON&lt;/div&gt;&lt;div&gt;(docker image)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="132" width="100" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
