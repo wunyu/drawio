@@ -190,7 +190,7 @@
         <mxCell id="j3oY_1pEguYsVX4skTPp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j3oY_1pEguYsVX4skTPp-3" target="47AGt8TNXksjBqSl8YJA-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j3oY_1pEguYsVX4skTPp-3" value="Back End&lt;div&gt;&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;docker image&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j3oY_1pEguYsVX4skTPp-3" value="Back End&lt;div&gt;&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;Docker Image&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="154" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j3oY_1pEguYsVX4skTPp-5" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
