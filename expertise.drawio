@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.12">
   <diagram name="Page-1" id="7LVE9Hj-M3n7S1KzNMF_">
-    <mxGraphModel dx="1236" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1476" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tkHse5d7qs6445GU6mNq-1" value="Monitoring" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="870" y="530" width="510" height="100" as="geometry" />
+          <mxGeometry x="1040" y="530" width="340" height="100" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-41" value="Authentication" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="610" y="530" width="250" height="100" as="geometry" />
+          <mxGeometry x="610" y="530" width="420" height="100" as="geometry" />
         </mxCell>
         <mxCell id="47AGt8TNXksjBqSl8YJA-20" value="Onprem" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1040" y="69" width="340" height="450" as="geometry" />
@@ -127,7 +127,7 @@
         <mxCell id="47AGt8TNXksjBqSl8YJA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CCCC00;" parent="1" source="tkHse5d7qs6445GU6mNq-1" target="47AGt8TNXksjBqSl8YJA-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="970" y="490" />
+              <mxPoint x="1210" y="490" />
               <mxPoint x="750" y="490" />
             </Array>
             <mxPoint x="910" y="585" as="sourcePoint" />
@@ -149,10 +149,10 @@
           <mxGeometry x="803" y="163" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tkHse5d7qs6445GU6mNq-2" value="Audit Log" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1108.5" y="560" width="100" height="49" as="geometry" />
+          <mxGeometry x="1230" y="560" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="IoXaIu04obcm0sNQwNpP-1" value="Dynatrace" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="888.5" y="561" width="100" height="49" as="geometry" />
+          <mxGeometry x="1100" y="561" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="IoXaIu04obcm0sNQwNpP-2" value="Push image" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="441" y="480" width="90" height="30" as="geometry" />
