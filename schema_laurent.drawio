@@ -1052,7 +1052,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nVJ3sfj0SaIVEKaM8tkw-1" value="tb_col_tiers" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1660" width="140" height="120" as="geometry">
+          <mxGeometry x="240" y="1660" width="140" height="120" as="geometry">
             <mxRectangle x="390" y="130" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1066,7 +1066,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PkLpmTucfwkO-Fn2gwIi-1" value="Insert" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1620" width="50" height="30" as="geometry" />
+          <mxGeometry x="200" y="1620" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xAQxpRgSvOtHGWfQl6mP-1" value="tier_gestion" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="1660" width="140" height="120" as="geometry" />
