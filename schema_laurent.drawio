@@ -351,7 +351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZHfoh0C7NEd7Nm3spIHT" name="expo_carfin">
-    <mxGraphModel dx="2505" dy="-290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2247" dy="-383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1039,6 +1039,18 @@
         </mxCell>
         <mxCell id="YTP1djDldzG34f5QENlR-3" value="CD_PA&lt;div&gt;SYS_APL&lt;/div&gt;&lt;div&gt;DTF_PER_TRT&lt;/div&gt;&lt;div&gt;finan.ID_GEST_FIN=impaye.ID_GEST_EXPO&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1570" y="3840" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PhV_snfe1luq0IK4Cqex-1" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF1E1E;strokeWidth=7;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="4050" as="sourcePoint" />
+            <mxPoint x="1550" y="3870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhV_snfe1luq0IK4Cqex-2" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#FF1E1E;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="4030" as="sourcePoint" />
+            <mxPoint x="1410" y="3870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
