@@ -1577,6 +1577,9 @@
         <mxCell id="lGNFRoVRg579aBXX2RLZ-3" value="DT_INC_PAI_EXT desc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1565" y="2850" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lGNFRoVRg579aBXX2RLZ-4" value="DT_COTE_EXT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="2540" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
