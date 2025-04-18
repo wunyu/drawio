@@ -1524,16 +1524,16 @@
           <mxGeometry x="1310" y="1780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wktkM9qxM_BSplXgFSAs-3" value="plusiere lignes = une ligne avec plusiere colonne" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="2495" width="280" height="30" as="geometry" />
+          <mxGeometry x="1490" y="2545" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wktkM9qxM_BSplXgFSAs-4" value="plusiere lignes = une ligne avec plusiere colonne" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="1870" width="280" height="30" as="geometry" />
+          <mxGeometry x="1490" y="1920" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wktkM9qxM_BSplXgFSAs-5" value="plusiere lignes = une ligne avec plusiere colonne" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="2175" width="280" height="30" as="geometry" />
+          <mxGeometry x="1480" y="2240" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wktkM9qxM_BSplXgFSAs-6" value="plusiere lignes = une ligne avec plusiere colonne" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="2805" width="280" height="30" as="geometry" />
+          <mxGeometry x="1490" y="2868" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wktkM9qxM_BSplXgFSAs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wktkM9qxM_BSplXgFSAs-10" target="1kLhtEepCWsXAVYQL_-z-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1557,16 +1557,16 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGNFRoVRg579aBXX2RLZ-1" value="DTD_FCH_NEGF desc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="1890" width="150" height="30" as="geometry" />
+          <mxGeometry x="1540" y="1940" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGNFRoVRg579aBXX2RLZ-2" value="DT_STA_JUD desc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1565" y="2205" width="130" height="30" as="geometry" />
+          <mxGeometry x="1565" y="2270" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGNFRoVRg579aBXX2RLZ-3" value="DT_INC_PAI_EXT desc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1555" y="2830" width="150" height="30" as="geometry" />
+          <mxGeometry x="1555" y="2893" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGNFRoVRg579aBXX2RLZ-4" value="DT_COTE_EXT desc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="2510" width="140" height="30" as="geometry" />
+          <mxGeometry x="1560" y="2560" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
