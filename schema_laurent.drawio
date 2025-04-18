@@ -1557,16 +1557,16 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGNFRoVRg579aBXX2RLZ-1" value="DTD_FCH_NEGF desc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="1900" width="150" height="30" as="geometry" />
+          <mxGeometry x="1530" y="1890" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGNFRoVRg579aBXX2RLZ-2" value="DT_STA_JUD desc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1565" y="2205" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGNFRoVRg579aBXX2RLZ-3" value="DT_INC_PAI_EXT desc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1565" y="2850" width="150" height="30" as="geometry" />
+          <mxGeometry x="1555" y="2830" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGNFRoVRg579aBXX2RLZ-4" value="DT_COTE_EXT desc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1555" y="2520" width="140" height="30" as="geometry" />
+          <mxGeometry x="1550" y="2510" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
