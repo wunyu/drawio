@@ -1305,7 +1305,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uqSCkBBUwS1lrrtLiC4T" name="tiers_externe">
-    <mxGraphModel dx="1480" dy="-355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1219" dy="-498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1535,15 +1535,6 @@
         <mxCell id="wktkM9qxM_BSplXgFSAs-6" value="plusiere lignes = une ligne avec plusiere colonne" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1490" y="2805" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wktkM9qxM_BSplXgFSAs-7" value="ID_GEST_TRS&lt;div&gt;CD_PA&lt;/div&gt;&lt;div&gt;SYS_APL&lt;/div&gt;&lt;div&gt;DTF_PER_TRT&lt;/div&gt;&lt;div&gt;NO_DMD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="1940" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="wktkM9qxM_BSplXgFSAs-8" value="ID_GEST_TRS&lt;div&gt;CD_PA&lt;/div&gt;&lt;div&gt;SYS_APL&lt;/div&gt;&lt;div&gt;DTF_PER_TRT&lt;/div&gt;&lt;div&gt;NO_DMD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="2560" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="wktkM9qxM_BSplXgFSAs-9" value="ID_GEST_TRS&lt;div&gt;CD_PA&lt;/div&gt;&lt;div&gt;SYS_APL&lt;/div&gt;&lt;div&gt;DTF_PER_TRT&lt;/div&gt;&lt;div&gt;NO_DMD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="2900" width="110" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="wktkM9qxM_BSplXgFSAs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wktkM9qxM_BSplXgFSAs-10" target="1kLhtEepCWsXAVYQL_-z-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1564,9 +1555,6 @@
         </mxCell>
         <mxCell id="wktkM9qxM_BSplXgFSAs-13" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="wktkM9qxM_BSplXgFSAs-10" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wktkM9qxM_BSplXgFSAs-15" value="ID_GEST_TRS&lt;div&gt;CD_PA&lt;/div&gt;&lt;div&gt;SYS_APL&lt;/div&gt;&lt;div&gt;DTF_PER_TRT&lt;/div&gt;&lt;div&gt;NO_DMD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="2250" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="lGNFRoVRg579aBXX2RLZ-1" value="DTD_FCH_NEGF desc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1530" y="1900" width="150" height="30" as="geometry" />
