@@ -500,10 +500,12 @@
         <mxCell id="Iihmui3m76uBsvI2rHNg-113" value="tb_tiers_gestion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="677" y="1843" width="127" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iihmui3m76uBsvI2rHNg-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-157" target="Iihmui3m76uBsvI2rHNg-102">
+        <mxCell id="Iihmui3m76uBsvI2rHNg-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-157" target="Iihmui3m76uBsvI2rHNg-102">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1180" y="1630" />
+              <mxPoint x="1212" y="1740" />
+              <mxPoint x="1170" y="1740" />
+              <mxPoint x="1170" y="1630" />
               <mxPoint x="444" y="1630" />
             </Array>
           </mxGeometry>
