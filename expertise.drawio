@@ -215,28 +215,28 @@
           <mxGeometry x="15" y="1380" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-5" value="&lt;b&gt;CROCUS&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Calcul des classes de risque)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=4;fontSize=20;spacingLeft=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="470" y="735" width="320" height="470" as="geometry" />
+          <mxGeometry x="350" y="735" width="440" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
-          <mxGeometry x="528" y="810" width="195" height="340" as="geometry" />
+          <mxGeometry x="450" y="810" width="300" height="340" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-12" value="tb_tiers_gestion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="563" y="850" width="127" height="30" as="geometry" />
+          <mxGeometry x="463" y="850" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-13" value="tb_tiers_externe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="563" y="880" width="127" height="30" as="geometry" />
+          <mxGeometry x="463" y="880" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-14" value="tb_tiers_gestion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="563" y="910" width="127" height="30" as="geometry" />
+          <mxGeometry x="463" y="910" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-15" value="tb_expertise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="563" y="965" width="127" height="30" as="geometry" />
+          <mxGeometry x="596" y="890" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-16" value="tables d&#39;orchyde" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="563" y="1035" width="127" height="30" as="geometry" />
+          <mxGeometry x="463" y="980" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-17" value="tables de paramètres" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="563" y="1095" width="127" height="30" as="geometry" />
+          <mxGeometry x="463" y="1030" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-18" value="EXPERTISE IHM&amp;nbsp;&lt;div&gt;(réseau)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;verticalAlign=top;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="473.5" y="1780" width="316.5" height="640" as="geometry" />
