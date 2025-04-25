@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="7LVE9Hj-M3n7S1KzNMF_">
-    <mxGraphModel dx="546" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2339" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -544,11 +544,14 @@
         <mxCell id="Iihmui3m76uBsvI2rHNg-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-106" target="Iihmui3m76uBsvI2rHNg-253">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Iihmui3m76uBsvI2rHNg-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-106" target="Iihmui3m76uBsvI2rHNg-249">
+        <mxCell id="Iihmui3m76uBsvI2rHNg-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="479.1199999999999" y="1867" as="sourcePoint" />
+            <mxPoint x="640" y="1907" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="479" y="1870" />
               <mxPoint x="610" y="1870" />
-              <mxPoint x="610" y="1900" />
+              <mxPoint x="610" y="1907" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -601,10 +604,8 @@
         <mxCell id="Iihmui3m76uBsvI2rHNg-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-315" target="Iihmui3m76uBsvI2rHNg-140">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1120" y="1957" />
-              <mxPoint x="1120" y="1800" />
-              <mxPoint x="1110" y="1800" />
-              <mxPoint x="1110" y="1580" />
+              <mxPoint x="1120" y="1963" />
+              <mxPoint x="1120" y="1580" />
               <mxPoint x="174" y="1580" />
             </Array>
             <mxPoint x="1210.0000000000005" y="1980" as="sourcePoint" />
@@ -706,7 +707,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-143" value="&lt;div&gt;Envoyer statut comptable après expertise&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545.5" y="1575" width="240" height="30" as="geometry" />
+          <mxGeometry x="637" y="1575" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-144" value="(1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="228.5" y="1882.5" width="40" height="30" as="geometry" />
@@ -1125,14 +1126,26 @@
         <mxCell id="Iihmui3m76uBsvI2rHNg-315" value="tb_expertise" style="text;strokeColor=#36393d;fillColor=#ffff88;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Iihmui3m76uBsvI2rHNg-314">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iihmui3m76uBsvI2rHNg-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-315" target="Iihmui3m76uBsvI2rHNg-249">
+        <mxCell id="Iihmui3m76uBsvI2rHNg-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-315">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="1950.5" as="sourcePoint" />
+            <mxPoint x="640" y="1893" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1220" y="1650" />
-              <mxPoint x="600" y="1650" />
-              <mxPoint x="600" y="1900" />
+              <mxPoint x="1120" y="1963" />
+              <mxPoint x="1120" y="1640" />
+              <mxPoint x="580" y="1640" />
+              <mxPoint x="580" y="1893" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Iihmui3m76uBsvI2rHNg-321" value="le J-1 du M" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="727.31" y="1620" width="92.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Iihmui3m76uBsvI2rHNg-322" value="Mettre à jour classes de risque après expertise" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="692" y="1635" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iihmui3m76uBsvI2rHNg-324" value="(7)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="691.06" y="1612.5" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
