@@ -506,8 +506,8 @@
         <mxCell id="Iihmui3m76uBsvI2rHNg-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-157" target="Iihmui3m76uBsvI2rHNg-102">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="1490" />
-              <mxPoint x="-73" y="1490" />
+              <mxPoint x="720" y="1580" />
+              <mxPoint x="-73" y="1580" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -585,7 +585,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-143" value="&lt;div&gt;Envoyer statut comptable après expertise&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1485" width="240" height="30" as="geometry" />
+          <mxGeometry x="27" y="1576" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-144" value="(1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-288.5" y="1790" width="40" height="30" as="geometry" />
@@ -615,7 +615,7 @@
           <mxGeometry x="1050" y="1975" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-153" value="(6)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1460" width="40" height="30" as="geometry" />
+          <mxGeometry x="117" y="1551" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-154" value="Données doivent arrivees avant le 25" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="302" y="1980" width="229" height="20" as="geometry" />
