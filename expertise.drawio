@@ -425,7 +425,7 @@
           <mxGeometry x="812.5" y="1172" width="64.5" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-86" value="entre J+2 et le 25, juste consultation" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="1305.5" width="200" height="20" as="geometry" />
+          <mxGeometry x="1290" y="1305.5" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-87" value="data after expertise integrate in collect ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="53.5" y="1450" width="240" height="30" as="geometry" />
@@ -750,7 +750,7 @@
           <mxGeometry x="778" y="1183" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-216" value="entre le 26 et le 29, ajuster" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="1330" width="190" height="20" as="geometry" />
+          <mxGeometry x="1290" y="1330" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
