@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="7LVE9Hj-M3n7S1KzNMF_">
-    <mxGraphModel dx="2245" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2495" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,7 +295,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-19" value="Métier" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="880" width="37" height="50" as="geometry" />
+          <mxGeometry x="1180" y="880" width="37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-21">
           <mxGeometry relative="1" as="geometry">
@@ -320,7 +320,7 @@
           <mxGeometry x="650" y="875" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-25" value="&lt;div&gt;Ajuster &lt;br&gt;des classes de risques&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="975" y="900" width="140" height="40" as="geometry" />
+          <mxGeometry x="1040" y="900" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-22" target="Iihmui3m76uBsvI2rHNg-15">
           <mxGeometry relative="1" as="geometry">
@@ -412,7 +412,7 @@
           <mxGeometry x="260" y="905" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-75" value="(5)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="875" width="40" height="30" as="geometry" />
+          <mxGeometry x="1090" y="875" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-77" value="(6)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="660" width="40" height="30" as="geometry" />
