@@ -245,8 +245,8 @@
         <mxCell id="Iihmui3m76uBsvI2rHNg-2" value="Collecte&lt;div&gt;CROCUS&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-108.63000000000002" y="867" width="71.25" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Iihmui3m76uBsvI2rHNg-3" value="Actuellement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="-388" y="680" width="90" height="30" as="geometry" />
+        <mxCell id="Iihmui3m76uBsvI2rHNg-3" value="Actuellement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-403" y="630" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-12" target="Iihmui3m76uBsvI2rHNg-15">
           <mxGeometry relative="1" as="geometry">
@@ -472,8 +472,8 @@
         <mxCell id="Iihmui3m76uBsvI2rHNg-106" value="Collecte&lt;div&gt;CROCUS&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-109.13000000000002" y="1740" width="71.25" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Iihmui3m76uBsvI2rHNg-107" value="Cible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-390.5" y="1480" width="70" height="40" as="geometry" />
+        <mxCell id="Iihmui3m76uBsvI2rHNg-107" value="Cible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-425.5" y="1465" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-109" target="Iihmui3m76uBsvI2rHNg-157">
           <mxGeometry relative="1" as="geometry">
