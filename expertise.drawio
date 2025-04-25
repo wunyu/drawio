@@ -1135,7 +1135,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iihmui3m76uBsvI2rHNg-326" value="J-1" style="shape=note;size=9;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="Iihmui3m76uBsvI2rHNg-326" value="J-1 du M" style="shape=note;size=9;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1347" y="2003" width="64.5" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-327" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-311" target="Iihmui3m76uBsvI2rHNg-125">
