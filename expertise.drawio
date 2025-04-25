@@ -215,9 +215,9 @@
           <mxGeometry x="15" y="1380" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-5" value="&lt;b&gt;CROCUS&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Calcul des classes de risque)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=4;fontSize=20;spacingLeft=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="350" y="735" width="440" height="470" as="geometry" />
+          <mxGeometry x="410" y="735" width="380" height="395" as="geometry" />
         </mxCell>
-        <mxCell id="Iihmui3m76uBsvI2rHNg-7" value="BQ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
+        <mxCell id="Iihmui3m76uBsvI2rHNg-7" value="BigQuery" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
           <mxGeometry x="450" y="820" width="300" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-12" value="tb_tiers_gestion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
