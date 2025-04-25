@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="7LVE9Hj-M3n7S1KzNMF_">
-    <mxGraphModel dx="1637" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1926" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Iihmui3m76uBsvI2rHNg-98" value="&lt;b&gt;STELLAIRE&lt;/b&gt;&lt;div&gt;&lt;b&gt;Ajustement des classes de risque&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;reseau actuellement&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;corporate à venir&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=4;fontSize=20;spacingLeft=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1088" y="1670" width="400" height="640" as="geometry" />
+          <mxGeometry x="1088" y="1670" width="400" height="800" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-158" value="Relational db" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1850" width="159.99" height="332" as="geometry" />
