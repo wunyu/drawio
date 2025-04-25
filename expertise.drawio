@@ -293,7 +293,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-16" value="tables d&#39;orchyde" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="619.5" y="1170" width="127" height="30" as="geometry" />
+          <mxGeometry x="619.5" y="1180" width="127" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-17" target="Iihmui3m76uBsvI2rHNg-22">
           <mxGeometry relative="1" as="geometry">
@@ -349,7 +349,7 @@
               <mxPoint x="956" y="1395" />
               <mxPoint x="956" y="1260" />
               <mxPoint x="586" y="1260" />
-              <mxPoint x="586" y="1185" />
+              <mxPoint x="586" y="1190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -751,6 +751,9 @@
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-216" value="entre le 26 et le 29, ajuster" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1290" y="1330" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Iihmui3m76uBsvI2rHNg-220" value="d&#39;autres tables..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="619.5" y="1150" width="127" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
