@@ -347,10 +347,10 @@
           <mxGeometry x="1130" y="975" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-28" value="Apeller" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1255" y="1035" width="60" height="30" as="geometry" />
+          <mxGeometry x="1255" y="1054" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-31" value="Repondre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1187" y="1035" width="80" height="30" as="geometry" />
+          <mxGeometry x="1187" y="1054" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-35" value="Oracle&amp;nbsp;&lt;br&gt;(onperm)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
           <mxGeometry x="671.5" y="1340" width="159.99" height="90" as="geometry" />
@@ -438,9 +438,6 @@
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-86" value="entre J+2 et le 25, juste consultation" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1290" y="1305.5" width="210" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Iihmui3m76uBsvI2rHNg-87" value="data after expertise integrate in collect ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="53.5" y="1450" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-99" value="&lt;b&gt;Orchyde&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Calcul des DPD)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=4;fontSize=20;spacingLeft=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="566.5" y="1950" width="500" height="200" as="geometry" />
