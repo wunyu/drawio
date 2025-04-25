@@ -381,8 +381,8 @@
         <mxCell id="Iihmui3m76uBsvI2rHNg-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-61" target="Iihmui3m76uBsvI2rHNg-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Iihmui3m76uBsvI2rHNg-66" value="&lt;div&gt;Statut comptable après expertise&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-39" y="661" width="200" height="30" as="geometry" />
+        <mxCell id="Iihmui3m76uBsvI2rHNg-66" value="&lt;div&gt;Envoyer statut comptable après expertise&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="685" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-67" value="(1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-338" y="990" width="40" height="30" as="geometry" />
@@ -410,6 +410,9 @@
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-75" value="(5)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1020" y="875" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iihmui3m76uBsvI2rHNg-77" value="(6)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="660" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
