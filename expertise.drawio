@@ -669,7 +669,7 @@
         <mxCell id="Iihmui3m76uBsvI2rHNg-159" value="tables de paramètres" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="656.5" y="1734" width="127" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iihmui3m76uBsvI2rHNg-174" value="EXPERTISE&lt;div&gt;Frontend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Iihmui3m76uBsvI2rHNg-174" value="CROCUS&lt;div&gt;Frontend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="975" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-174" target="Iihmui3m76uBsvI2rHNg-22">
