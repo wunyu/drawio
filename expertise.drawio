@@ -433,7 +433,7 @@
           <mxGeometry x="783.5" y="1164.5" width="129" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-87" value="data after expertise integrate in collect ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="889.5" width="240" height="30" as="geometry" />
+          <mxGeometry x="-780" y="1240" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-99" value="&lt;b&gt;Orchyde&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Calcul des DPD)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=4;fontSize=20;spacingLeft=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="49.5" y="1900" width="500" height="200" as="geometry" />
@@ -669,7 +669,7 @@
           <mxGeometry x="889" y="1925" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-185" value="Actuellement" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-415" y="610" width="315" height="60" as="geometry" />
+          <mxGeometry x="-408" y="645" width="315" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
