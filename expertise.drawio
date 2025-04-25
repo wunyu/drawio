@@ -590,7 +590,7 @@
           <mxGeometry x="170.99" y="2010" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-134" value="fournir données" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="2030" width="110" height="30" as="geometry" />
+          <mxGeometry x="330" y="2020" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-136" value="doneés du M-1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-93.5" y="1651.5" width="110" height="19" as="geometry" />
@@ -637,7 +637,7 @@
           <mxGeometry x="-37.879999999999995" y="1930" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-149" value="(3)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="349.5" y="2000" width="40" height="30" as="geometry" />
+          <mxGeometry x="362.5" y="2000" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-150" value="(4)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="375.5" y="1680" width="40" height="30" as="geometry" />
