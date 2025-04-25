@@ -512,10 +512,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-121" value="Métier" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
-          <mxGeometry x="1650.5" y="2025" width="37" height="50" as="geometry" />
+          <mxGeometry x="1650.5" y="2011" width="37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-123" value="Afficher données" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#36393d;fillColor=#eeeeee;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="1375.66" y="2020" width="66.67" height="60" as="geometry" />
+          <mxGeometry x="1375.66" y="2006" width="66.67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Iihmui3m76uBsvI2rHNg-125" target="Iihmui3m76uBsvI2rHNg-157">
           <mxGeometry relative="1" as="geometry">
@@ -526,7 +526,7 @@
           <mxGeometry x="1349" y="1798" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-126" value="&lt;div&gt;Ajuster &lt;br&gt;des classes de risques&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1469" y="2050" width="140" height="40" as="geometry" />
+          <mxGeometry x="1469" y="2036" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-128" value="CRUD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1287" y="1803" width="60" height="30" as="geometry" />
@@ -609,7 +609,7 @@
           <mxGeometry x="877" y="1828" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-152" value="(5)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1519" y="2025" width="40" height="30" as="geometry" />
+          <mxGeometry x="1519" y="2011" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-153" value="(6)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="634" y="1601" width="40" height="30" as="geometry" />
@@ -621,7 +621,7 @@
           <mxGeometry x="429.12" y="1930" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-156" value="Ajuster avant le 29" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1509" y="2005" width="129" height="20" as="geometry" />
+          <mxGeometry x="1509" y="1991" width="129" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-157" value="tb_expertise" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1157" y="1813" width="110" height="30" as="geometry" />
@@ -666,7 +666,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-184" value="Launch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1406" y="1975" width="60" height="30" as="geometry" />
+          <mxGeometry x="1406" y="1971" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-185" value="Actuellement" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="123" y="720" width="337" height="60" as="geometry" />
