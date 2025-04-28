@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="7LVE9Hj-M3n7S1KzNMF_">
-    <mxGraphModel dx="4051" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -601,9 +601,6 @@
         <mxCell id="Iihmui3m76uBsvI2rHNg-106" value="Collecte&lt;div&gt;CROCUS&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="397.37" y="2172.5" width="71.25" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Iihmui3m76uBsvI2rHNg-107" value="Cible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcc99;fontSize=50;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="100.5" y="1820" width="140" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Iihmui3m76uBsvI2rHNg-315" target="Iihmui3m76uBsvI2rHNg-140" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -760,8 +757,8 @@
         <mxCell id="Iihmui3m76uBsvI2rHNg-184" value="Launch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1365.16" y="2630" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iihmui3m76uBsvI2rHNg-185" value="Actuellement" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="129.5" y="810" width="337" height="60" as="geometry" />
+        <mxCell id="Iihmui3m76uBsvI2rHNg-185" value="Architecture actuelle" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="129.5" y="810" width="540.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-186" value="Envoyer le J-1 du M" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="622" y="551" width="129" height="20" as="geometry" />
@@ -1172,6 +1169,9 @@
         </mxCell>
         <mxCell id="zwFk75ZNIjSIplroHWi4-25" value="(IT, BR)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580.5" y="2572" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zwFk75ZNIjSIplroHWi4-26" value="Architecture cible" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="84.5" y="1810" width="540.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
