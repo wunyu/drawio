@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="7LVE9Hj-M3n7S1KzNMF_">
-    <mxGraphModel dx="859" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-80" value="&lt;b&gt;STELLAIRE&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Ajustement des classes de risque&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;reseau actuellement&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;corporate à venir&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=4;fontSize=20;spacingLeft=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="988.5" y="1430" width="346.5" height="270" as="geometry" />
+          <mxGeometry x="988.5" y="1430" width="346.5" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-45" value="&lt;b&gt;Orchyde&lt;/b&gt;&lt;div&gt;&lt;b&gt;Calcul des DPD&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;réseau&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=4;fontSize=20;spacingLeft=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="561.5" y="1430" width="410" height="250" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry x="1300" y="133" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-1" value="&lt;b&gt;Systèm de gestion &lt;br&gt;réseau/clientèle&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=3;fontSize=20;spacingLeft=0;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="338.5" y="965" width="200" height="735" as="geometry" />
+          <mxGeometry x="338.5" y="965" width="200" height="715" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Iihmui3m76uBsvI2rHNg-2" target="Iihmui3m76uBsvI2rHNg-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -437,10 +437,10 @@
           <mxGeometry x="620" y="1500" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-38" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="960" y="1530" width="50" height="30" as="geometry" />
+          <mxGeometry x="904" y="1543" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iihmui3m76uBsvI2rHNg-44" value="Transferer données" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="930" y="1550" width="120" height="30" as="geometry" />
+        <mxCell id="Iihmui3m76uBsvI2rHNg-44" value="Transferer données" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="868.5" y="1565" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-50" value="donneés du M-1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="418.5" y="1076.5" width="110" height="19" as="geometry" />
@@ -511,7 +511,7 @@
           <mxGeometry x="474.5" y="1544.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-72" value="(3)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="920" y="1530" width="40" height="30" as="geometry" />
+          <mxGeometry x="876.5" y="1543" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-73" value="(4)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="796.81" y="1124" width="40" height="30" as="geometry" />
@@ -1158,8 +1158,8 @@
         <mxCell id="zwFk75ZNIjSIplroHWi4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zwFk75ZNIjSIplroHWi4-1" target="Iihmui3m76uBsvI2rHNg-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="950" y="1569" />
-              <mxPoint x="950" y="1420" />
+              <mxPoint x="960" y="1569" />
+              <mxPoint x="960" y="1420" />
               <mxPoint x="550" y="1420" />
               <mxPoint x="550" y="1341" />
             </Array>
