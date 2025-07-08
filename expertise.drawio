@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
   <diagram name="Page-1" id="7LVE9Hj-M3n7S1KzNMF_">
-    <mxGraphModel dx="2578" dy="1429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1040,21 +1040,21 @@
             <mxPoint x="662" y="2333" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1230" y="2400" />
-              <mxPoint x="1230" y="1920" />
-              <mxPoint x="580" y="1920" />
+              <mxPoint x="1230" y="1910" />
+              <mxPoint x="580" y="1910" />
               <mxPoint x="580" y="2463" />
               <mxPoint x="664" y="2463" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-321" value="le J-1 du M" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1612.81" y="1760.5" width="92.5" height="15" as="geometry" />
+          <mxGeometry x="748.31" y="1890.5" width="92.5" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-322" value="Mettre à jour statut comptable et code surveillence et classe de risque&amp;nbsp;après expertise" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1472.5" y="1775.5" width="480" height="30" as="geometry" />
+          <mxGeometry x="608" y="1905.5" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-324" value="(7)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1576.56" y="1753" width="40" height="30" as="geometry" />
+          <mxGeometry x="712.06" y="1883" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-325" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;strokeColor=#FF0000;" parent="1" source="Iihmui3m76uBsvI2rHNg-311" target="Iihmui3m76uBsvI2rHNg-315" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1195,7 +1195,7 @@
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h2Ps1tc7QoMtF1_5MuMG-25" value="chercher" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1751" y="1753" width="70" height="30" as="geometry" />
+          <mxGeometry x="886.5" y="1883" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h2Ps1tc7QoMtF1_5MuMG-28" value="GCS&lt;div&gt;(2 fichiers generé pour que CROCUS le recupérer et aussi l&#39;enoyver dans le server&lt;/div&gt;&lt;div&gt;?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1537" y="2180" width="200" height="105" as="geometry" />
