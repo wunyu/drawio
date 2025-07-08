@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
   <diagram name="Page-1" id="7LVE9Hj-M3n7S1KzNMF_">
-    <mxGraphModel dx="1891" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="915" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="750.25" y="5070" width="449.75" height="290" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-280" value="&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;BQ&lt;/u&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="928.96" y="5108.5" width="196.04" height="216" as="geometry" />
+          <mxGeometry x="928.96" y="5120" width="196.04" height="204.5" as="geometry" />
         </mxCell>
         <mxCell id="Iihmui3m76uBsvI2rHNg-98" value="&lt;b&gt;STELLAIRE&lt;/b&gt;&lt;div&gt;&lt;b&gt;Ajustement des classes de risque&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;reseau actuellement&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;corporate à venir&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=4;fontSize=20;spacingLeft=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1340" y="3400" width="550" height="930" as="geometry" />
@@ -2015,7 +2015,7 @@
           <mxGeometry x="778" y="5159.25" width="110" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-307" value="&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;BQ&lt;/u&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="945.46" y="5453" width="196.04" height="216" as="geometry" />
+          <mxGeometry x="945.46" y="5460" width="196.04" height="209" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CndRqPwO-vH62L-NMYK-309" target="0CndRqPwO-vH62L-NMYK-312">
           <mxGeometry relative="1" as="geometry" />
