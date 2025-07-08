@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
   <diagram name="Page-1" id="7LVE9Hj-M3n7S1KzNMF_">
-    <mxGraphModel dx="1668" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1901,13 +1901,10 @@
           <mxGeometry x="636" y="5252.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-182" value="(2)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="647" y="5595" width="40" height="30" as="geometry" />
+          <mxGeometry x="639" y="5590.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0CndRqPwO-vH62L-NMYK-183" value="charger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="644.5" y="5297.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0CndRqPwO-vH62L-NMYK-184" value="charger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="647" y="5657.5" width="60" height="30" as="geometry" />
+        <mxCell id="0CndRqPwO-vH62L-NMYK-184" value="transfere fichier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="636" y="5634.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-188" value="(6)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1926.25" y="5645" width="40" height="30" as="geometry" />
@@ -2043,6 +2040,15 @@
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-319" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;u&gt;GCF&lt;/u&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;trigger chargement de données&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="793.56" y="5536.75" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0CndRqPwO-vH62L-NMYK-322" value="transfere fichier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="639" y="5290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0CndRqPwO-vH62L-NMYK-323" value="NiFi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="663.5" y="5260" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0CndRqPwO-vH62L-NMYK-324" value="NiFi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="662" y="5604.5" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
