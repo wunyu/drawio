@@ -1852,7 +1852,7 @@
             <mxPoint x="1889.9999999999998" y="5605.538461538461" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0CndRqPwO-vH62L-NMYK-162" value="Afficher données" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#36393d;fillColor=#eeeeee;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="0CndRqPwO-vH62L-NMYK-162" value="browser" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#36393d;fillColor=#eeeeee;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="1949.8399999999997" y="5576" width="66.67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-164" value="&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;CR&lt;br&gt;&lt;/u&gt;&lt;/font&gt;Backend&lt;div&gt;(Python)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1861,11 +1861,11 @@
         <mxCell id="0CndRqPwO-vH62L-NMYK-166" value="CRUD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1460" y="5442" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0CndRqPwO-vH62L-NMYK-167" value="Apeller" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="5506.75" width="60" height="30" as="geometry" />
+        <mxCell id="0CndRqPwO-vH62L-NMYK-167" value="call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="5506.75" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0CndRqPwO-vH62L-NMYK-168" value="Repondre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="5506.75" width="80" height="30" as="geometry" />
+        <mxCell id="0CndRqPwO-vH62L-NMYK-168" value="respond" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="5506.75" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="0CndRqPwO-vH62L-NMYK-175" target="0CndRqPwO-vH62L-NMYK-315">
           <mxGeometry relative="1" as="geometry" />
@@ -1878,8 +1878,8 @@
             <mxPoint x="371.25" y="5332.555555555556" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0CndRqPwO-vH62L-NMYK-177" value="fournir le fichier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="373.75" y="5287" width="110" height="30" as="geometry" />
+        <mxCell id="0CndRqPwO-vH62L-NMYK-177" value="provide files" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="383.75" y="5287" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1" source="0CndRqPwO-vH62L-NMYK-266" target="0CndRqPwO-vH62L-NMYK-175">
           <mxGeometry relative="1" as="geometry">
@@ -1899,8 +1899,8 @@
         <mxCell id="0CndRqPwO-vH62L-NMYK-182" value="(2)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="639" y="5590.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0CndRqPwO-vH62L-NMYK-184" value="transfere fichier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="637" y="5634.5" width="110" height="30" as="geometry" />
+        <mxCell id="0CndRqPwO-vH62L-NMYK-184" value="transfer files" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="647" y="5634.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-192" value="&lt;div&gt;&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;CR&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Frontend&lt;/div&gt;&lt;div&gt;(React)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1543.5" y="5570" width="120" height="70" as="geometry" />
@@ -1917,7 +1917,7 @@
         <mxCell id="0CndRqPwO-vH62L-NMYK-262" value="&lt;u style=&quot;color: rgb(51, 153, 255);&quot;&gt;GCS&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- stock 2 files for CROCUS and Credit Reseau&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- mount volume&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1507.66" y="5226" width="303.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0CndRqPwO-vH62L-NMYK-264" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;u&gt;Cloud Scheduler&lt;/u&gt;&lt;/font&gt;&amp;nbsp;?&lt;div&gt;&amp;nbsp;&lt;font color=&quot;#3399ff&quot;&gt;&lt;u&gt;Composer&lt;/u&gt;&lt;/font&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;?&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- generate files&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- send files&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- get data from CROCUS to raw ?&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0CndRqPwO-vH62L-NMYK-264" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;u&gt;Cloud Scheduler&lt;/u&gt;&lt;/font&gt;&amp;nbsp;?&lt;div&gt;&amp;nbsp;&lt;font color=&quot;#3399ff&quot;&gt;&lt;u&gt;Composer&lt;/u&gt;&lt;/font&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;?&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- generate files&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- send files&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- copy data to raw ?&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1546.5" y="5120" width="223.5" height="82" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-265" value="Server&lt;br&gt;(Credit reseau)" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
@@ -2007,8 +2007,8 @@
         <mxCell id="0CndRqPwO-vH62L-NMYK-319" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;u&gt;GCF&lt;/u&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;trigger chargement de données&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="793.56" y="5536.75" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0CndRqPwO-vH62L-NMYK-322" value="transfere fichier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="5290" width="110" height="30" as="geometry" />
+        <mxCell id="0CndRqPwO-vH62L-NMYK-322" value="transfer files" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="5290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-323" value="NiFi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="663.5" y="5260" width="40" height="30" as="geometry" />
@@ -2040,8 +2040,8 @@
         <mxCell id="0CndRqPwO-vH62L-NMYK-337" value="(3)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="905.46" y="5613" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0CndRqPwO-vH62L-NMYK-339" value="charger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="900.73" y="5630.5" width="60" height="30" as="geometry" />
+        <mxCell id="0CndRqPwO-vH62L-NMYK-339" value="load" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="905.73" y="5630.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-340" value="(4)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1230" y="5564.5" width="40" height="30" as="geometry" />
@@ -2076,8 +2076,8 @@
         <mxCell id="0CndRqPwO-vH62L-NMYK-354" value="(3)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="890.9200000000001" y="5265" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0CndRqPwO-vH62L-NMYK-355" value="charger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="886.19" y="5282.5" width="60" height="30" as="geometry" />
+        <mxCell id="0CndRqPwO-vH62L-NMYK-355" value="load" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="891.19" y="5282.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-359" value="&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;Artifact Registry&lt;/u&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1268.5" y="5117" width="120" height="60" as="geometry" />
