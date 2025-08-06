@@ -2075,6 +2075,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cP2Uipl5pSDTqvcI7bDn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cP2Uipl5pSDTqvcI7bDn-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360.4951851851847" y="5202" as="sourcePoint" />
+            <mxPoint x="1306.272962962963" y="5480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1380" y="5240" />
+              <mxPoint x="1260" y="5240" />
+              <mxPoint x="1260" y="5480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cP2Uipl5pSDTqvcI7bDn-2" value="&lt;u style=&quot;color: rgb(51, 153, 255);&quot;&gt;GCF&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- python script to transfer data from BQ to Cloud SQL&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- generate files and save them in GCS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1275" y="5132" width="292.25" height="70" as="geometry" />
         </mxCell>
