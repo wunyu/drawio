@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.0.9">
   <diagram name="Page-1" id="UvZNAKlhLB8XKln5iA3g">
-    <mxGraphModel dx="3311" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2484" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -834,11 +834,11 @@
         </mxCell>
         <mxCell id="wAHJT5awu5P1_dG3o4Xo-206" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="704" y="817" as="sourcePoint" />
-            <mxPoint x="911.5" y="816.5" as="targetPoint" />
+            <mxPoint x="398" y="817" as="sourcePoint" />
+            <mxPoint x="605.5" y="816.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="751" y="816.5" />
-              <mxPoint x="761" y="816.5" />
+              <mxPoint x="445" y="816.5" />
+              <mxPoint x="455" y="816.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1249,19 +1249,22 @@
           <mxGeometry x="-10" y="282" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAHJT5awu5P1_dG3o4Xo-260" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Code Type Tiers RCI =&amp;nbsp;&lt;/span&gt;tg.CD_TY_CLI_RCI_DER_DMD_TRT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="533" width="350" height="30" as="geometry" />
+          <mxGeometry x="-712" y="272" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAHJT5awu5P1_dG3o4Xo-262" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Code Type Tiers =&amp;nbsp;&lt;/span&gt;te.CD_TY_TRS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="533" width="210" height="30" as="geometry" />
+          <mxGeometry x="-482" y="270" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAHJT5awu5P1_dG3o4Xo-263" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Code Type Client réseau =&amp;nbsp;&lt;/span&gt;te.CD_TY_CLI_RESO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="533" width="290" height="30" as="geometry" />
+          <mxGeometry x="-362" y="270" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAHJT5awu5P1_dG3o4Xo-264" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;code usage du véhicule =&amp;nbsp;&lt;/span&gt;ec.CD_USG_VEH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="540" width="260" height="30" as="geometry" />
+          <mxGeometry x="-222" y="277" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TXjcQR3xmsznsRPM7MU7-2" value="(Code Type Tiers RCI : &#39;PA&#39; ou Code Type Tiers RCI&amp;nbsp;=NULL)&amp;nbsp;&lt;div&gt;et (Code Type Tiers=&#39;PPHY&#39; ou Code Type Client réseau =NULL)&lt;/div&gt;&lt;div&gt;&amp;nbsp;et code usage du véhicule=&#39;PR&#39;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1100" y="510" width="520" height="60" as="geometry" />
+        <mxCell id="TXjcQR3xmsznsRPM7MU7-2" value="(Code Type Tiers RCI : &#39;PA&#39; ou Code Type Tiers RCI&amp;nbsp;=NULL)&amp;nbsp;&lt;div&gt;et (Code Type Tiers=&#39;PPHY&#39; ou Code Type Client réseau =NULL)&lt;/div&gt;&lt;div&gt;&amp;nbsp;et (code usage du véhicule=&#39;PRI&#39; sur un contrat ID_GEST_TRS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="506.5" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TXjcQR3xmsznsRPM7MU7-3" value="(Code Type Tiers RCI : &#39;PP&#39; ou Code Type Tiers RCI : &#39;RES&#39; ou&amp;nbsp;&amp;nbsp;Code Type Tiers : &#39;PPMY&#39; ou Code type cient RCI non disponible )&lt;div&gt;et code type client de tiers=&#39;PPMY&#39;&amp;nbsp;&lt;/div&gt;&lt;div&gt;et (code type tiers réseau= non null ou (code client réseau =null et code usage de véhicule =PRO))&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="641" width="790" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
