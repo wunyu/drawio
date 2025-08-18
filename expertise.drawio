@@ -1910,7 +1910,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0CndRqPwO-vH62L-NMYK-262" value="&lt;u style=&quot;color: rgb(51, 153, 255);&quot;&gt;GCS&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- stock files for &lt;br&gt;CROCUS and Credit Reseau&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="5370" width="190.75" height="70" as="geometry" />
+          <mxGeometry x="1540" y="5370" width="190.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cP2Uipl5pSDTqvcI7bDn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0CndRqPwO-vH62L-NMYK-264" target="cP2Uipl5pSDTqvcI7bDn-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2109,6 +2109,9 @@
         </mxCell>
         <mxCell id="AZ6tigBxfbCt5R4koLxy-12" value="(11)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1764.5" y="5374" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AdPMCPs1PsvJTm7GlVK_-1" value="(garder les fichiers pendant 2 ans)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1530.38" y="5430.59" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
