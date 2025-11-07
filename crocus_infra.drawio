@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
   <diagram name="Page-1" id="71F-mk6-pX9GunC5DZ6l">
-    <mxGraphModel dx="-2102" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-2314" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1001,7 +1001,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4370" y="1510" />
-              <mxPoint x="4370" y="1373" />
+              <mxPoint x="4370" y="1380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1079,7 +1079,7 @@
           <mxGeometry x="4150" y="1102.4099999999999" width="48.09" height="43.41" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-52" value="&lt;b&gt;&lt;font style=&quot;color: rgb(89, 89, 89);&quot;&gt;Cloud Function&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="4192.09" y="1123.1100000000001" width="130" height="30" as="geometry" />
+          <mxGeometry x="4204.5" y="1123.1000000000001" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-53" value="Envoyer la notification par email" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;spacingBottom=-20;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="4450.84" y="1123.1" width="170" height="66.31" as="geometry" />
@@ -1088,7 +1088,7 @@
           <mxGeometry x="4428.75" y="1103.4099999999999" width="48.09" height="43.41" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-55" value="&lt;b&gt;&lt;font style=&quot;color: rgb(89, 89, 89);&quot;&gt;Cloud Function&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="4470.84" y="1124.1100000000001" width="130" height="30" as="geometry" />
+          <mxGeometry x="4474.88" y="1123.1000000000001" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-61" target="SgVMOTG03er0LUs_GP2E-50">
           <mxGeometry relative="1" as="geometry">
@@ -1186,7 +1186,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4390" y="1536" />
-              <mxPoint x="4390" y="1430" />
+              <mxPoint x="4390" y="1440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1213,7 +1213,8 @@
         <mxCell id="SgVMOTG03er0LUs_GP2E-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;strokeColor=#CC6600;entryX=0.001;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-83" target="SgVMOTG03er0LUs_GP2E-100">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4401" y="1415" />
+              <mxPoint x="4110" y="1415" />
+              <mxPoint x="4110" y="1425" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1228,12 +1229,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-83">
+        <mxCell id="SgVMOTG03er0LUs_GP2E-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-83" target="SgVMOTG03er0LUs_GP2E-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4039" y="1400" />
               <mxPoint x="4110" y="1400" />
-              <mxPoint x="4110" y="1355" />
+              <mxPoint x="4110" y="1371" />
             </Array>
             <mxPoint x="4401" y="1355" as="targetPoint" />
           </mxGeometry>
