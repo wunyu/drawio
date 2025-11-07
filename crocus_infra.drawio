@@ -911,7 +911,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-20" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="4125" y="1284" width="235" height="136" as="geometry" />
+          <mxGeometry x="4120" y="1284" width="240" height="136" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-21" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="3578.25" y="1396" width="170" height="234" as="geometry" />
@@ -995,7 +995,7 @@
           <mxGeometry x="4100" y="1260" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-39" value="Cloud Composer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#595959;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="4153.5" y="1284" width="130" height="30" as="geometry" />
+          <mxGeometry x="4176" y="1284" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-41" target="SgVMOTG03er0LUs_GP2E-59">
           <mxGeometry relative="1" as="geometry">
