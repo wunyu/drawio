@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
   <diagram name="Page-1" id="71F-mk6-pX9GunC5DZ6l">
-    <mxGraphModel dx="-2728" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1631" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1200,7 +1200,7 @@
         <mxCell id="SgVMOTG03er0LUs_GP2E-99" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Credit Monitoring Wholesale&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="4737.75" y="1444" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-100" target="SgVMOTG03er0LUs_GP2E-37">
+        <mxCell id="SgVMOTG03er0LUs_GP2E-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-100" target="SgVMOTG03er0LUs_GP2E-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-100" value="&lt;u&gt;dataset &lt;b&gt;refined&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;(Copie d&#39;oracle)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;(Chargement refined)&lt;br&gt;(Calcul d&#39;indicateur)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
