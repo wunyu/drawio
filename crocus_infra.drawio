@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
   <diagram name="Page-1" id="71F-mk6-pX9GunC5DZ6l">
-    <mxGraphModel dx="-775" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-792" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SgVMOTG03er0LUs_GP2E-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-3" target="SgVMOTG03er0LUs_GP2E-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-3" value="&lt;b&gt;Google Cloud Platform&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=3;fontSize=20;spacingLeft=25;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="3776.25" y="1051" width="1163.75" height="569" as="geometry" />
         </mxCell>
@@ -917,7 +920,7 @@
           <mxGeometry x="3578.25" y="1396" width="170" height="234" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-24" value="&lt;font color=&quot;#595959&quot;&gt;&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;BCR et IFRS9&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2867.5" y="1355" width="470" height="263.19" as="geometry" />
+          <mxGeometry x="2867.5" y="1420" width="470" height="198.19" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-26" target="SgVMOTG03er0LUs_GP2E-61">
           <mxGeometry relative="1" as="geometry" />
@@ -1202,7 +1205,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-103" value="Anadefi" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3030" y="1198" width="45" height="60" as="geometry" />
+          <mxGeometry x="3090" y="1198" width="45" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CC6600;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-103" target="SgVMOTG03er0LUs_GP2E-87">
           <mxGeometry relative="1" as="geometry">
@@ -1281,8 +1284,7 @@
         <mxCell id="SgVMOTG03er0LUs_GP2E-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-134" target="SgVMOTG03er0LUs_GP2E-136">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2680" y="1440" />
-              <mxPoint x="2930" y="1440" />
+              <mxPoint x="2680" y="1504" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1307,44 +1309,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-136" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;div&gt;Kit CARIS&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2930" y="1430" width="130" height="30" as="geometry" />
+          <mxGeometry x="2940" y="1489" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-140" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;div&gt;Socle IFRS9&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3140" y="1506.8299999999997" width="130" height="92.14" as="geometry" />
+          <mxGeometry x="3135" y="1533.41" width="130" height="38.99" as="geometry" />
         </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-141" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;div&gt;BCR&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3140" y="1390" width="130" height="110" as="geometry" />
+        <mxCell id="SgVMOTG03er0LUs_GP2E-141" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;div&gt;BCR&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3135" y="1484" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-147" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4989.5" y="1051" width="190" height="569" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-151" value="SAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5024.5" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="5024.5" y="1099.86" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-152" value="IS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5024.5" y="1159.8600000000001" width="120" height="60" as="geometry" />
+          <mxGeometry x="5024.5" y="1182.0500000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-153" value="Anacredit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5260" y="1430" width="120" height="60" as="geometry" />
+          <mxGeometry x="5024.5" y="1347" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-154" value="BCCL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5260" y="1517.22" width="120" height="60" as="geometry" />
+          <mxGeometry x="5024.5" y="1268.22" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-155" value="Systeme de gestion Reseau" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5280" y="1595.45" width="120" height="60" as="geometry" />
+          <mxGeometry x="5024.5" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-157" value="Systeme de gestion Reseau" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5270" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="5024.5" y="1522.59" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-159" target="SgVMOTG03er0LUs_GP2E-141">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3205" y="1290" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="SgVMOTG03er0LUs_GP2E-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-159" target="SgVMOTG03er0LUs_GP2E-189">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-159" value="Orchyde" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2940" y="1255.2199999999998" width="45" height="60" as="geometry" />
+          <mxGeometry x="2950" y="1169.9999999999995" width="45" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-161" value="Files" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="2770" y="1289.81" width="27.5" height="30" as="geometry" />
@@ -1353,21 +1351,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-162" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
-          <mxGeometry x="2952.4" y="1105.86" width="58.49" height="74.14" as="geometry" />
+          <mxGeometry x="3420" y="1105.86" width="58.49" height="74.14" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-164" value="Files" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="2650" y="1343" width="27.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-167" value="&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;DPD&lt;/b&gt;&lt;/p&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="2890" y="1228" width="50" height="30" as="geometry" />
+        <mxCell id="SgVMOTG03er0LUs_GP2E-167" value="&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;DPD&lt;/p&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3020" y="1146.82" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-169" value="" style="rounded=0;endArrow=none;dashed=1;html=1;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" source="SgVMOTG03er0LUs_GP2E-167" target="SgVMOTG03er0LUs_GP2E-159" parent="1">
+        <mxCell id="SgVMOTG03er0LUs_GP2E-169" value="" style="rounded=0;endArrow=none;dashed=1;html=1;entryX=1;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" source="SgVMOTG03er0LUs_GP2E-167" target="SgVMOTG03er0LUs_GP2E-159" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3011.1111111111113" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-171" value="&lt;div&gt;EAD&lt;/div&gt;&lt;div&gt;Segmentation DRCC&lt;/div&gt;&lt;div&gt;Défaut&lt;/div&gt;&lt;div&gt;Segmentation LGD&lt;/div&gt;&lt;div&gt;Notation&lt;/div&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="3294.25" y="1390" width="142" height="70" as="geometry" />
+          <mxGeometry x="3180" y="1343" width="142" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-172" value="" style="rounded=0;endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-171" target="SgVMOTG03er0LUs_GP2E-141">
           <mxGeometry relative="1" as="geometry">
@@ -1375,7 +1373,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-174" value="&lt;div&gt;EAD&lt;/div&gt;&lt;div&gt;Segmentation DRCC&lt;/div&gt;&lt;div&gt;Défaut&lt;/div&gt;&lt;div&gt;Segmentation LGD&lt;/div&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="3308" y="1557.72" width="142" height="62.28" as="geometry" />
+          <mxGeometry x="3360" y="1547.72" width="142" height="62.28" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-175" value="" style="rounded=0;endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-174" target="SgVMOTG03er0LUs_GP2E-140">
           <mxGeometry relative="1" as="geometry">
@@ -1386,7 +1384,7 @@
           <mxGeometry x="4739.5" y="1136.25" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-177" value="Calcul PD, LGD, PRA, THB" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="5200" y="1059.82" width="210" height="20.18" as="geometry" />
+          <mxGeometry x="5225" y="1051" width="110" height="37" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-178" value="" style="rounded=0;endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-177" target="SgVMOTG03er0LUs_GP2E-151">
           <mxGeometry relative="1" as="geometry">
@@ -1394,25 +1392,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-180" value="&lt;div&gt;Loandepo&lt;/div&gt;&lt;div&gt;Rating …&lt;/div&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="5335" y="1150" width="125" height="30" as="geometry" />
+          <mxGeometry x="5240" y="1152.05" width="102.5" height="37.95" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-181" value="" style="rounded=0;endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-180" target="SgVMOTG03er0LUs_GP2E-152">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5280" y="1200.18" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-182" value="&lt;div&gt;Taux de change&lt;/div&gt;&lt;div&gt;Provisions&lt;/div&gt;&lt;div&gt;Capitaux propres …&lt;/div&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="5575" y="1300" width="210" height="50" as="geometry" />
+        <mxCell id="SgVMOTG03er0LUs_GP2E-182" value="&lt;div&gt;Loandepo&lt;/div&gt;&lt;div&gt;Rating …&lt;/div&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="5210" y="1242.05" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-183" value="" style="rounded=0;endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-182" target="SgVMOTG03er0LUs_GP2E-154">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5520" y="1350.18" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-184" value="Calcul PD, LGD, PRA, THB" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="5695" y="1460" width="210" height="20.18" as="geometry" />
+        <mxCell id="SgVMOTG03er0LUs_GP2E-184" value="&lt;div&gt;PD / défaut&lt;/div&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="5220" y="1357.25" width="90" height="25.5" as="geometry" />
         </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-185" value="" style="rounded=0;endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-184">
+        <mxCell id="SgVMOTG03er0LUs_GP2E-185" value="" style="rounded=0;endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-184" target="SgVMOTG03er0LUs_GP2E-153">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5640" y="1510.18" as="targetPoint" />
           </mxGeometry>
@@ -1423,6 +1421,27 @@
         <mxCell id="SgVMOTG03er0LUs_GP2E-187" value="" style="rounded=0;endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-186">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5600" y="1660.18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SgVMOTG03er0LUs_GP2E-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-189" target="SgVMOTG03er0LUs_GP2E-141">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3030" y="1298" />
+              <mxPoint x="3030" y="1470" />
+              <mxPoint x="3100" y="1470" />
+              <mxPoint x="3100" y="1504" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SgVMOTG03er0LUs_GP2E-189" value="Expertise" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3007.5" y="1273.2200000000003" width="45" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SgVMOTG03er0LUs_GP2E-191" value="&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;Sera replacé par STELLAIRE&lt;/p&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3130" y="1290.0000000000002" width="120" height="41.59" as="geometry" />
+        </mxCell>
+        <mxCell id="SgVMOTG03er0LUs_GP2E-192" value="" style="rounded=0;endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-191" target="SgVMOTG03er0LUs_GP2E-189">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2978" y="1212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
