@@ -1335,11 +1335,8 @@
         <mxCell id="SgVMOTG03er0LUs_GP2E-154" value="BCCL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5024.5" y="1268.22" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-155" value="Systeme de gestion Reseau" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgVMOTG03er0LUs_GP2E-155" value="&lt;div&gt;BCR DECISIONNELLE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5024.5" y="1430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-157" value="Systeme de gestion Reseau" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5024.5" y="1522.59" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-159" target="SgVMOTG03er0LUs_GP2E-189">
           <mxGeometry relative="1" as="geometry" />
