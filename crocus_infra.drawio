@@ -1235,10 +1235,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-106" value="Actuelle" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3390" y="970" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-107" value="Actuelle" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="3373.75" y="2027" width="60" height="30" as="geometry" />
+          <mxGeometry x="3337.5" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-108" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Stellaire&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;verticalAlign=middle;fontSize=15;align=center;" vertex="1" parent="1">
           <mxGeometry x="4741.5" y="1284.81" width="140" height="40" as="geometry" />
@@ -1277,6 +1274,9 @@
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-84" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAhCAMAAAB0r6y8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKOUExURf///9vb25eXl2xsbJWVldnZ2f39/QEBAQAAAGZmZvv7+2lpaQgICEtLS0xMTAoKCmBgYNTU1B0dHdPT09jY2CIiIs3NzaKiooSEhI6OjpiYmLKysllZWWJiYqmpqfHx8RsbG2pqasnJycrKym9vbxUVFe7u7u/v74uLi0JCQicnJy0tLVhYWLGxsb+/vwsLCwcHB7i4uM7Ozvn5+dLS0lRUVBAQEA4ODlFRUe3t7T4+PoeHh3Z2dhgYGG1tbeDg4J6enuTk5Pz8/PX19ff39/b29vT09NXV1cTExOrq6v7+/vj4+Ojo6M/Pz+fn57m5ufDw8Lq6urW1tZOTk11dXQYGBuXl5aioqLOzs09PT66urpSUlMzMzKqqqpGRkdra2kFBQYKCgsPDw3R0dMLCwsfHx2dnZ3V1daenp4aGhsDAwHBwcIODg62trYWFhXd3d3JycnFxcYiIiNfX1xkZGQwMDDc3N5CQkGtrayMjIwICAuHh4cvLy/r6+t/f397e3uzs7PPz86+vr9zc3FJSUnNzczAwMJubm0NDQ1NTU42NjV5eXiQkJLS0tDQ0NEVFRfLy8t3d3RISElpaWi4uLhYWFpycnFdXVyUlJYyMjBQUFLe3tzU1NVtbWx8fH2VlZQkJCdbW1kBAQIqKiru7uxoaGiAgIHh4eEZGRjg4OObm5kpKSqurqwUFBREREUdHRz8/P2NjY5qamrCwsL29vaWlpSgoKKCgoMHBwaysrAQEBFxcXDw8PC8vLyYmJklJSaGhoWRkZOnp6QMDAzk5OR4eHg0NDaOjo39/f1BQUFVVVaampmhoaCEhIX19fTo6Om5ubkhISOvr67a2tp+fn35+fsbGxnx8fNHR0QAAALQqyhIAAADadFJOU/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AgwWs3gAAAAlwSFlzAAAXEQAAFxEByibzPwAAAqZJREFUSEutVsGx6yAM5AgFcKEAqoIamKEKTszQA2cKoaq/K3DsZH5yeexMYhvBIq0kbEU0Z4xrcnsQRgvMfjwEspaJv7kHjqBpbSFAs1qHPXQCTuvMa9baycAZ9B09tIgycAgD2QoBrMPjyedi7TywAdxd6HgIkJg4kL424fAoUri4KzkxALE4hwi88kimV63zIayYpunb/B1wmK5K3uinBy8XRNHb9FZidsGFmHM22KLBrqtKWv9sonClCxOlyqA0r6DtqhsTczcpRR8daMEEc8qZTvyg7RRBVwaE+Yye3nKB0AbVgm/etx4bNOgwTD248CctPFywrvAyXUbeJGdC+x9MbXkB7dcOImvq3VVS6kLHeRXbN9ryov3mLXp3rC1xLNigfKpjlN1vH7SvtN/ePmmfVXH1LjDW5AcWbaoVggdkYJhQsKVDSKVcKTO1gqEjzpFCLcuPK/cAZPgoQ6FFFMXzVg9RyHAEKKT1HquM5+02Lydvb5H+5e3NDS6mEROoVVe+I5lJtQrhUBHgihhAbaLwKSD3Xvph/nYXPmBlS3aMurWVvsagyCiVjQpPT21RmFyNtaIyFuylUgnxqoT6WQnsJmBXqlL2k1Zm1ivQ+3S96zaKaNO5R91iN7v6ZGkz3mlhJu+uuCet5BgT+Iwt5IzBAIMCbYP4VTImBjC90Xr8wIt/ocPuL1pR7L0unmcCfZIymVHCEdq7eTF1Ks/4YmSXPg61zxOMJxStQsu9rPfS2AwaXpfnmYCtCotjm52PODtIIpIWcRN89T5vMYPsPfIromeTAu5xG6J40d7MyeSmSOmFVaqI4NRzbwe6FgIilXeZknfZkuQvgH7iGqQ/8GJ8AbTSvVeNHAK7HRqf/qph9DjmjqTpDeQFpKROorl09PtWqX8TdfqHSq50AwAAAABJRU5ErkJggg==;imageBorder=none;strokeWidth=3;" vertex="1" parent="SgVMOTG03er0LUs_GP2E-123">
           <mxGeometry x="1.0835776720341528e-13" y="11.109999999999673" width="93.24" height="35.78" as="geometry" />
+        </mxCell>
+        <mxCell id="SgVMOTG03er0LUs_GP2E-129" value="old" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="2048" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
