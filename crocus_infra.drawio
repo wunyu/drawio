@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
   <diagram name="Page-1" id="71F-mk6-pX9GunC5DZ6l">
-    <mxGraphModel dx="-1040" dy="1201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1701" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1201,8 +1201,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4134" y="610" />
-              <mxPoint x="4190" y="610" />
-              <mxPoint x="4190" y="740" />
+              <mxPoint x="4160" y="610" />
+              <mxPoint x="4160" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1215,7 +1215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-134" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;div&gt;passerelle&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4059.15" y="492.7499999999997" width="150" height="30.14" as="geometry" />
+          <mxGeometry x="4059.15" y="509.9999999999997" width="150" height="30.14" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-135" target="SgVMOTG03er0LUs_GP2E-140">
           <mxGeometry relative="1" as="geometry" />
@@ -1257,10 +1257,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-159" value="Orchyde" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4580.04" y="457.55999999999955" width="45" height="60" as="geometry" />
+          <mxGeometry x="4457.94" y="419.99999999999955" width="45" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-161" value="Files" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="4100" y="529.9999999999999" width="27.5" height="30" as="geometry" />
+          <mxGeometry x="4100" y="549.9999999999999" width="27.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-162" target="SgVMOTG03er0LUs_GP2E-61">
           <mxGeometry relative="1" as="geometry">
@@ -1274,7 +1274,7 @@
           <mxGeometry x="3945.75" y="633.3599999999999" width="58.49" height="74.14" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-167" value="&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;DPD&lt;/p&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="4617" y="402.7499999999999" width="50" height="30" as="geometry" />
+          <mxGeometry x="4537.94" y="397.5599999999999" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-169" value="" style="rounded=0;endArrow=none;dashed=1;html=1;entryX=1;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" source="SgVMOTG03er0LUs_GP2E-167" target="SgVMOTG03er0LUs_GP2E-159" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1283,7 +1283,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-171" value="&lt;div&gt;EAD&lt;/div&gt;&lt;div&gt;Segmentation DRCC&lt;/div&gt;&lt;div&gt;Défaut&lt;/div&gt;&lt;div&gt;Segmentation LGD&lt;/div&gt;&lt;div&gt;Notation&lt;/div&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="4538" y="615" width="142" height="70" as="geometry" />
+          <mxGeometry x="4419.04" y="580" width="142" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-172" value="" style="rounded=0;endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-171" target="SgVMOTG03er0LUs_GP2E-141">
           <mxGeometry relative="1" as="geometry">
@@ -1291,7 +1291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-174" value="&lt;div&gt;EAD&lt;/div&gt;&lt;div&gt;Segmentation DRCC&lt;/div&gt;&lt;div&gt;Défaut&lt;/div&gt;&lt;div&gt;Segmentation LGD&lt;/div&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="4555.04" y="768.49" width="142" height="62.28" as="geometry" />
+          <mxGeometry x="4546" y="806.75" width="142" height="62.28" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-175" value="" style="rounded=0;endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-174" target="SgVMOTG03er0LUs_GP2E-140">
           <mxGeometry relative="1" as="geometry">
@@ -1350,10 +1350,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-189" value="Expertise" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4470" y="555.0000000000002" width="45" height="60" as="geometry" />
+          <mxGeometry x="4289.5" y="555.0000000000002" width="45" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-191" value="&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;Sera replacé par STELLAIRE&lt;/p&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="4308.75" y="475.97000000000025" width="120" height="41.59" as="geometry" />
+          <mxGeometry x="4401" y="526.9700000000003" width="120" height="41.59" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-192" value="" style="rounded=0;endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-191" target="SgVMOTG03er0LUs_GP2E-189">
           <mxGeometry relative="1" as="geometry">
