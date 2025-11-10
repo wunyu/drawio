@@ -882,7 +882,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-5" value="Data Sharing" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;verticalAlign=top;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="4720" y="350" width="190" height="1100" as="geometry" />
+          <mxGeometry x="4720" y="350" width="190" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-10" value="&lt;b&gt;OnPrem Sources&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=3;fontSize=20;spacingLeft=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="3590" y="350" width="1100" height="530" as="geometry" />
