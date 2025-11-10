@@ -1155,7 +1155,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-111" value="Copie BCR/IFRS9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SgVMOTG03er0LUs_GP2E-111" value="&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;Copie BCR/IFRS9&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3631.5" y="415" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-112" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
@@ -1393,7 +1393,7 @@
         <mxCell id="SgVMOTG03er0LUs_GP2E-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.241;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000FF;" edge="1" parent="1" source="SgVMOTG03er0LUs_GP2E-10" target="SgVMOTG03er0LUs_GP2E-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SgVMOTG03er0LUs_GP2E-241" value="BCR/IFRS9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SgVMOTG03er0LUs_GP2E-241" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;BCR/IFRS9&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3634" y="372" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SgVMOTG03er0LUs_GP2E-242" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#0000FF;fontColor=#000000;" edge="1" parent="1">
