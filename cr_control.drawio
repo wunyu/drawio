@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T11:16:37.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="FSksg-FLzcjw5YYa7xFs" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
-    <mxGraphModel dx="4958" dy="639" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4145" dy="527" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1622,9 +1622,6 @@
         <mxCell id="aqibMaWvFeB83bgvitCm-331" value="Backup ECLAT data with &lt;font color=&quot;#ff0000&quot;&gt;DTF_PER_TRT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-373" y="3289" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aqibMaWvFeB83bgvitCm-332" value="Replay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=21;fontColor=#000000;dashed=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="-2966" y="3061" width="83" height="37" as="geometry" />
-        </mxCell>
         <mxCell id="aqibMaWvFeB83bgvitCm-333" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=3;fillColor=#f0a30a;strokeColor=#BD7000;" parent="1" target="aqibMaWvFeB83bgvitCm-371" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1808,8 +1805,14 @@
             <mxPoint x="50" y="3319" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_ni-w5auT_xGdhOIlRD-1" value="NiFi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Z_ni-w5auT_xGdhOIlRD-1" value="NiFi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="136" y="190" width="39" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-2" value="Put file into server ftp/in" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="-3026" y="3042" width="211" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aqibMaWvFeB83bgvitCm-332" value="Replay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=21;fontColor=#000000;dashed=1;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="-2838" y="3021" width="83" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
