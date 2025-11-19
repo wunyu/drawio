@@ -1355,7 +1355,7 @@
             <mxPoint x="632" y="5087" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aqibMaWvFeB83bgvitCm-286" value="check if data is prepared to load in refined table&amp;nbsp;&lt;div&gt;(config)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aqibMaWvFeB83bgvitCm-286" value="check if data is prepared to load in refined table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="484" y="5052" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aqibMaWvFeB83bgvitCm-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aqibMaWvFeB83bgvitCm-290" target="aqibMaWvFeB83bgvitCm-271" edge="1">
@@ -2235,6 +2235,14 @@
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-246" value="" style="edgeStyle=none;endArrow=none;exitX=0.5;exitY=1;dashed=1;html=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-245" target="BJiUdUQ1EpHRZ_X_-bdZ-31">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="1350.63" y="3258.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-247" value="using tb_load_raw_tb_loading_status and config to konw if data is ready for countries and refined table" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="497" y="5154" width="213" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-248" value="" style="edgeStyle=none;endArrow=none;exitX=0.5;exitY=0;dashed=1;html=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-247" target="aqibMaWvFeB83bgvitCm-286">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="571" y="5173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
