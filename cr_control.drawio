@@ -1750,7 +1750,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-14" value="archive in archive/yyyy/mm-dd folder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-14" value="archive original file in&amp;nbsp;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;archive/yyyy/mm-dd&lt;/font&gt; folder&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-214.5" y="3403" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-17" value="yes" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
