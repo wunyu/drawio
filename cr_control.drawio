@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
-    <mxGraphModel dx="4433" dy="687" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4973" dy="988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2205,8 +2205,14 @@
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-206" value="trigger dag functional control" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1278" y="6218" width="211" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-209" target="BJiUdUQ1EpHRZ_X_-bdZ-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-209" value="send email/notifications to&amp;nbsp;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;recipients with not receiving file list&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="6642" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-210" target="BJiUdUQ1EpHRZ_X_-bdZ-226">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-210" value="send email/notifications to&amp;nbsp;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;recipients with all files are well received msg&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="998" y="6778" width="138" height="60" as="geometry" />
@@ -2252,6 +2258,9 @@
               <mxPoint x="171" y="6205" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-226" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1302.63" y="6717" width="24.37" height="25.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
