@@ -2095,7 +2095,7 @@
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-204" target="BJiUdUQ1EpHRZ_X_-bdZ-205">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-204" value="compare files in bucket archive with expected files(config)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-204" value="compare files in bucket archive with expected files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="447" y="6357.5" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-205" target="BJiUdUQ1EpHRZ_X_-bdZ-209">
@@ -2243,6 +2243,14 @@
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-248" value="" style="edgeStyle=none;endArrow=none;exitX=0.5;exitY=0;dashed=1;html=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-247" target="aqibMaWvFeB83bgvitCm-286">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="571" y="5173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-249" value="using archive files and config to konw if all files are recieved" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="6478" width="213" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-250" value="" style="edgeStyle=none;endArrow=none;exitX=0.5;exitY=0;dashed=1;html=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-249" target="BJiUdUQ1EpHRZ_X_-bdZ-204">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="544.5" y="6436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
