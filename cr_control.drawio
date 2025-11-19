@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
-    <mxGraphModel dx="4776" dy="878" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5778" dy="1436" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1259,7 +1259,7 @@
           <mxGeometry x="-2872.6" y="3709" width="1416" height="322" as="geometry" />
         </mxCell>
         <mxCell id="aqibMaWvFeB83bgvitCm-231" value="DAG - CROCUS_LOAD_REFINED_TB&lt;div&gt;(scheduled to 16h UTC everyday)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="306" y="5153" width="1705" height="802" as="geometry" />
+          <mxGeometry x="306" y="5153" width="1534" height="802" as="geometry" />
         </mxCell>
         <mxCell id="aqibMaWvFeB83bgvitCm-232" value="technical control" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="3394.5" width="1439" height="382.5" as="geometry" />
@@ -1950,6 +1950,9 @@
         </mxCell>
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-156" value="load&amp;nbsp;tb_res_of" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="934" y="5906" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-157" value="DAG - CROCUS_CAL_IND&lt;div&gt;(scheduled to 16h UTC everyday)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="306" y="6030" width="1534" height="802" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
