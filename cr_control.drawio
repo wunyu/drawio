@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
-    <mxGraphModel dx="3782" dy="1215" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3373" dy="988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1289,7 +1289,7 @@
         <mxCell id="aqibMaWvFeB83bgvitCm-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aqibMaWvFeB83bgvitCm-242" target="aqibMaWvFeB83bgvitCm-263" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aqibMaWvFeB83bgvitCm-242" value="send email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;recipients&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aqibMaWvFeB83bgvitCm-242" value="send email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;recipients&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="1072" y="3628" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aqibMaWvFeB83bgvitCm-254" target="BJiUdUQ1EpHRZ_X_-bdZ-24">
@@ -1455,7 +1455,7 @@
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-3" target="BJiUdUQ1EpHRZ_X_-bdZ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-3" value="send email notif to &lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;recipients&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-3" value="send email notif to &lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;recipients&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="-587.4999999999999" y="3477" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-8" target="aqibMaWvFeB83bgvitCm-320">
@@ -1680,7 +1680,7 @@
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-91" target="BJiUdUQ1EpHRZ_X_-bdZ-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-91" value="send email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;recipients&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-91" value="send email/notifications to &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;recipients&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1463" y="4319" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-96" value="yes" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -2133,13 +2133,13 @@
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-209" target="BJiUdUQ1EpHRZ_X_-bdZ-226">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-209" value="send email/notifications to&amp;nbsp;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;recipients with not receiving file list&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-209" value="send email/notifications to&amp;nbsp;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;recipients with not receiving file list&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1020" y="6300" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-210" target="BJiUdUQ1EpHRZ_X_-bdZ-226">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-210" value="send email/notifications to&amp;nbsp;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;recipients with all files are well received msg&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-210" value="send email/notifications to&amp;nbsp;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;recipients with all files are well received msg&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1018" y="6436" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-213" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=timer;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
