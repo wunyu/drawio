@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
-    <mxGraphModel dx="2578" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2782" dy="658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1295,7 +1295,7 @@
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aqibMaWvFeB83bgvitCm-254" target="BJiUdUQ1EpHRZ_X_-bdZ-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aqibMaWvFeB83bgvitCm-254" value="delete init table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aqibMaWvFeB83bgvitCm-254" value="delete then create init table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="3262" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aqibMaWvFeB83bgvitCm-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-31" target="aqibMaWvFeB83bgvitCm-240" edge="1">
@@ -1495,8 +1495,8 @@
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-24" value="load data from one col table to ini table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1008" y="3220" width="128" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-26" value="All colums are STRING" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="845" y="3164" width="150" height="40" as="geometry" />
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-26" value="All colums are STRING in init table" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="737" y="3174" width="213" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-27" value="" style="edgeStyle=none;endArrow=none;exitX=0.5;exitY=1;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="BJiUdUQ1EpHRZ_X_-bdZ-26" parent="1" target="aqibMaWvFeB83bgvitCm-254">
           <mxGeometry x="1" relative="1" as="geometry">
@@ -2208,9 +2208,25 @@
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-239" value="server:&amp;nbsp;&lt;div&gt;preprod/sta :&amp;nbsp;covmlp1081.zp.grouperci.com:/opt/appl/kfk&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;r&lt;/font&gt;/ftp/in&lt;/div&gt;&lt;div&gt;prod :&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;covmlp1081.zp.grouperci.com:/opt/appl/kfk&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 51, 51), rgb(255, 255, 255));&quot;&gt;p&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/ftp/in&lt;/span&gt;&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-1509" y="2877" width="355" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-240" value="" style="edgeStyle=none;endArrow=none;exitX=0.5;exitY=1;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-239">
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-240" value="" style="edgeStyle=none;endArrow=none;exitX=0.5;exitY=1;dashed=1;html=1;rounded=0;entryX=0.177;entryY=0.094;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-239" target="BJiUdUQ1EpHRZ_X_-bdZ-2">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-1217" y="3004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-241" value="in GCS, we have 3 buckets :&lt;div&gt;1. in : to receive files&lt;/div&gt;&lt;div&gt;2. ready : to put file which are ready to be loaded in BQ&lt;/div&gt;&lt;div&gt;3. archive : save original files&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-1075" y="3113" width="355" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-242" value="" style="edgeStyle=none;endArrow=none;exitX=0.5;exitY=1;dashed=1;html=1;rounded=0;entryX=0.435;entryY=0.059;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-241" target="aqibMaWvFeB83bgvitCm-237">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-886" y="3246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-243" value="in bucket archive, we have error folder to save all non-valid files." style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-847" y="3412" width="157" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-244" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-243" target="BJiUdUQ1EpHRZ_X_-bdZ-11">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-694.5" y="3433.7208872458414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
