@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.7">
   <diagram name="Page-1" id="NagAQdrJjaMH0kPWwjk_">
-    <mxGraphModel dx="1418" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,10 +226,10 @@
         <mxCell id="h2gQD8JZddTc0ErZqvXB-161" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="get static data" vertex="1">
           <mxGeometry height="30" width="105.5" x="437.25" y="1478" as="geometry" />
         </mxCell>
-        <mxCell id="h2gQD8JZddTc0ErZqvXB-162" parent="1" style="whiteSpace=wrap;html=1;" value="Solution 1 (BQ)" vertex="1">
+        <mxCell id="h2gQD8JZddTc0ErZqvXB-162" parent="1" style="whiteSpace=wrap;html=1;" value="Solution 1&amp;nbsp;&lt;div&gt;(BQ)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="100" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="h2gQD8JZddTc0ErZqvXB-163" parent="1" style="whiteSpace=wrap;html=1;" value="Solution 2 (Cloud SQL)" vertex="1">
+        <mxCell id="h2gQD8JZddTc0ErZqvXB-163" parent="1" style="whiteSpace=wrap;html=1;" value="Solution 2&amp;nbsp;&lt;div&gt;(Cloud SQL)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="80" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="h2gQD8JZddTc0ErZqvXB-169" edge="1" parent="1" source="h2gQD8JZddTc0ErZqvXB-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="h2gQD8JZddTc0ErZqvXB-108">
@@ -507,8 +507,8 @@
         <mxCell id="h2gQD8JZddTc0ErZqvXB-242" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DLQ&lt;div&gt;(dead letter queue)&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="541" y="1375" as="geometry" />
         </mxCell>
-        <mxCell id="h2gQD8JZddTc0ErZqvXB-243" parent="1" style="whiteSpace=wrap;html=1;" value="Solution 1-1 (BQ)" vertex="1">
-          <mxGeometry height="60" width="120" x="1940" y="410" as="geometry" />
+        <mxCell id="h2gQD8JZddTc0ErZqvXB-243" parent="1" style="whiteSpace=wrap;html=1;" value="Solution 1-1&amp;nbsp;&lt;div&gt;(BQ+ real-time for static data)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="1940" y="410" as="geometry" />
         </mxCell>
         <mxCell id="h2gQD8JZddTc0ErZqvXB-244" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" value="Authentication" vertex="1">
           <mxGeometry height="100" width="530" x="2803.5" y="954" as="geometry" />
