@@ -207,6 +207,15 @@
         <mxCell id="h2gQD8JZddTc0ErZqvXB-99" parent="1" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" value="task status msg" vertex="1">
           <mxGeometry height="30" width="110" x="490" y="446" as="geometry" />
         </mxCell>
+        <mxCell id="h2gQD8JZddTc0ErZqvXB-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;" value="." vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="623" as="geometry" />
+        </mxCell>
+        <mxCell id="h2gQD8JZddTc0ErZqvXB-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;" value="." vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="659" as="geometry" />
+        </mxCell>
+        <mxCell id="h2gQD8JZddTc0ErZqvXB-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;" value="." vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="695" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
