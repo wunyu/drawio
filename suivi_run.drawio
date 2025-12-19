@@ -80,9 +80,6 @@
         <mxCell id="h2gQD8JZddTc0ErZqvXB-29" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" value="&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;PYTHON&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="1153" y="599" as="geometry" />
         </mxCell>
-        <mxCell id="h2gQD8JZddTc0ErZqvXB-30" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Pull image" vertex="1">
-          <mxGeometry height="30" width="80" x="500" y="651" as="geometry" />
-        </mxCell>
         <mxCell id="h2gQD8JZddTc0ErZqvXB-31" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Pull image" vertex="1">
           <mxGeometry height="30" width="80" x="865" y="725" as="geometry" />
         </mxCell>
@@ -180,7 +177,7 @@
           <mxGeometry height="30" width="120" x="915" y="590" as="geometry" />
         </mxCell>
         <mxCell id="h2gQD8JZddTc0ErZqvXB-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="subscribe" vertex="1">
-          <mxGeometry height="30" width="60" x="561" y="465" as="geometry" />
+          <mxGeometry height="30" width="60" x="560" y="490" as="geometry" />
         </mxCell>
         <mxCell id="h2gQD8JZddTc0ErZqvXB-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CRUD" vertex="1">
           <mxGeometry height="30" width="60" x="1230" y="555" as="geometry" />
@@ -189,7 +186,7 @@
           <mxGeometry height="30" width="90" x="675" y="446" as="geometry" />
         </mxCell>
         <mxCell id="h2gQD8JZddTc0ErZqvXB-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="only SELECT" vertex="1">
-          <mxGeometry height="30" width="60" x="945" y="651" as="geometry" />
+          <mxGeometry height="30" width="60" x="975" y="645.5" as="geometry" />
         </mxCell>
         <mxCell id="h2gQD8JZddTc0ErZqvXB-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="listen" vertex="1">
           <mxGeometry height="30" width="60" x="1223" y="461" as="geometry" />
@@ -204,7 +201,10 @@
           <mxGeometry height="30" width="60" x="756" y="490" as="geometry" />
         </mxCell>
         <mxCell id="h2gQD8JZddTc0ErZqvXB-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="publish" vertex="1">
-          <mxGeometry height="30" width="60" x="360" y="465" as="geometry" />
+          <mxGeometry height="30" width="60" x="360" y="489" as="geometry" />
+        </mxCell>
+        <mxCell id="h2gQD8JZddTc0ErZqvXB-99" parent="1" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" value="task status msg" vertex="1">
+          <mxGeometry height="30" width="110" x="490" y="446" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
