@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.0">
   <diagram name="Page-1" id="NagAQdrJjaMH0kPWwjk_">
-    <mxGraphModel dx="2079" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2524" dy="1466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry height="450" width="1140" x="5380" y="562.5" as="geometry" />
         </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;u style=&quot;color: rgb(51, 153, 255);&quot;&gt;Kafka&lt;/u&gt;&lt;br&gt;&lt;div&gt;topic refined&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="5925.5" y="391.5" as="geometry" />
+          <mxGeometry height="63" width="130" x="5990" y="390" as="geometry" />
         </mxCell>
         <mxCell id="h2gQD8JZddTc0ErZqvXB-106" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" value="Authentication" vertex="1">
           <mxGeometry height="100" width="530" x="963.5" y="1799" as="geometry" />
@@ -1200,14 +1200,6 @@
             <mxPoint x="5925.5" y="627.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjQnPBm9cFLTxffb8rlo-30" edge="1" parent="1" source="tjQnPBm9cFLTxffb8rlo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tjQnPBm9cFLTxffb8rlo-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5870" y="677" />
-              <mxPoint x="5870" y="826" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;u&gt;Cloud Run&lt;/u&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="5700" y="646.5" as="geometry" />
         </mxCell>
@@ -1263,7 +1255,7 @@
           <mxGeometry height="30" width="120" x="6000.5" y="771.5" as="geometry" />
         </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-41" parent="1" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" value="Real-time" vertex="1">
-          <mxGeometry height="30" width="70" x="6020" y="370" as="geometry" />
+          <mxGeometry height="30" width="70" x="6089" y="370" as="geometry" />
         </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="consum" vertex="1">
           <mxGeometry height="30" width="60" x="5662" y="460" as="geometry" />
@@ -1279,9 +1271,6 @@
         </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-48" parent="1" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" value="- Visulization in real-time for task status&#xa;- Visulization for static tables (control result)&#xa;- Visulization by country" vertex="1">
           <mxGeometry height="60" width="260" x="6544.5" y="728.5" as="geometry" />
-        </mxCell>
-        <mxCell id="tjQnPBm9cFLTxffb8rlo-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="write msg" vertex="1">
-          <mxGeometry height="30" width="60" x="5895" y="737" as="geometry" />
         </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="produce" vertex="1">
           <mxGeometry height="30" width="60" x="5391" y="670.5" as="geometry" />
@@ -1345,7 +1334,7 @@
           <mxGeometry height="29.5" width="60" x="6272.75" y="737.25" as="geometry" />
         </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="produce" vertex="1">
-          <mxGeometry height="30" width="70" x="5810" y="441.5" as="geometry" />
+          <mxGeometry height="30" width="70" x="5890" y="426.5" as="geometry" />
         </mxCell>
         <mxCell id="ZDvGlAKF2lYPgZHQ03O6-1" parent="1" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" value="- 5 topics raw: &#xa;suivi de run, &#xa;suivi de resultat, &#xa;suivi de xxx&#xa;rejet msg fontionel&#xa;topic result de control&#xa;&#xa;- 1 topci refined:&#xa;msg validé ( pour le front end)" vertex="1">
           <mxGeometry height="140" width="180" x="4972" y="596.5" as="geometry" />
@@ -1354,7 +1343,7 @@
           <mxGeometry height="30" width="90" x="5760" y="795.5" as="geometry" />
         </mxCell>
         <mxCell id="ZDvGlAKF2lYPgZHQ03O6-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="consum" vertex="1">
-          <mxGeometry height="30" width="60" x="6091" y="391.5" as="geometry" />
+          <mxGeometry height="30" width="60" x="6151" y="423" as="geometry" />
         </mxCell>
         <mxCell id="ZDvGlAKF2lYPgZHQ03O6-8" edge="1" parent="1" source="tjQnPBm9cFLTxffb8rlo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;" target="ZDvGlAKF2lYPgZHQ03O6-7">
           <mxGeometry relative="1" as="geometry">
