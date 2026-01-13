@@ -10,7 +10,7 @@
         <mxCell id="tjQnPBm9cFLTxffb8rlo-3" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f9f7ed;strokeColor=#36393d;align=left;spacingLeft=6;" value="GCP" vertex="1">
           <mxGeometry height="450" width="1140" x="5380" y="562.5" as="geometry" />
         </mxCell>
-        <mxCell id="tjQnPBm9cFLTxffb8rlo-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kafka&lt;div&gt;topic refined&lt;/div&gt;" vertex="1">
+        <mxCell id="tjQnPBm9cFLTxffb8rlo-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;u style=&quot;color: rgb(51, 153, 255);&quot;&gt;Kafka&lt;/u&gt;&lt;br&gt;&lt;div&gt;topic refined&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="5925.5" y="391.5" as="geometry" />
         </mxCell>
         <mxCell id="h2gQD8JZddTc0ErZqvXB-106" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" value="Authentication" vertex="1">
@@ -1142,7 +1142,7 @@
         <mxCell id="tjQnPBm9cFLTxffb8rlo-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Okta" vertex="1">
           <mxGeometry height="49" width="220" x="6151" y="1061.5" as="geometry" />
         </mxCell>
-        <mxCell id="tjQnPBm9cFLTxffb8rlo-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=1;" value="&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;Kafka&lt;br&gt;&lt;/u&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;topic raw&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="tjQnPBm9cFLTxffb8rlo-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=1;" value="&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;Kafka&lt;br&gt;&lt;/u&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;topic raw&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="5500" y="400" as="geometry" />
         </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-15" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#cce5ff;strokeColor=#36393d;" value="Build Process" vertex="1">
@@ -1284,7 +1284,7 @@
           <mxGeometry height="30" width="60" x="5895" y="737" as="geometry" />
         </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="produce" vertex="1">
-          <mxGeometry height="30" width="60" x="5386" y="670.5" as="geometry" />
+          <mxGeometry height="30" width="60" x="5391" y="670.5" as="geometry" />
         </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-51" parent="1" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" value="(suivi de run)task status msg&#xa;for ex:&#xa;{&#xa;    &quot;application&quot; : &quot;CROCUS&quot;,&#xa;    &quot;task&quot; : &quot;raw_table&quot;,&#xa;    &quot;status&quot;: &quot;finish&quot;,&#xa;    &quot;timestamp&quot; : &quot;543548346513&quot;,&#xa;    &quot;country&quot; : &quot;FR&quot;&#xa;}" vertex="1">
           <mxGeometry height="140" width="200" x="4910" y="815.5" as="geometry" />
