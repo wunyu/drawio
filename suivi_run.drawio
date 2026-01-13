@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.0">
   <diagram name="Page-1" id="NagAQdrJjaMH0kPWwjk_">
-    <mxGraphModel dx="2524" dy="1466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1473" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1276,7 +1276,7 @@
           <mxGeometry height="30" width="60" x="5391" y="670.5" as="geometry" />
         </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-51" parent="1" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" value="(suivi de run)task status msg&#xa;for ex:&#xa;{&#xa;    &quot;application&quot; : &quot;CROCUS&quot;,&#xa;    &quot;task&quot; : &quot;raw_table&quot;,&#xa;    &quot;status&quot;: &quot;finish&quot;,&#xa;    &quot;timestamp&quot; : &quot;543548346513&quot;,&#xa;    &quot;country&quot; : &quot;FR&quot;&#xa;}" vertex="1">
-          <mxGeometry height="140" width="200" x="4910" y="815.5" as="geometry" />
+          <mxGeometry height="140" width="200" x="4972" y="788.5" as="geometry" />
         </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;" value="." vertex="1">
           <mxGeometry height="30" width="60" x="5250" y="804.5" as="geometry" />
@@ -1316,7 +1316,7 @@
           <mxGeometry height="30" width="60" x="5835" y="840.5" as="geometry" />
         </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-64" parent="1" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" value="(result de control)task status msg&#xa;for ex:&#xa;{&#xa;    &quot;project&quot;: &quot;project-a&quot;,&#xa;    &quot;dataset&quot;: &quot;refined&quot;,&#xa;    &quot;table&quot;: &quot;tb_synctl&quot;,&#xa;    &quot;reporting_date&quot;: &quot;2025-12-31&quot;&#xa;}" vertex="1">
-          <mxGeometry height="130" width="200" x="4980" y="980.5" as="geometry" />
+          <mxGeometry height="130" width="200" x="4972" y="953.5" as="geometry" />
         </mxCell>
         <mxCell id="tjQnPBm9cFLTxffb8rlo-65" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#9933FF;entryX=0.993;entryY=0.829;entryDx=0;entryDy=0;entryPerimeter=0;" target="tjQnPBm9cFLTxffb8rlo-51" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1337,7 +1337,7 @@
           <mxGeometry height="30" width="70" x="5890" y="426.5" as="geometry" />
         </mxCell>
         <mxCell id="ZDvGlAKF2lYPgZHQ03O6-1" parent="1" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" value="- 5 topics raw: &#xa;suivi de run, &#xa;suivi de resultat, &#xa;suivi de xxx&#xa;rejet msg fontionel&#xa;topic result de control&#xa;&#xa;- 1 topci refined:&#xa;msg validé ( pour le front end)" vertex="1">
-          <mxGeometry height="140" width="180" x="4972" y="596.5" as="geometry" />
+          <mxGeometry height="140" width="180" x="4972" y="615.5" as="geometry" />
         </mxCell>
         <mxCell id="ZDvGlAKF2lYPgZHQ03O6-5" parent="1" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;" value="Validate msg" vertex="1">
           <mxGeometry height="30" width="90" x="5760" y="795.5" as="geometry" />
