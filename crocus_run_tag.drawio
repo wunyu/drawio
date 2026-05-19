@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="bEAYSmEDHXBXhFzCy1HB">
-    <mxGraphModel dx="2873" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2238" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,7 +253,7 @@
             <mxPoint x="-527" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-86" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#00FFFF;" value="">
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-86" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#FF00FF;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="-617" y="830" />
@@ -263,12 +263,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#B9E0A5;" value="JIRA 1" vertex="1">
-          <mxGeometry height="30" width="60" x="-607" y="950" as="geometry" />
+          <mxGeometry height="30" width="60" x="-628" y="944" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="JIRA 2" vertex="1">
-          <mxGeometry height="30" width="60" x="-607" y="890" as="geometry" />
+          <mxGeometry height="30" width="60" x="-625" y="886" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00FFFF;" value="JIRA 3" vertex="1">
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF00FF;" value="JIRA 3" vertex="1">
           <mxGeometry height="30" width="60" x="-617" y="830" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-90" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
@@ -304,14 +304,17 @@
             <mxPoint x="-447" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="release 2" vertex="1">
-          <mxGeometry height="30" width="60" x="-581" y="903" as="geometry" />
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="release jira 2" vertex="1">
+          <mxGeometry height="30" width="60" x="-585" y="890" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="release 1" vertex="1">
-          <mxGeometry height="30" width="60" x="-580" y="970" as="geometry" />
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="release jira 1" vertex="1">
+          <mxGeometry height="30" width="60" x="-581" y="950" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="release 3" vertex="1">
-          <mxGeometry height="30" width="60" x="-590" y="840" as="geometry" />
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="release jira 3" vertex="1">
+          <mxGeometry height="30" width="60" x="-568" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="release&amp;nbsp; stable" vertex="1">
+          <mxGeometry height="30" width="60" x="-170" y="1070" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
