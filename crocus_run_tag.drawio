@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="bEAYSmEDHXBXhFzCy1HB">
-    <mxGraphModel dx="2873" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2077" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry height="250" width="1220" x="380" y="140" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="TB_RUN_TAG" vertex="1">
-          <mxGeometry height="130" width="140" x="420" y="195" as="geometry" />
+          <mxGeometry height="160" width="140" x="420" y="195" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-2" parent="QUzsFoNl6aFI_2ed8XXq-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="CD_PA" vertex="1">
           <mxGeometry height="26" width="140" y="26" as="geometry" />
@@ -19,8 +19,11 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-4" parent="QUzsFoNl6aFI_2ed8XXq-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="DT_SYS_CRE" vertex="1">
           <mxGeometry height="26" width="140" y="78" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-5" parent="QUzsFoNl6aFI_2ed8XXq-1" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="RUN_TAG" vertex="1">
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-105" parent="QUzsFoNl6aFI_2ed8XXq-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="STATUS : SUC, FAIL" vertex="1">
           <mxGeometry height="26" width="140" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-5" parent="QUzsFoNl6aFI_2ed8XXq-1" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="RUN_TAG" vertex="1">
+          <mxGeometry height="30" width="140" y="130" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-7" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;RUN_TAG&lt;/span&gt; Format :&amp;nbsp;&lt;div&gt;- &lt;b&gt;x.x.x_bxxx-Rx-Jira-xxxx&lt;/b&gt; (par demande JIRA)&amp;nbsp;&lt;/div&gt;&lt;div&gt;par ex : 1.2.3_b123-R5-JIRA-9876&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt; x.x.x_bxxx-Rx&lt;/b&gt; (developement)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;par ex: 1.2.3_b123-R5&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="420" x="-90" y="90" as="geometry" />
@@ -80,8 +83,8 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-30" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QUzsFoNl6aFI_2ed8XXq-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Creer un release avec version&amp;nbsp;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;x.x.x_bxxx-Rx-&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Jira-xxxx&lt;/font&gt;&lt;/b&gt; ou&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;x.x.x_bxxx-Rx&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="290" x="-340" y="475" as="geometry" />
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Creer un release avec version&amp;nbsp;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;x.x.x_bxxx-Rx-&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Jira-xxxx&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="290" x="-330" y="475" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-33" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="Developpment" vertex="1">
           <mxGeometry height="60" width="100" x="-660" y="400" as="geometry" />
@@ -214,7 +217,7 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="join" vertex="1">
           <mxGeometry height="30" width="60" x="610" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="Est-ce qu&#39;on reviens sur la version noramale (pas viens de JIRA) apres la relance de demande JIRA ?" vertex="1">
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="Est-ce qu&#39;on revient sur la version noramale (pas viens de JIRA) apres la relance de demande JIRA ?" vertex="1">
           <mxGeometry height="30" width="470" x="380" y="555" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="- est-ce que c&#39;est deployer seulement en sta ?" vertex="1">
@@ -318,6 +321,15 @@
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="?" vertex="1">
           <mxGeometry height="30" width="60" x="-440" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="compter = 1" vertex="1">
+          <mxGeometry height="30" width="100" x="-560" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. recois le meme fichier plusiere fois (CD_PA, DTF_PER_TRT), bloquer les chargement apres 1 fois&lt;div&gt;2. modifier les donnees et relancer&lt;/div&gt;&lt;div&gt;3. modifier le code et relancer&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="470" x="-360" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="meme jira et relance plusier fois" vertex="1">
+          <mxGeometry height="30" width="240" x="-330" y="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
