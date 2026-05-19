@@ -80,7 +80,7 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-30" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QUzsFoNl6aFI_2ed8XXq-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Creer un release avec version&amp;nbsp;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;x.x.x_bxxx-Rx-Jira-xxxx&lt;/b&gt; ou&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;x.x.x_bxxx-Rx&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Creer un release avec version&amp;nbsp;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;x.x.x_bxxx-Rx-&lt;font style=&quot;color: rgb(255, 53, 53);&quot;&gt;Jira-xxxx&lt;/font&gt;&lt;/b&gt; ou&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;x.x.x_bxxx-Rx&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="290" x="-340" y="475" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-33" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="Developpment" vertex="1">
@@ -103,8 +103,8 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Run Tag = release version" vertex="1">
           <mxGeometry height="30" width="200" x="110" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-38" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="- Noter dans relase note dans Confluence&lt;div&gt;- Release annoucement (par mail)&lt;/div&gt;&lt;div&gt;- Commentaire dans JIRA&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="270" x="-260" y="600" as="geometry" />
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-38" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="- Noter dans relase note dans Confluence&lt;div&gt;- Release annoucement (par mail)&lt;/div&gt;&lt;div&gt;- Commentaire la version (run tag) dans JIRA apres le relance est fini&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="385" x="-355" y="600" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-39" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-38" style="edgeStyle=none;endArrow=none;exitX=0.5;exitY=0;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="QUzsFoNl6aFI_2ed8XXq-25" value="">
           <mxGeometry relative="1" x="1" as="geometry">
