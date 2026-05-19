@@ -217,6 +217,9 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="Est-ce qu&#39;on reviens sur la version noramale (pas viens de JIRA) apres la relance de demande JIRA ?" vertex="1">
           <mxGeometry height="30" width="470" x="380" y="555" as="geometry" />
         </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="- est-ce que c&#39;est deployer seulement en sta ?" vertex="1">
+          <mxGeometry height="30" width="290" x="-740" y="630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
