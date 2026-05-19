@@ -22,7 +22,7 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-5" parent="QUzsFoNl6aFI_2ed8XXq-1" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="RUN_TAG" vertex="1">
           <mxGeometry height="26" width="140" y="104" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-7" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;RUN_TAG&lt;/span&gt; Format :&amp;nbsp;&lt;div&gt;- &lt;b&gt;x.x.x_bxxx-Rx-Jira-xxxx&lt;/b&gt; (par demande)&amp;nbsp;&lt;/div&gt;&lt;div&gt;par ex : 1.2.3_b123-R5-JIRA-9876&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt; x.x.x_bxxx-Rx&lt;/b&gt; (RUN)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;par ex: 1.2.3_b123-R5&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-7" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;RUN_TAG&lt;/span&gt; Format :&amp;nbsp;&lt;div&gt;- &lt;b&gt;x.x.x_bxxx-Rx-Jira-xxxx&lt;/b&gt; (par demande JIRA)&amp;nbsp;&lt;/div&gt;&lt;div&gt;par ex : 1.2.3_b123-R5-JIRA-9876&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt; x.x.x_bxxx-Rx&lt;/b&gt; (developement)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;par ex: 1.2.3_b123-R5&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="420" x="-90" y="90" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-8" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-7" style="edgeStyle=none;endArrow=none;exitX=0;exitY=0;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitDx=420;exitDy=42.5;exitPerimeter=0;" target="QUzsFoNl6aFI_2ed8XXq-5" value="">
@@ -213,6 +213,9 @@
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="join" vertex="1">
           <mxGeometry height="30" width="60" x="610" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="Est-ce qu&#39;on reviens sur la version noramale (pas viens de JIRA) apres la relance de demande JIRA ?" vertex="1">
+          <mxGeometry height="30" width="470" x="380" y="555" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
