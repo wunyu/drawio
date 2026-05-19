@@ -44,7 +44,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;u&gt;Dataset Refined&lt;/u&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;div&gt;(rajouter une col &lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;RUN_TAG &lt;/span&gt;dans toutes les tables refined)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Load Refined&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Calcul Indicateurs&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;u&gt;Dataset Refined&lt;/u&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;div&gt;(rajouter une col &lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;RUN_TAG&lt;/span&gt;&lt;span&gt; &lt;/span&gt;dans toutes les tables refined)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Load Refined&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Calcul Indicateurs&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="360" x="730" y="190" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-27" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QUzsFoNl6aFI_2ed8XXq-23">
