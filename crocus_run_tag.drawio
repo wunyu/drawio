@@ -57,7 +57,7 @@
             <mxPoint x="-820" y="785" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="Run Tag = la version actuelle" vertex="1">
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Run Tag = quelle version ?&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="200" x="110" y="240" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-28" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QUzsFoNl6aFI_2ed8XXq-25">
@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-35" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="RUN automatique" vertex="1">
-          <mxGeometry height="60" width="100" x="-670" y="240" as="geometry" />
+          <mxGeometry height="60" width="100" x="-660" y="240" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="Run Tag = release version" vertex="1">
           <mxGeometry height="30" width="200" x="110" y="480" as="geometry" />
