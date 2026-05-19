@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="bEAYSmEDHXBXhFzCy1HB">
-    <mxGraphModel dx="2046" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3700" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry height="710" width="930" x="280" y="150" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="TB_RUN_TAG" vertex="1">
-          <mxGeometry height="130" width="140" x="630" y="380" as="geometry" />
+          <mxGeometry height="130" width="140" x="640" y="390" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-2" parent="QUzsFoNl6aFI_2ed8XXq-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="CD_PA" vertex="1">
           <mxGeometry height="26" width="140" y="26" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RUN_TAG" vertex="1">
           <mxGeometry height="60" width="120" x="414" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-7" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" value="Format :&amp;nbsp;&lt;div&gt;- x.x.x_bxxx-Rx-Jira-xxxx (par demande), par ex : 1.2.3_b123-R5-JIRA-9876&lt;/div&gt;&lt;div&gt;- x.x.x_bxxx-Rx-Jira-xxxx&amp;nbsp;(auto), par ex: 1.2.3_b123-R5&lt;/div&gt;" vertex="1">
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-7" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" value="Format :&amp;nbsp;&lt;div&gt;- x.x.x_bxxx-Rx-Jira-xxxx (par demande), par ex : 1.2.3_b123-R5-JIRA-9876&lt;/div&gt;&lt;div&gt;- x.x.x_bxxx-Rx (auto), par ex: 1.2.3_b123-R5&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="420" x="500" y="650" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-8" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-7" style="edgeStyle=none;endArrow=none;exitX=0.4;exitY=0;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;" target="QUzsFoNl6aFI_2ed8XXq-5" value="">
@@ -39,8 +39,82 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ticket JIRA" vertex="1">
           <mxGeometry height="130" width="330" x="1440" y="260" as="geometry" />
         </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-42" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="QUzsFoNl6aFI_2ed8XXq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Table Refined&lt;div&gt;(rajouter une col RUN_TAG)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="330" x="545" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-27" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QUzsFoNl6aFI_2ed8XXq-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-760" y="325" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-29" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="QUzsFoNl6aFI_2ed8XXq-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-820" y="785" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Run Tag = la version actuelle" vertex="1">
+          <mxGeometry height="30" width="200" x="70" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-28" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QUzsFoNl6aFI_2ed8XXq-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Modification du code" vertex="1">
+          <mxGeometry height="60" width="120" x="-750" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-31" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QUzsFoNl6aFI_2ed8XXq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Deploiement/ Livration" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-30" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QUzsFoNl6aFI_2ed8XXq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Creer un release avec version&amp;nbsp;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;x.x.x_bxxx-Rx-Jira-xxxx&lt;/b&gt; ou&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;x.x.x_bxxx-Rx&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="290" x="-580" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-33" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="Deploiement" vertex="1">
+          <mxGeometry height="60" width="100" x="-860" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-34" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="Demande JIRA" vertex="1">
+          <mxGeometry height="60" width="100" x="-910" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-36" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="QUzsFoNl6aFI_2ed8XXq-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-550" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-35" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="RUN automatique" vertex="1">
+          <mxGeometry height="60" width="100" x="-600" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Run Tag = release version" vertex="1">
+          <mxGeometry height="30" width="200" x="80" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-38" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" value="Noter dans relase note dans Confluence" vertex="1">
+          <mxGeometry height="30" width="250" x="-620" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-39" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-38" style="edgeStyle=none;endArrow=none;exitX=0.5;exitY=0;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="QUzsFoNl6aFI_2ed8XXq-25" value="">
+          <mxGeometry relative="1" x="1" as="geometry">
+            <mxPoint x="710" y="660" as="sourcePoint" />
+            <mxPoint x="762" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-40" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" value="- supprimer les donnnees de meme RUN TAG&lt;div&gt;- inserer/calculer les donnees avec RUN_TAG&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="420" x="390" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-41" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-40" style="edgeStyle=none;endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QUzsFoNl6aFI_2ed8XXq-12" value="">
+          <mxGeometry relative="1" x="1" as="geometry">
+            <mxPoint x="720" y="650" as="sourcePoint" />
+            <mxPoint x="772" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 102, 102);&quot;&gt;- Join avec les donnees histo avec RUN_TAG ?&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;- filrter sur RUN_TAG&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="320" x="720" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
