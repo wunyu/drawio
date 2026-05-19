@@ -220,6 +220,12 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="- est-ce que c&#39;est deployer seulement en sta ?" vertex="1">
           <mxGeometry height="30" width="290" x="-740" y="630" as="geometry" />
         </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="- plusiere JIRA en meme temp ?" vertex="1">
+          <mxGeometry height="30" width="290" x="-777" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="- controller la version ?" vertex="1">
+          <mxGeometry height="30" width="290" x="-802" y="672" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
