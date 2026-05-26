@@ -319,10 +319,7 @@
           <mxGeometry height="30" width="470" x="-1380" y="620" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="meme jira et relance plusier fois" vertex="1">
-          <mxGeometry height="30" width="240" x="-1350" y="680" as="geometry" />
-        </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="vider la table 6 moins" vertex="1">
-          <mxGeometry height="30" width="170" x="-1290" y="720" as="geometry" />
+          <mxGeometry height="30" width="240" x="-1380" y="670" as="geometry" />
         </mxCell>
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-1" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;" value="&lt;span style=&quot;&quot;&gt;Allow seulement le premier chargement du fichier.&lt;br&gt;(bloquer quand c&#39;est 2eme ou plus chargement)&lt;/span&gt;" vertex="1">
           <mxGeometry height="55" width="310" x="-706" y="-95" as="geometry" />
