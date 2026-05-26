@@ -396,7 +396,7 @@
           <mxGeometry height="30" width="60" x="1926" y="382.5" as="geometry" />
         </mxCell>
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF3333;" value="est-ce qu&#39;on peut supprimer les donnees du meme run tag ?" vertex="1">
-          <mxGeometry height="30" width="200" x="140" y="387.5" as="geometry" />
+          <mxGeometry height="30" width="200" x="30" y="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
