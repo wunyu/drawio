@@ -15,7 +15,7 @@
           <mxGeometry height="270" width="140" x="-1070" y="247" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="PROJECT CROCUS" vertex="1">
-          <mxGeometry height="310" width="1220" x="380" y="110" as="geometry" />
+          <mxGeometry height="310" width="1230" x="370" y="110" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="TB_RUN_TAG" vertex="1">
           <mxGeometry height="160" width="140" x="420" y="195" as="geometry" />
@@ -120,8 +120,8 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-35" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="RUN automatique" vertex="1">
           <mxGeometry height="60" width="100" x="-710" y="122" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-40" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;- inserer/calculer les donnees avec RUN_TAG le plus recent&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="280" x="620" y="-110" as="geometry" />
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-40" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;- utiliser les donnees histo sur le RUN_TAG le plus recent&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="280" x="620" y="-10" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-41" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-40" style="edgeStyle=none;endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QUzsFoNl6aFI_2ed8XXq-12" value="">
           <mxGeometry relative="1" x="1" as="geometry">
