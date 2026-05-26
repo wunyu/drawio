@@ -141,8 +141,8 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Scheduled Query&lt;/u&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1200" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="mettre quel run tag par dtf_per_trt&amp;nbsp;&amp;nbsp;?&amp;nbsp;&lt;div&gt;- le plus nouveaux ?&lt;/div&gt;&lt;div&gt;- tous ?&lt;/div&gt;&lt;div&gt;- seulement run auto ?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="370" x="1320" y="210" as="geometry" />
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="mettre les donnees avec le Run Tag le plus recent" vertex="1">
+          <mxGeometry height="30" width="140" x="1320" y="190" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-59" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="QUzsFoNl6aFI_2ed8XXq-45">
           <mxGeometry relative="1" as="geometry">
@@ -212,9 +212,6 @@
             <mxPoint x="2180" y="470" as="sourcePoint" />
             <mxPoint x="2070" y="525" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="mettre&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144));&quot;&gt;- si tous, comment les autres projet select les donnees ?&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="370" x="1680" y="130" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" value="à faire/améliorer :&lt;div&gt;- partition table : pour diminuer le cost&lt;/div&gt;&lt;div&gt;- separer les donnees du mois et les donnees histo&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;: pour diminuer le cost&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="450" x="1710" y="730" as="geometry" />
