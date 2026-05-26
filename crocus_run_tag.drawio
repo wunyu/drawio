@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="bEAYSmEDHXBXhFzCy1HB">
-    <mxGraphModel dx="3589" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3308" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,7 +327,7 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="vider la table 6 moins" vertex="1">
           <mxGeometry height="30" width="170" x="-1290" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-1" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;Allow seulement le premier chargement du fichier.&lt;br&gt;(bloquer quand c&#39;est 2eme ou plus chargement)&lt;/span&gt;" vertex="1">
+        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-1" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;" value="&lt;span style=&quot;&quot;&gt;Allow seulement le premier chargement du fichier.&lt;br&gt;(bloquer quand c&#39;est 2eme ou plus chargement)&lt;/span&gt;" vertex="1">
           <mxGeometry height="55" width="310" x="-706" y="-95" as="geometry" />
         </mxCell>
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-2" edge="1" parent="1" source="cKu8MT6L8Fp_BZaxLZj7-1" style="edgeStyle=none;endArrow=none;exitX=0.5;exitY=1;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="QUzsFoNl6aFI_2ed8XXq-104" value="">
@@ -342,7 +342,7 @@
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#330000;" value="&lt;font style=&quot;&quot;&gt;Run Tag =&amp;nbsp;&lt;b style=&quot;text-align: left;&quot;&gt;x.x.x_bxxx-Rx&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="200" x="130" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-11" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;Le nom doit etre renomé sous le format pour qu&#39;il soit capable d&#39;etre rechargé:&lt;br&gt;{CD_PA}{FILE_TYPE}{SYS_APL}.MAJ_{NO_JIRA}&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;par ex : FRTIER0A.MAJ_JIRA-1234&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-11" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;" value="&lt;span style=&quot;&quot;&gt;Le nom doit etre renomé sous le format pour qu&#39;il soit capable d&#39;etre rechargé:&lt;br&gt;{CD_PA}{FILE_TYPE}{SYS_APL}.MAJ_{NO_JIRA}&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;par ex : FRTIER0A.MAJ_JIRA-1234&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="430" x="-1330" y="40" as="geometry" />
         </mxCell>
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-14" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;dashed=1;" value="Demande JIRA 2&lt;div&gt;(dev)&lt;/div&gt;" vertex="1">
