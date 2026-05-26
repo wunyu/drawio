@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="bEAYSmEDHXBXhFzCy1HB">
-    <mxGraphModel dx="5169" dy="3119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3589" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,8 +65,8 @@
             <mxPoint x="-740" y="198" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Run Tag = quelle version ?&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="200" x="150" y="240" as="geometry" />
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Run Tag =&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;x.x.x_bxxx-Rx-Jira-xxxx&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="160" y="253.5" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-28" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
@@ -123,9 +123,6 @@
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-35" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="RUN automatique" vertex="1">
           <mxGeometry height="60" width="100" x="-660" y="122" as="geometry" />
-        </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="Run Tag = release version" vertex="1">
-          <mxGeometry height="30" width="200" x="160" y="315" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-38" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="- Noter dans relase note dans Confluence&lt;div&gt;- Release annoucement (par mail)&lt;/div&gt;&lt;div&gt;- Commentaire la version (run tag) dans JIRA apres le relance est fini&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="385" x="-413" y="460" as="geometry" />
@@ -361,8 +358,8 @@
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-3" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;dashed=1;" value="Demande JIRA 1&lt;div&gt;(dev)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-1060" y="253.5" as="geometry" />
         </mxCell>
-        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Run Tag = quelle version ?&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="200" x="150" y="150" as="geometry" />
+        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Run Tag =&amp;nbsp;&lt;b style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;x.x.x_bxxx-Rx&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="150" y="115" as="geometry" />
         </mxCell>
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-11" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;Le nom doit etre renomé sous le format pour qu&#39;il soit capable d&#39;etre chargé:&lt;br&gt;{CD_PA}{FILE_TYPE}{SYS_APL}.MAJ_{NO_JIRA}&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;par ex : FRTIER0A.MAJ_JIRA-1234&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="430" x="-1330" y="40" as="geometry" />
@@ -413,6 +410,12 @@
         </mxCell>
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontStyle=1" value="." vertex="1">
           <mxGeometry height="30" width="60" x="-800" y="318.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Run Tag =&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;x.x.x_bxxx-Rx-Jira-xxxx&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="160" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Run Tag =&amp;nbsp;&lt;b style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;x.x.x_bxxx-Rx&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="160" y="347" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
