@@ -129,8 +129,8 @@
             <mxPoint x="772" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;- les donnees histo : avec quel RUN_TAG par dtf_per_trt ?&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;- les donnees du mois : f&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144)); background-color: transparent;&quot;&gt;iltre sur RUN_TAG&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="330" x="750" y="290" as="geometry" />
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;- les donnees histo : RUN_TAG le plus recent par dtf_per_trt&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;- les donnees du mois : f&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144)); background-color: transparent;&quot;&gt;iltre sur RUN_TAG&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="740" y="290" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Dataset Business&lt;/u&gt;" vertex="1">
           <mxGeometry height="60" width="130" x="1450" y="230" as="geometry" />
@@ -139,10 +139,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Scheduled Query&lt;/u&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="230" as="geometry" />
+          <mxGeometry height="60" width="120" x="1150" y="230" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="mettre les donnees avec le Run Tag le plus recent" vertex="1">
-          <mxGeometry height="30" width="140" x="1320" y="190" as="geometry" />
+          <mxGeometry height="30" width="140" x="1290" y="226" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-59" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="QUzsFoNl6aFI_2ed8XXq-45">
           <mxGeometry relative="1" as="geometry">
@@ -218,9 +218,6 @@
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="join" vertex="1">
           <mxGeometry height="30" width="60" x="610" y="260" as="geometry" />
-        </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="Est-ce qu&#39;on revient sur la version noramale (pas viens de JIRA) apres la relance de demande JIRA ?" vertex="1">
-          <mxGeometry height="30" width="470" x="380" y="555" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-81" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
