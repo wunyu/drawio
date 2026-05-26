@@ -95,11 +95,11 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-33" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Developpment/&lt;div&gt;Modification&lt;/div&gt;" vertex="1">
           <mxGeometry height="67" width="117" x="-710" y="349" as="geometry" />
         </mxCell>
-        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QUzsFoNl6aFI_2ed8XXq-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-470" y="285" />
-              <mxPoint x="-470" y="285" />
+              <mxPoint x="110" y="285" />
+              <mxPoint x="110" y="285" />
             </Array>
             <mxPoint x="-690.0000000000005" y="285" as="sourcePoint" />
             <mxPoint x="380" y="285" as="targetPoint" />
@@ -108,11 +108,11 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-34" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Demande JIRA 2&lt;div&gt;(recharge fichier)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="-850" y="256" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-36" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-36" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QUzsFoNl6aFI_2ed8XXq-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="110" y="152" />
-              <mxPoint x="110" y="152" />
+              <mxPoint x="140" y="152" />
+              <mxPoint x="140" y="152" />
             </Array>
             <mxPoint x="380" y="152.0588235294117" as="targetPoint" />
           </mxGeometry>
