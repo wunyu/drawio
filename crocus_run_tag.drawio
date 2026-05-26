@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-22" edge="1" parent="1" source="cKu8MT6L8Fp_BZaxLZj7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QUzsFoNl6aFI_2ed8XXq-33">
+        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-22" edge="1" parent="1" source="cKu8MT6L8Fp_BZaxLZj7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="QUzsFoNl6aFI_2ed8XXq-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
           <mxGeometry height="270" width="140" x="-790" y="410" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="PROJECT CROCUS" vertex="1">
@@ -88,7 +88,7 @@
           <mxGeometry height="70" width="290" x="-310" y="325" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-33" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="Developpment/&lt;div&gt;Modification&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="-660" y="330" as="geometry" />
+          <mxGeometry height="60" width="110" x="-660" y="330" as="geometry" />
         </mxCell>
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
