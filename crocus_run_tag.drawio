@@ -222,119 +222,110 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="Est-ce qu&#39;on revient sur la version noramale (pas viens de JIRA) apres la relance de demande JIRA ?" vertex="1">
           <mxGeometry height="30" width="470" x="380" y="555" as="geometry" />
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="- est-ce que c&#39;est deployer seulement en sta ?" vertex="1">
-          <mxGeometry height="30" width="290" x="-628" y="738" as="geometry" />
-        </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="- plusiere JIRA en meme temp ?" vertex="1">
-          <mxGeometry height="30" width="290" x="-665" y="758" as="geometry" />
-        </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="- controller la version ?" vertex="1">
-          <mxGeometry height="30" width="290" x="-690" y="780" as="geometry" />
-        </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-81" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-767" y="1030" as="sourcePoint" />
-            <mxPoint x="-177" y="1030" as="targetPoint" />
+            <mxPoint x="-700" y="960" as="sourcePoint" />
+            <mxPoint x="-110" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-83" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="-617" y="950" />
+              <mxPoint x="-550" y="880" />
             </Array>
-            <mxPoint x="-657" y="1030" as="sourcePoint" />
-            <mxPoint x="-527" y="950" as="targetPoint" />
+            <mxPoint x="-590" y="960" as="sourcePoint" />
+            <mxPoint x="-460" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="dev" vertex="1">
-          <mxGeometry height="30" width="60" x="-827" y="1010" as="geometry" />
+          <mxGeometry height="30" width="60" x="-760" y="940" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-85" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#0000FF;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="-617" y="890" />
+              <mxPoint x="-550" y="820" />
             </Array>
-            <mxPoint x="-657" y="1030" as="sourcePoint" />
-            <mxPoint x="-527" y="890" as="targetPoint" />
+            <mxPoint x="-590" y="960" as="sourcePoint" />
+            <mxPoint x="-460" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-86" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#FF00FF;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="-617" y="830" />
+              <mxPoint x="-550" y="760" />
             </Array>
-            <mxPoint x="-657" y="1030" as="sourcePoint" />
-            <mxPoint x="-307" y="830" as="targetPoint" />
+            <mxPoint x="-590" y="960" as="sourcePoint" />
+            <mxPoint x="-240" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#B9E0A5;" value="JIRA 1" vertex="1">
-          <mxGeometry height="30" width="60" x="-628" y="944" as="geometry" />
+          <mxGeometry height="30" width="60" x="-561" y="874" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="JIRA 2" vertex="1">
-          <mxGeometry height="30" width="60" x="-625" y="886" as="geometry" />
+          <mxGeometry height="30" width="60" x="-558" y="816" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF00FF;" value="JIRA 3" vertex="1">
-          <mxGeometry height="30" width="60" x="-617" y="830" as="geometry" />
+          <mxGeometry height="30" width="60" x="-550" y="760" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-90" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-767" y="1090" as="sourcePoint" />
-            <mxPoint x="-177" y="1090" as="targetPoint" />
+            <mxPoint x="-700" y="1020" as="sourcePoint" />
+            <mxPoint x="-110" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="master" vertex="1">
-          <mxGeometry height="30" width="60" x="-824" y="1075" as="geometry" />
+          <mxGeometry height="30" width="60" x="-757" y="1005" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-92" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-527" y="950" as="sourcePoint" />
-            <mxPoint x="-467" y="1030" as="targetPoint" />
+            <mxPoint x="-460" y="880" as="sourcePoint" />
+            <mxPoint x="-400" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-94" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#0000FF;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-527" y="890" as="sourcePoint" />
-            <mxPoint x="-417" y="1030" as="targetPoint" />
+            <mxPoint x="-460" y="820" as="sourcePoint" />
+            <mxPoint x="-350" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-95" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-447" y="1030" as="sourcePoint" />
-            <mxPoint x="-397" y="1090" as="targetPoint" />
+            <mxPoint x="-380" y="960" as="sourcePoint" />
+            <mxPoint x="-330" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-96" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-467" y="1030" as="sourcePoint" />
-            <mxPoint x="-447" y="1030" as="targetPoint" />
+            <mxPoint x="-400" y="960" as="sourcePoint" />
+            <mxPoint x="-380" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="release jira 2" vertex="1">
-          <mxGeometry height="30" width="60" x="-585" y="890" as="geometry" />
+          <mxGeometry height="30" width="60" x="-518" y="820" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="release jira 1" vertex="1">
-          <mxGeometry height="30" width="60" x="-581" y="950" as="geometry" />
+          <mxGeometry height="30" width="60" x="-514" y="880" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="release jira 3" vertex="1">
-          <mxGeometry height="30" width="60" x="-568" y="830" as="geometry" />
+          <mxGeometry height="30" width="60" x="-501" y="760" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="release&amp;nbsp; stable" vertex="1">
-          <mxGeometry height="30" width="60" x="-170" y="1070" as="geometry" />
+          <mxGeometry height="30" width="60" x="-103" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="?" vertex="1">
-          <mxGeometry height="30" width="60" x="-440" y="1040" as="geometry" />
+          <mxGeometry height="30" width="60" x="-373" y="970" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="compter = 1 (par dtf_per_trt, cd_pa)" vertex="1">
           <mxGeometry height="30" width="227" x="-617" y="115" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. recois le meme fichier plusiere fois (CD_PA, DTF_PER_TRT), bloquer les chargement apres 1 fois&lt;div&gt;2. modifier les donnees et relancer&lt;/div&gt;&lt;div&gt;3. modifier le code et relancer&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="470" x="-360" y="720" as="geometry" />
+          <mxGeometry height="30" width="470" x="-1380" y="620" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="meme jira et relance plusier fois" vertex="1">
-          <mxGeometry height="30" width="240" x="-330" y="780" as="geometry" />
+          <mxGeometry height="30" width="240" x="-1350" y="680" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="vider la table 6 moins" vertex="1">
-          <mxGeometry height="30" width="170" x="-270" y="820" as="geometry" />
+          <mxGeometry height="30" width="170" x="-1290" y="720" as="geometry" />
         </mxCell>
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-1" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;Allow seulement le premier chargement du fichier.&lt;br&gt;(bloquer quand c&#39;est 2eme ou plus chargement)&lt;/span&gt;" vertex="1">
           <mxGeometry height="55" width="310" x="-706" y="-95" as="geometry" />
