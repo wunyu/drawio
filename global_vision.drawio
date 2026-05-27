@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0">
   <diagram name="Page-1" id="LKmGN3flTx39L14AyUor">
-    <mxGraphModel dx="1873" dy="-389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2204" dy="-251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry height="910" width="1365" x="1555" y="1280.22" as="geometry" />
         </mxCell>
         <mxCell id="fQqHUxf8n4yJeMkCg6Pd-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=0;fontSize=20;spacingLeft=0;fillColor=#f9f7ed;strokeColor=#36393d;" value="" vertex="1">
-          <mxGeometry height="313" width="470" x="1550" y="1407" as="geometry" />
+          <mxGeometry height="280" width="470" x="1550" y="1420" as="geometry" />
         </mxCell>
         <mxCell id="ji7oat9t6ZDJD498M_jr-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=0;fontSize=20;spacingLeft=0;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;b&gt;STELLAIRE&lt;/b&gt;" vertex="1">
           <mxGeometry height="630" width="1280" x="3100" y="1240" as="geometry" />
