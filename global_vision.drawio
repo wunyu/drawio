@@ -192,7 +192,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ji7oat9t6ZDJD498M_jr-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;spacingLeft=0;spacingBottom=0;spacingTop=8;verticalAlign=top;align=center;dashed=1;" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;&lt;span style=&quot;font-size: 13px; background-color: initial;&quot;&gt;Cloud &lt;/span&gt;&lt;span style=&quot;font-size: 13px; background-color: initial;&quot;&gt;Composer&lt;/span&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="194" width="857.5" x="2002.5" y="1976" as="geometry" />
+          <mxGeometry height="194" width="757.5" x="2002.5" y="1976" as="geometry" />
         </mxCell>
         <mxCell id="ji7oat9t6ZDJD498M_jr-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;align=left;spacing=2;" value="Confluent Cloud" vertex="1">
           <mxGeometry height="240" width="412" x="1587" y="1437" as="geometry" />
@@ -668,7 +668,7 @@
           <mxGeometry height="30" width="40" x="2201.43" y="2020.82" as="geometry" />
         </mxCell>
         <mxCell id="fQqHUxf8n4yJeMkCg6Pd-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="send notification when error" vertex="1">
-          <mxGeometry height="30" width="120" x="2850" y="2043" as="geometry" />
+          <mxGeometry height="30" width="120" x="2800" y="2043" as="geometry" />
         </mxCell>
         <mxCell id="fQqHUxf8n4yJeMkCg6Pd-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="send mail when control ko" vertex="1">
           <mxGeometry height="30" width="60" x="2446.3399999999997" y="2073" as="geometry" />
