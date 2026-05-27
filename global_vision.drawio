@@ -494,8 +494,8 @@
         <mxCell id="ji7oat9t6ZDJD498M_jr-161" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="read data" vertex="1">
           <mxGeometry height="30" width="70" x="2222.43" y="1992" as="geometry" />
         </mxCell>
-        <mxCell id="ji7oat9t6ZDJD498M_jr-162" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="insert data" vertex="1">
-          <mxGeometry height="30" width="80" x="2368.17" y="1938.72" as="geometry" />
+        <mxCell id="ji7oat9t6ZDJD498M_jr-162" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="insert/update data" vertex="1">
+          <mxGeometry height="30" width="120" x="2370" y="1938.72" as="geometry" />
         </mxCell>
         <mxCell id="ji7oat9t6ZDJD498M_jr-163" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="(1)" vertex="1">
           <mxGeometry height="30" width="40" x="923" y="1710" as="geometry" />
