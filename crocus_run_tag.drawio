@@ -15,7 +15,7 @@
           <mxGeometry height="270" width="140" x="-1070" y="247" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="PROJECT CROCUS" vertex="1">
-          <mxGeometry height="330" width="1230" x="370" y="110" as="geometry" />
+          <mxGeometry height="310" width="1230" x="370" y="110" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="TB_RUN_TAG" vertex="1">
           <mxGeometry height="186" width="140" x="420" y="195" as="geometry" />
