@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="bEAYSmEDHXBXhFzCy1HB">
-    <mxGraphModel dx="3279" dy="1847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3038" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#330000;" value="&lt;font style=&quot;&quot;&gt;Run Tag =&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;text-align: left;&quot;&gt;x.x.x_bxxx-Rx-Jira-xxxx&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="200" x="160" y="260.5" as="geometry" />
+          <mxGeometry height="30" width="200" x="160" y="269.5" as="geometry" />
         </mxCell>
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-37" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QUzsFoNl6aFI_2ed8XXq-25">
           <mxGeometry relative="1" as="geometry" />
@@ -95,18 +95,18 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-33" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Developpment/&lt;div&gt;Modification&lt;/div&gt;" vertex="1">
           <mxGeometry height="67" width="117" x="-710" y="349" as="geometry" />
         </mxCell>
-        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QUzsFoNl6aFI_2ed8XXq-13">
+        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="110" y="285" />
-              <mxPoint x="110" y="285" />
+              <mxPoint x="110" y="293" />
+              <mxPoint x="110" y="293" />
             </Array>
-            <mxPoint x="-690.0000000000005" y="285" as="sourcePoint" />
-            <mxPoint x="380" y="285" as="targetPoint" />
+            <mxPoint x="-690.0000000000005" y="293" as="sourcePoint" />
+            <mxPoint x="370" y="293" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-34" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Demande JIRA 2&lt;div&gt;(recharge fichier)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="160" x="-850" y="256" as="geometry" />
+          <mxGeometry height="60" width="160" x="-850" y="264" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-36" edge="1" parent="1" source="QUzsFoNl6aFI_2ed8XXq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QUzsFoNl6aFI_2ed8XXq-13">
           <mxGeometry relative="1" as="geometry">
@@ -375,13 +375,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontStyle=1" value="." vertex="1">
-          <mxGeometry height="30" width="60" x="-800" y="305" as="geometry" />
+          <mxGeometry height="30" width="60" x="-800" y="313" as="geometry" />
         </mxCell>
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontStyle=1" value="." vertex="1">
-          <mxGeometry height="30" width="60" x="-800" y="335" as="geometry" />
+          <mxGeometry height="30" width="60" x="-800" y="343" as="geometry" />
         </mxCell>
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontStyle=1" value="." vertex="1">
-          <mxGeometry height="30" width="60" x="-800" y="318.5" as="geometry" />
+          <mxGeometry height="30" width="60" x="-800" y="326.5" as="geometry" />
         </mxCell>
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#330000;" value="&lt;font style=&quot;&quot;&gt;Run Tag =&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;text-align: left;&quot;&gt;x.x.x_bxxx-Rx-Jira-xxxx&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="200" x="160" y="194" as="geometry" />
@@ -398,11 +398,11 @@
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF3333;" value="est-ce qu&#39;on peut supprimer les donnees du meme run tag ?" vertex="1">
           <mxGeometry height="30" width="200" x="30" y="85" as="geometry" />
         </mxCell>
-        <mxCell id="joy4J5Q9jbU-j6AZ98Qk-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="relance manuellement" vertex="1">
-          <mxGeometry height="30" width="60" x="230" y="286" as="geometry" />
+        <mxCell id="joy4J5Q9jbU-j6AZ98Qk-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="relance manuellement&lt;div&gt;avec JIRA number&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="307" as="geometry" />
         </mxCell>
-        <mxCell id="joy4J5Q9jbU-j6AZ98Qk-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="relance manuellement" vertex="1">
-          <mxGeometry height="30" width="60" x="230" y="220" as="geometry" />
+        <mxCell id="joy4J5Q9jbU-j6AZ98Qk-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="relance manuellement&lt;div&gt;avec JIRA number&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="230.5" as="geometry" />
         </mxCell>
         <mxCell id="joy4J5Q9jbU-j6AZ98Qk-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="relance manuellement" vertex="1">
           <mxGeometry height="30" width="60" x="230" y="382" as="geometry" />
