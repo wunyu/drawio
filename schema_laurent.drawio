@@ -553,38 +553,11 @@
         <mxCell id="98J_N4LjCtCZoOat_8bp-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;NO_DMD&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="550" y="1395" as="geometry" />
         </mxCell>
-        <mxCell id="98J_N4LjCtCZoOat_8bp-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;NO_DMD&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="550" y="1464" as="geometry" />
-        </mxCell>
         <mxCell id="98J_N4LjCtCZoOat_8bp-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;ID_GEST_TRS&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="550" y="2115" as="geometry" />
         </mxCell>
-        <mxCell id="98J_N4LjCtCZoOat_8bp-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;ID_GEST_TRS&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="550" y="2185" as="geometry" />
-        </mxCell>
-        <mxCell id="98J_N4LjCtCZoOat_8bp-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;NO_DMD&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="550" y="1530" as="geometry" />
-        </mxCell>
         <mxCell id="98J_N4LjCtCZoOat_8bp-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;ID_GEST_EXPO&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="550" y="1755" as="geometry" />
-        </mxCell>
-        <mxCell id="98J_N4LjCtCZoOat_8bp-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;ID_GEST_EXPO&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="550" y="1820" as="geometry" />
-        </mxCell>
-        <mxCell id="98J_N4LjCtCZoOat_8bp-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;ID_GEST_EXPO&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="550" y="1870" as="geometry" />
-        </mxCell>
-        <mxCell id="98J_N4LjCtCZoOat_8bp-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;ID_GEST_TRS&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="550" y="2245" as="geometry" />
-        </mxCell>
-        <mxCell id="98J_N4LjCtCZoOat_8bp-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;ID_GEST_EXPO&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="550" y="1925" as="geometry" />
-        </mxCell>
-        <mxCell id="98J_N4LjCtCZoOat_8bp-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;NO_DMD&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="550" y="1580" as="geometry" />
-        </mxCell>
-        <mxCell id="98J_N4LjCtCZoOat_8bp-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;ID_GEST_EXPO&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="550" y="1985" as="geometry" />
         </mxCell>
         <mxCell id="98J_N4LjCtCZoOat_8bp-69" parent="1" style="whiteSpace=wrap;html=1;" value="tb_acceptation&lt;div&gt;(ID_BCR_TRS)&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="150" x="1040" y="2125" as="geometry" />
