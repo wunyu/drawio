@@ -402,7 +402,7 @@
           <mxGeometry height="30" width="60" x="240" y="307" as="geometry" />
         </mxCell>
         <mxCell id="joy4J5Q9jbU-j6AZ98Qk-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="relance manuellement&lt;div&gt;avec JIRA number&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="240" y="230.5" as="geometry" />
+          <mxGeometry height="30" width="60" x="240" y="232.5" as="geometry" />
         </mxCell>
         <mxCell id="joy4J5Q9jbU-j6AZ98Qk-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="relance manuellement" vertex="1">
           <mxGeometry height="30" width="60" x="230" y="382" as="geometry" />
