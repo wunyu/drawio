@@ -15,10 +15,10 @@
           <mxGeometry height="270" width="140" x="-1070" y="247" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="PROJECT CROCUS" vertex="1">
-          <mxGeometry height="310" width="1230" x="370" y="110" as="geometry" />
+          <mxGeometry height="480" width="1230" x="370" y="110" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="TB_RUN_TAG" vertex="1">
-          <mxGeometry height="160" width="140" x="420" y="195" as="geometry" />
+          <mxGeometry height="186" width="140" x="420" y="195" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-2" parent="QUzsFoNl6aFI_2ed8XXq-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="CD_PA" vertex="1">
           <mxGeometry height="26" width="140" y="26" as="geometry" />
@@ -32,8 +32,11 @@
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-105" parent="QUzsFoNl6aFI_2ed8XXq-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="STATUS : SUC, FAIL" vertex="1">
           <mxGeometry height="26" width="140" y="104" as="geometry" />
         </mxCell>
+        <mxCell id="DOhsEIRQmGDwiVjTRz9E-7" parent="QUzsFoNl6aFI_2ed8XXq-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="IS_PROD: True, False" vertex="1">
+          <mxGeometry height="26" width="140" y="130" as="geometry" />
+        </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-5" parent="QUzsFoNl6aFI_2ed8XXq-1" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="RUN_TAG" vertex="1">
-          <mxGeometry height="30" width="140" y="130" as="geometry" />
+          <mxGeometry height="30" width="140" y="156" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-7" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;RUN_TAG&lt;/span&gt; Format :&amp;nbsp;&lt;div&gt;(&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;version du code&lt;/font&gt; +&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt; &lt;font&gt;jira number&lt;/font&gt;&lt;/font&gt;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;- &lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;x.x.x_bxxx-Rx&lt;/font&gt;-&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;Jira-xxxx&lt;/font&gt;&lt;/b&gt; (par demande JIRA, recharge fichier)&amp;nbsp;&lt;/div&gt;&lt;div&gt;par ex : &lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;1.2.3_b123-R5&lt;/font&gt;-&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;JIRA-9876&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt; &lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;x.x.x_bxxx-Rx&lt;/font&gt;&lt;/b&gt; (evolution du code/model)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;par ex: &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 204), rgb(255, 255, 255));&quot;&gt;1.2.3_b123-R5&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="420" x="-70" y="-100" as="geometry" />
@@ -129,7 +132,7 @@
             <mxPoint x="772" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QUzsFoNl6aFI_2ed8XXq-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;- les donnees histo : RUN_TAG le plus recent par dtf_per_trt&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;- les donnees du mois : f&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144)); background-color: transparent;&quot;&gt;iltre sur RUN_TAG&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="QUzsFoNl6aFI_2ed8XXq-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;- les donnees histo : RUN_TAG le plus recent&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; quand is_prod = true par dtf_per_trt&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;- les donnees du mois : f&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144)); background-color: transparent;&quot;&gt;iltre sur RUN_TAG&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="370" x="740" y="290" as="geometry" />
         </mxCell>
         <mxCell id="QUzsFoNl6aFI_2ed8XXq-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Dataset Business&lt;/u&gt;" vertex="1">
@@ -395,7 +398,7 @@
         <mxCell id="cKu8MT6L8Fp_BZaxLZj7-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="verifier/fermer/reopen" vertex="1">
           <mxGeometry height="30" width="60" x="1926" y="382.5" as="geometry" />
         </mxCell>
-        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF3333;" value="est-ce qu&#39;on peut supprimer les donnees du meme run tag ?" vertex="1">
+        <mxCell id="cKu8MT6L8Fp_BZaxLZj7-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF3333;" value="est-ce qu&#39;on peut supprimer les donnees du meme run tag ? ok" vertex="1">
           <mxGeometry height="30" width="200" x="30" y="85" as="geometry" />
         </mxCell>
         <mxCell id="joy4J5Q9jbU-j6AZ98Qk-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="relance manuellement&lt;div&gt;avec JIRA number&lt;/div&gt;" vertex="1">
