@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0">
   <diagram name="Page-1" id="LKmGN3flTx39L14AyUor">
-    <mxGraphModel dx="3405" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3115" dy="131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,7 +191,7 @@
         <mxCell id="fQqHUxf8n4yJeMkCg6Pd-32" edge="1" parent="1" source="ji7oat9t6ZDJD498M_jr-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC6600;" target="fQqHUxf8n4yJeMkCg6Pd-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ji7oat9t6ZDJD498M_jr-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;spacingLeft=0;spacingBottom=0;spacingTop=8;verticalAlign=top;align=center;dashed=1;" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;&lt;span style=&quot;font-size: 13px; background-color: initial;&quot;&gt;Cloud &lt;/span&gt;&lt;span style=&quot;font-size: 13px; background-color: initial;&quot;&gt;Composer&lt;/span&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ji7oat9t6ZDJD498M_jr-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;spacingLeft=0;spacingBottom=0;spacingTop=8;verticalAlign=top;align=center;dashed=1;" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;u&gt;Manage Airflow&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="194" width="807.5" x="2002.5" y="1976" as="geometry" />
         </mxCell>
         <mxCell id="ji7oat9t6ZDJD498M_jr-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;align=left;spacing=2;" value="Confluent Cloud" vertex="1">
