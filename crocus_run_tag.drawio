@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="bEAYSmEDHXBXhFzCy1HB">
-    <mxGraphModel dx="3409" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3075" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,6 +448,12 @@
         </mxCell>
         <mxCell id="rzhG1iog7SnUviydnech-15" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Demande JIRA 2&lt;div&gt;(modification param)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="-850" y="346.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rzhG1iog7SnUviydnech-18" edge="1" parent="1" source="cKu8MT6L8Fp_BZaxLZj7-11" style="edgeStyle=none;endArrow=none;exitX=0;exitY=0;dashed=1;html=1;rounded=0;exitDx=430;exitDy=45;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rzhG1iog7SnUviydnech-15" value="">
+          <mxGeometry relative="1" x="1" as="geometry">
+            <mxPoint x="-880" y="180" as="sourcePoint" />
+            <mxPoint x="-830" y="395" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
