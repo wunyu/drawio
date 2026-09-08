@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0">
   <diagram name="Page-1" id="LKmGN3flTx39L14AyUor">
-    <mxGraphModel dx="2011" dy="-251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1709" dy="-389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -714,6 +714,18 @@
         </mxCell>
         <mxCell id="Tzk6DU-bD3mcnOo-xSLa-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="send email ano" vertex="1">
           <mxGeometry height="30" width="120" x="2802" y="2106" as="geometry" />
+        </mxCell>
+        <mxCell id="Tzk6DU-bD3mcnOo-xSLa-13" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC6600;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.907;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3369.51" y="1690.03" />
+              <mxPoint x="2880.03" y="1690.03" />
+              <mxPoint x="2880.03" y="1809.91" />
+              <mxPoint x="2459.69" y="1809.91" />
+            </Array>
+            <mxPoint x="3369.4849999999997" y="1661.2900000000002" as="sourcePoint" />
+            <mxPoint x="2459.725" y="2020.2" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
