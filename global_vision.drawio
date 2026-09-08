@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0">
   <diagram name="Page-1" id="LKmGN3flTx39L14AyUor">
-    <mxGraphModel dx="1470" dy="-389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2940" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,7 +177,7 @@
           <mxGeometry height="910" width="265" x="780" y="1280" as="geometry" />
         </mxCell>
         <mxCell id="ji7oat9t6ZDJD498M_jr-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="64" width="200" x="812.5" y="2090.41" as="geometry" />
+          <mxGeometry height="107.5" width="228.5" x="796.5" y="2046.91" as="geometry" />
         </mxCell>
         <mxCell id="ji7oat9t6ZDJD498M_jr-89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;arcSize=9;dashed=1;" value="&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;u&gt;BigQuery&lt;/u&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="312.57" width="320" x="2490" y="1458.83" as="geometry" />
@@ -537,22 +537,22 @@
         <mxCell id="ji7oat9t6ZDJD498M_jr-174" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;strokeColor=#CC6600;strokeWidth=3;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
             <Array as="points" />
-            <mxPoint x="892.5" y="2134.8199999999997" as="sourcePoint" />
-            <mxPoint x="992.5" y="2134.8199999999997" as="targetPoint" />
+            <mxPoint x="900" y="2087.7099999999996" as="sourcePoint" />
+            <mxPoint x="1000" y="2087.7099999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ji7oat9t6ZDJD498M_jr-175" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="crocus" vertex="1">
-          <mxGeometry height="30" width="60" x="822.5" y="2117.1299999999997" as="geometry" />
+          <mxGeometry height="30" width="60" x="821.5" y="2071" as="geometry" />
         </mxCell>
         <mxCell id="ji7oat9t6ZDJD498M_jr-176" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=3;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
             <Array as="points" />
-            <mxPoint x="892.5" y="2114.41" as="sourcePoint" />
-            <mxPoint x="992.5" y="2114.41" as="targetPoint" />
+            <mxPoint x="900" y="2062.8399999999997" as="sourcePoint" />
+            <mxPoint x="1000" y="2062.8399999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ji7oat9t6ZDJD498M_jr-177" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="kafka" vertex="1">
-          <mxGeometry height="30" width="50" x="824.5" y="2097.1299999999997" as="geometry" />
+          <mxGeometry height="30" width="50" x="826.5" y="2047.1299999999997" as="geometry" />
         </mxCell>
         <mxCell id="ji7oat9t6ZDJD498M_jr-182" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/clock-128.png" value="" vertex="1">
           <mxGeometry height="34.42" width="34.42" x="2737.58" y="1483.62" as="geometry" />
@@ -729,6 +729,26 @@
         </mxCell>
         <mxCell id="Tzk6DU-bD3mcnOo-xSLa-15" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="(posgresql.tb_expertise on previous month)" vertex="1">
           <mxGeometry height="30" width="250" x="2510" y="1805" as="geometry" />
+        </mxCell>
+        <mxCell id="Tzk6DU-bD3mcnOo-xSLa-21" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;strokeColor=#009900;strokeWidth=3;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="900" y="2111.71" as="sourcePoint" />
+            <mxPoint x="1000" y="2111.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tzk6DU-bD3mcnOo-xSLa-22" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="stellaire" vertex="1">
+          <mxGeometry height="30" width="60" x="821.5" y="2095" as="geometry" />
+        </mxCell>
+        <mxCell id="Tzk6DU-bD3mcnOo-xSLa-23" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;strokeColor=#FF3333;strokeWidth=3;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="900" y="2136.3" as="sourcePoint" />
+            <mxPoint x="1000" y="2136.3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tzk6DU-bD3mcnOo-xSLa-24" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="data exposure" vertex="1">
+          <mxGeometry height="30" width="100" x="801.5" y="2119.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
