@@ -727,6 +727,9 @@
             <mxPoint x="2459.725" y="2020.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Tzk6DU-bD3mcnOo-xSLa-15" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="(posgresql.tb_expertise)" vertex="1">
+          <mxGeometry height="30" width="150" x="2560" y="1805" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
