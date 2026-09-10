@@ -1557,7 +1557,7 @@
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-53" edge="1" parent="1" source="BJiUdUQ1EpHRZ_X_-bdZ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aqibMaWvFeB83bgvitCm-279">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="execute minor technical controls" vertex="1">
+        <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="execute non-blocking technical controls" vertex="1">
           <mxGeometry height="60" width="138" x="797" y="3496" as="geometry" />
         </mxCell>
         <mxCell id="BJiUdUQ1EpHRZ_X_-bdZ-55" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="" vertex="1">
