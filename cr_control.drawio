@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0">
   <diagram name="Page-1" id="yDdV9s6aI6VG-M1q0cFr">
-    <mxGraphModel dx="3870" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6075" dy="1950" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2317,6 +2317,24 @@
         </mxCell>
         <mxCell id="b1SbpsGWmCEVi9wX3X5x-3" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(95, 99, 104); font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;28,29,30,31 of month 07:00&lt;/span&gt;" vertex="1">
           <mxGeometry height="39" width="197" x="-1492.0041176470586" y="2644.0011764705882" as="geometry" />
+        </mxCell>
+        <mxCell id="C_5CR7_QAfA55d33RyYn-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#CC6600;dashed=1;" value="&lt;div&gt;for all raw table controls&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;type&quot;: &quot;all&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;cd_pa&quot; : [&quot;DE&quot;,&quot;BR&quot;,&quot;IT&quot;,&quot;ES&quot;,&quot;FR&quot;,&quot;GB&quot;,&quot;KR&quot;]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="375" x="-615" y="4349" as="geometry" />
+        </mxCell>
+        <mxCell id="C_5CR7_QAfA55d33RyYn-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#CC6600;dashed=1;" value="&lt;div&gt;for all refined tables controls&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;type&quot;: &quot;refined&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;cd_pa&quot; : [&quot;DE&quot;,&quot;BR&quot;,&quot;IT&quot;,&quot;ES&quot;,&quot;FR&quot;,&quot;GB&quot;,&quot;KR&quot;]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="375" x="-615" y="4428" as="geometry" />
+        </mxCell>
+        <mxCell id="C_5CR7_QAfA55d33RyYn-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#CC6600;dashed=1;" value="&lt;div&gt;for all ctl00 controls&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;type&quot;: &quot;ctl00&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;cd_pa&quot; : [&quot;DE&quot;,&quot;BR&quot;,&quot;IT&quot;,&quot;ES&quot;,&quot;FR&quot;,&quot;GB&quot;,&quot;KR&quot;]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="375" x="-615" y="4507.5" as="geometry" />
+        </mxCell>
+        <mxCell id="C_5CR7_QAfA55d33RyYn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#CC6600;dashed=1;" value="&lt;div&gt;for one ctl, by cd_pa and sys_apl&amp;nbsp;&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;type&quot;: &quot;single_ctl&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;id_ctl&quot;: &quot;PD00000022&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;cd_pa&quot;: [&quot;FR&quot;],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;sys_apl&quot;: [&quot;03&quot;]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
+          <mxGeometry height="105" width="375" x="-615" y="4592" as="geometry" />
+        </mxCell>
+        <mxCell id="C_5CR7_QAfA55d33RyYn-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#CC6600;dashed=1;" value="&lt;div&gt;for one control but for all cd_pa, all sys_apl&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;type&quot;: &quot;single_ctl&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;id_ctl&quot;: &quot;PD00000022&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
+          <mxGeometry height="89" width="375" x="-615" y="4703" as="geometry" />
+        </mxCell>
+        <mxCell id="C_5CR7_QAfA55d33RyYn-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#CC6600;dashed=1;" value="&lt;div&gt;for control on one raw table&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;type&quot;: &quot;one&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;cd_pa&quot;: &quot;DE&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;sys_apl&quot;: &quot;04&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;ty_ope_tba&quot;: &quot;00001729&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;dtf_per_trt&quot;: &quot;2025-08-31&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
+          <mxGeometry height="116" width="375" x="-615" y="4798" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
