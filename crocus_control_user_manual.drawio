@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="k2wYbNzCDx5W2Fc6kWbA">
-    <mxGraphModel dx="1172" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="OULrp1oOXf4oeG3S0F9F-12" edge="1" parent="1" source="OULrp1oOXf4oeG3S0F9F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OULrp1oOXf4oeG3S0F9F-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OULrp1oOXf4oeG3S0F9F-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="deploy branch on&lt;div&gt;dev/int/sta using pipeline&lt;/div&gt;" vertex="1">
+        <mxCell id="OULrp1oOXf4oeG3S0F9F-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="deploy new branch on&lt;div&gt;dev/int/sta using pipeline&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="166" x="307" y="265" as="geometry" />
         </mxCell>
         <mxCell id="OULrp1oOXf4oeG3S0F9F-26" edge="1" parent="1" source="OULrp1oOXf4oeG3S0F9F-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OULrp1oOXf4oeG3S0F9F-5">
@@ -43,7 +43,7 @@
         <mxCell id="OULrp1oOXf4oeG3S0F9F-28" edge="1" parent="1" source="OULrp1oOXf4oeG3S0F9F-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OULrp1oOXf4oeG3S0F9F-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OULrp1oOXf4oeG3S0F9F-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MR from feat branch to dev branch" vertex="1">
+        <mxCell id="OULrp1oOXf4oeG3S0F9F-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MR from new branch to dev branch" vertex="1">
           <mxGeometry height="30" width="120" x="480" y="590" as="geometry" />
         </mxCell>
         <mxCell id="OULrp1oOXf4oeG3S0F9F-14" edge="1" parent="1" source="OULrp1oOXf4oeG3S0F9F-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OULrp1oOXf4oeG3S0F9F-7">
@@ -63,7 +63,7 @@
             <mxPoint x="330" y="214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OULrp1oOXf4oeG3S0F9F-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="is validated by user ?" vertex="1">
+        <mxCell id="OULrp1oOXf4oeG3S0F9F-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f8cecc;strokeColor=#b85450;" value="is validated by user ?" vertex="1">
           <mxGeometry height="80" width="220" x="280" y="520" as="geometry" />
         </mxCell>
         <mxCell id="OULrp1oOXf4oeG3S0F9F-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="modication on new branch" vertex="1">
